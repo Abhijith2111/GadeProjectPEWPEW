@@ -1749,3 +1749,151 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-16.02.29:423][458]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2025.09.22-16.02.29:423][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.09.22-16.02.29:495][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.09.22-16.04.54:336][125]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 548.486389
+[2025.09.22-16.04.55:336][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.04.55:337][128]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 549.153442, Update Interval: 334.402893
+[2025.09.22-16.10.32:395][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 886.546387
+[2025.09.22-16.10.33:395][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.10.33:395][620]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 887.215576, Update Interval: 320.001221
+[2025.09.22-16.10.54:742][685]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.22-16.10.55:162][685]LogContentBundle: [Untitled_1(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.22-16.10.55:162][685]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2025.09.22-16.10.55:201][685]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 39.000 ms
+[2025.09.22-16.10.55:274][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.22-16.10.55:368][685]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.22-16.10.55:369][685]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.22-16.10.55:403][685]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.09.22-16.10.55:476][685]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.22-16.10.55:486][685]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 8.990 ms
+[2025.09.22-16.10.55:486][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083082s)
+[2025.09.22-16.10.55:486][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.089143s)
+[2025.09.22-16.10.55:517][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.22-16.10.55:551][685]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.09.22-16.10.55:553][685]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.22-16.10.55:553][685]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.22-16.10.55:553][685]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.22-16.10.55:553][685]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.22-16.10.55:563][685]LogWorldPartition: Display: WorldPartition initialize took 10.198 ms (total: 679.453 ms)
+[2025.09.22-16.10.55:570][685]LogPlayLevel: PIE: World Init took: (0.018932s)
+[2025.09.22-16.10.55:583][685]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.22-16.10.55:584][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.22-16.10.55:584][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.22-16.10.55:584][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.22-16.10.55:584][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.22-16.10.55:584][685]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.22-16.10.55:584][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.22-16.10.55:584][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.22-16.10.55:584][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.22-16.10.55:584][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.22-16.10.55:584][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.22-16.10.55:584][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.22-16.10.55:588][685]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.22-16.10.55:660][685]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3X Wireless)
+[2025.09.22-16.10.55:660][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.22-16.10.55:660][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.22-16.10.55:660][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.22-16.10.55:661][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.22-16.10.55:661][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.22-16.10.55:663][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.22-16.10.55:663][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.22-16.10.55:663][685]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.22-16.10.55:663][685]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2025.09.22-16.10.55:663][685]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.22-16.10.55:733][685]LogStreaming: Display: FlushAsyncLoading(678): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.22-16.10.55:817][685]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.22-16.10.55:828][685]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2025.09.22-18.10.55
+[2025.09.22-16.10.55:833][685]LogWorld: Bringing up level for play took: 0.006242
+[2025.09.22-16.10.55:838][685]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.09.22-16.10.57:231][685]LogTexture: Display: Waiting for textures to be ready 351/528 (/Memory/UEDPIE_0_Untitled_1_0VJLUKJ18N3EUFVSOX47W6ZA4_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/OK/SEAN2F64CHO3LDZ0AH36XQ) ...
+[2025.09.22-16.10.57:248][685]LogTexture: Display: Waiting for textures to be ready 359/528 (/Memory/UEDPIE_0_Untitled_1_8EYMR3X9456DBI2NTOQ4EZJ3N_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/2W/ANLD5XYRRTSZ6KDZ50Y9DT) ...
+[2025.09.22-16.10.57:264][685]LogTexture: Display: Waiting for textures to be ready 457/528 (/Memory/UEDPIE_0_Untitled_1_BAMPWXQRFWPMYFNQEZVPDLSQZ_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/DH/CGZKHGOFN0M7BUZD4OUIKT) ...
+[2025.09.22-16.10.57:280][685]LogTexture: Display: Waiting for textures to be ready 460/528 (/Memory/UEDPIE_0_Untitled_1_D45F8SVC1JW4BKGT05CABCQKM_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/1N/5TOBNLYN25C967WMQGLJ9P) ...
+[2025.09.22-16.10.57:363][685]LogTexture: Display: Waiting for textures to be ready 479/528 (/Memory/UEDPIE_0_Untitled_1_4LP9LN5KBYBO6Q0307XU45ISM_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/MI/8FR6U8QWRABNNBFVHWOAWB) ...
+[2025.09.22-16.10.57:379][685]LogTexture: Display: Waiting for textures to be ready 485/528 (/Memory/UEDPIE_0_Untitled_1_BRN0QBBI672UKB91VRLSDJ1Y7_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/MJ/0VP5T9S3Z20RD9I6IIKQWQ) ...
+[2025.09.22-16.10.57:522][685]PIE: Server logged in
+[2025.09.22-16.10.57:541][685]PIE: Play in editor total start time 2,426 seconds.
+[2025.09.22-16.10.58:062][685]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.22-16.11.49:333][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-16.11.49:333][390]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.09.22-16.11.49:341][390]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-16.11.49:342][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-16.11.49:342][390]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2025.09.22-16.11.49:359][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.22-16.11.49:379][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-16.11.49:433][390]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.22-16.11.49:433][390]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.22-16.11.49:433][390]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.09.22-16.11.49:436][390]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.09.22-16.11.49:445][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-16.11.49:462][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.22-16.11.49:600][391]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.09.22-16.12.33:109][587]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.22-16.12.33:122][587]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.22-16.12.33:146][588]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.22-16.12.35:919][728]LogContentBrowser: Attempting asset rename: NewFolder -> Models
+[2025.09.22-16.12.35:920][728]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.22-16.12.53:778][ 30]LogStreaming: Display: FlushAsyncLoading(723): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.22-16.12.53:840][ 30]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/robin/OneDrive/Desktop/Blender Projects/Assets/SCi-FI gun.fbx]
+[2025.09.22-16.13.22:127][ 30]LogEditCondition: Error: InterchangeGenericCommonMeshesProperties - EditCondition attempted to use an invalid operand "bBakeMeshes".
+[2025.09.22-16.14.03:010][ 30]LogSlate: Window 'Import Content' being destroyed
+[2025.09.22-16.14.03:044][ 30]LogInterchangeEngine: [Pending] Importing
+[2025.09.22-16.14.03:304][ 31]LogStreaming: Display: FlushAsyncLoading(730): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.22-16.14.03:407][ 32]LogStreaming: Display: FlushAsyncLoading(731): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.22-16.14.03:560][ 34]LogStreaming: Display: FlushAsyncLoading(732): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.22-16.14.03:802][ 36]LogStaticMesh: Display: Building static mesh SCI-Fi_gun (Required Memory Estimate: 0.831154 MB)...
+[2025.09.22-16.14.03:884][ 37]LogStaticMesh: Adjacency [0.00s], tris: 536, UVs 1
+[2025.09.22-16.14.03:896][ 37]LogStaticMesh: Clustering [0.01s]. Ratio: 1.600000
+[2025.09.22-16.14.03:919][ 38]LogStaticMesh: Leaves [0.02s]
+[2025.09.22-16.14.03:934][ 38]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.09.22-16.14.03:985][ 39]LogStaticMesh: Reduce [0.07s]
+[2025.09.22-16.14.04:058][ 39]LogStaticMesh: Fallback [0.06s], num tris: 484
+[2025.09.22-16.14.04:064][ 39]LogStaticMesh: Fallback [0.01s], num tris: 460
+[2025.09.22-16.14.04:090][ 39]LogStaticMesh: ConstrainClusters:
+[2025.09.22-16.14.04:090][ 39]LogStaticMesh:   Input: 14 Clusters, 1292 Triangles and 948 Vertices
+[2025.09.22-16.14.04:090][ 39]LogStaticMesh:   Output without splits: 14 Clusters, 1292 Triangles and 1034 Vertices
+[2025.09.22-16.14.04:090][ 39]LogStaticMesh:   Output with splits: 14 Clusters, 1292 Triangles and 1034 Vertices
+[2025.09.22-16.14.04:090][ 39]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 2, 2 Materials: 12, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.22-16.14.04:090][ 39]LogStaticMesh: WritePages:
+[2025.09.22-16.14.04:090][ 39]LogStaticMesh:   Root: GPU size: 14956 bytes. 1 Pages. 14956.000 bytes per page (45.642% utilization).
+[2025.09.22-16.14.04:090][ 39]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.22-16.14.04:090][ 39]LogStaticMesh:   Page data disk size: 11408 bytes. Fixup data size: 72 bytes.
+[2025.09.22-16.14.04:090][ 39]LogStaticMesh:   Total GPU size: 14956 bytes, Total disk size: 11480 bytes.
+[2025.09.22-16.14.04:090][ 39]LogStaticMesh: Encode [0.03s]
+[2025.09.22-16.14.04:090][ 39]LogStaticMesh: NaniteBuild [0.25s]
+[2025.09.22-16.14.04:258][ 40]LogStaticMesh: Built static mesh [0.46s] /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun
+[2025.09.22-16.14.04:840][ 50]LogPSOHitching: Encountered 300 PSO creation hitches so far (130 graphics, 170 compute). 0 of them were precached.
+[2025.09.22-16.14.05:310][ 50]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.09.22-16.14.05:310][ 50]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.09.22-16.14.05:353][ 50]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.09.22-16.14.05:406][ 51]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.09.22-16.14.05:406][ 51]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.09.22-16.14.05:441][ 51]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.09.22-16.14.05:770][ 52]LogPSOHitching: Encountered 350 PSO creation hitches so far (140 graphics, 210 compute). 0 of them were precached.
+[2025.09.22-16.14.06:033][ 63]LogMeshUtilities: Finished distance field build in 1.5s - 21x126x49 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 94% occupied, 0 triangles, SCI-Fi_gun
+[2025.09.22-16.14.15:117][476]LogInterchangeEngine: Display: Interchange import completed [C:/Users/robin/OneDr...nder Projects/Assets/SCi-FI gun.fbx]
+[2025.09.22-16.14.15:117][476]Interchange: Warning: [C:/Users/robin/OneDrive/Desktop/Blender Projects/Assets/SCi-FI gun.fbx : 'SCI-Fi_gun', StaticMesh] No smoothing group information was found for this mesh 'Cube' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.22-16.14.15:177][476]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.22-16.14.15:177][476]LogInterchangeEngine: [Success] Import Done
+[2025.09.22-16.14.17:564][573]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.09.22-16.14.17:597][573]LogMaterial: Display: Material /Game/POE_Part1/Models/Material.Material needed to have new flag set bUsedWithNanite !
+[2025.09.22-16.14.17:896][573]LogMaterial: Display: Material /Game/POE_Part1/Models/Light.Light needed to have new flag set bUsedWithNanite !
+[2025.09.22-16.14.28:002][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.09.22-16.14.28:007][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.086
+[2025.09.22-16.14.28:027][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/Models/Light] ([1] browsable assets)...
+[2025.09.22-16.14.28:040][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/POE_Part1/Models/Light.Light]
+[2025.09.22-16.14.28:040][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Light]
+[2025.09.22-16.14.28:168][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Models/Light_Auto1
+[2025.09.22-16.14.28:168][918]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Light_Auto1A86C9C604FC40C4BA7FBDFB160CCE2EC.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Models/Light_Auto1.uasset'
+[2025.09.22-16.14.28:199][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/Models/Material] ([1] browsable assets)...
+[2025.09.22-16.14.28:218][918]OBJ SavePackage:     Rendered thumbnail for [Material /Game/POE_Part1/Models/Material.Material]
+[2025.09.22-16.14.28:218][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Material]
+[2025.09.22-16.14.28:237][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Models/Material_Auto1
+[2025.09.22-16.14.28:237][918]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Material_Auto15CDF6F7B4F1817E2DFB87687E3613AB5.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Models/Material_Auto1.uasset'
+[2025.09.22-16.14.28:239][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/Models/SCI-Fi_gun] ([1] browsable assets)...
+[2025.09.22-16.14.28:254][918]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun]
+[2025.09.22-16.14.28:254][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/SCI-Fi_gun]
+[2025.09.22-16.14.28:303][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Models/SCI-Fi_gun_Auto1
+[2025.09.22-16.14.28:303][918]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/SCI-Fi_gun_Auto1D270D95745B7B883C145CEA770B4CC5C.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Models/SCI-Fi_gun_Auto1.uasset'
+[2025.09.22-16.14.28:305][918]LogFileHelpers: Auto-saving content packages took 0.291
