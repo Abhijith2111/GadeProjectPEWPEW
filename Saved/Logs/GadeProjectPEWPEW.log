@@ -1580,3 +1580,37 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.09.22-11.54.30:691][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Blueprints/WBP_HUD_Auto1
 [2025.09.22-11.54.30:691][492]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/WBP_HUD_Auto1189F1BED4CD73E1499DC908D4A62FEAB.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Blueprints/WBP_HUD_Auto1.uasset'
 [2025.09.22-11.54.30:692][492]LogFileHelpers: Auto-saving content packages took 0.054
+[2025.09.22-11.56.44:309][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.09.22-11.57.02:134][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.22-11.57.21:898][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.22-11.57.41:897][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.22-11.57.47:415][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.22-11.58.19:126][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.22-11.58.20:002][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-11.58.20:033][156]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.09.22-11.58.20:033][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.09.22-11.58.20:055][156]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/BP_FPS_Character
+[2025.09.22-11.58.20:055][156]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_Character8CAA53DE4D3372E46980E5AAF4B3B507.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_FPS_Character.uasset'
+[2025.09.22-11.58.20:066][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.373 ms (total: 619.133 ms)
+[2025.09.22-11.58.20:103][156]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.22-11.58.20:103][156]LogContentValidation: Enabled validators:
+[2025.09.22-11.58.20:103][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-11.58.20:103][156]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-11.58.20:103][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-11.58.20:103][156]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-11.58.20:103][156]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-11.58.20:103][156]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-11.58.20:103][156]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
+[2025.09.22-11.59.13:456][189]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6197.702148
+[2025.09.22-11.59.14:456][192]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-11.59.14:456][192]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6198.369141, Update Interval: 324.657745
+[2025.09.22-12.04.31:343][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.09.22-12.04.31:345][802]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base_Map' took 0.032
+[2025.09.22-12.04.31:346][802]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.09.22-12.04.31:346][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.09.22-12.04.31:361][802]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Blueprints/BP_FPS_Character_Auto2
+[2025.09.22-12.04.31:362][802]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_Character_Auto2A01641F548C2DE8B392C3B9970F81B6C.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Blueprints/BP_FPS_Character_Auto2.uasset'
+[2025.09.22-12.04.31:363][802]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.09.22-12.05.29:623][977]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6573.842285
+[2025.09.22-12.05.30:956][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-12.05.30:956][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6574.842285, Update Interval: 355.958740
