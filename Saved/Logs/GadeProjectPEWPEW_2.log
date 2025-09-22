@@ -1897,3 +1897,926 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-16.14.28:303][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Models/SCI-Fi_gun_Auto1
 [2025.09.22-16.14.28:303][918]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/SCI-Fi_gun_Auto1D270D95745B7B883C145CEA770B4CC5C.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Models/SCI-Fi_gun_Auto1.uasset'
 [2025.09.22-16.14.28:305][918]LogFileHelpers: Auto-saving content packages took 0.291
+[2025.09.22-16.15.44:560][167]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.22-16.15.44:611][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun
+[2025.09.22-16.15.44:622][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun
+[2025.09.22-16.15.44:624][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_0
+[2025.09.22-16.15.44:713][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.09.22-16.15.44:715][167]LogEditorActor: Deleted 0 Actors (0.045 secs)
+[2025.09.22-16.15.44:743][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun
+[2025.09.22-16.15.44:743][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun
+[2025.09.22-16.15.44:753][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_047C16A682A87C9102_1289642439
+[2025.09.22-16.15.59:497][836]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1213.646973
+[2025.09.22-16.15.59:830][851]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.15.59:831][851]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1213.962280, Update Interval: 348.291870
+[2025.09.22-16.16.09:064][279]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.22-16.16.09:084][279]LogContentBundle: [Untitled_1(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.22-16.16.09:084][279]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2025.09.22-16.16.09:114][279]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 29.487 ms (total: 68.488 ms)
+[2025.09.22-16.16.09:115][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.22-16.16.09:115][279]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.09.22-16.16.09:151][279]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.22-16.16.09:157][279]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.698 ms (total: 14.689 ms)
+[2025.09.22-16.16.09:158][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043096s)
+[2025.09.22-16.16.09:158][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.043180s)
+[2025.09.22-16.16.09:188][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.22-16.16.09:190][279]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.09.22-16.16.09:194][279]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.22-16.16.09:194][279]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.22-16.16.09:194][279]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.22-16.16.09:194][279]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.22-16.16.09:204][279]LogWorldPartition: Display: WorldPartition initialize took 10.868 ms (total: 690.322 ms)
+[2025.09.22-16.16.09:205][279]LogPlayLevel: PIE: World Init took: (0.014338s)
+[2025.09.22-16.16.09:206][279]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.22-16.16.09:206][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.22-16.16.09:206][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.22-16.16.09:206][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.22-16.16.09:206][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.22-16.16.09:206][279]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.22-16.16.09:206][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.22-16.16.09:206][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.22-16.16.09:206][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.22-16.16.09:206][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.22-16.16.09:206][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.22-16.16.09:206][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.22-16.16.09:210][279]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.22-16.16.09:270][279]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3X Wireless)
+[2025.09.22-16.16.09:270][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.22-16.16.09:270][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.22-16.16.09:270][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.22-16.16.09:271][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.22-16.16.09:271][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.22-16.16.09:275][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.22-16.16.09:275][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.22-16.16.09:275][279]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.22-16.16.09:275][279]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_1'.
+[2025.09.22-16.16.09:275][279]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.22-16.16.09:280][279]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.22-16.16.09:282][279]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2025.09.22-18.16.09
+[2025.09.22-16.16.09:283][279]LogWorld: Bringing up level for play took: 0.002460
+[2025.09.22-16.16.09:286][279]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.09.22-16.16.09:295][279]LogStreaming: Display: FlushAsyncLoading(775,774,773,772,771,770,769,768,767,766,765,764,763,762,761,760,759,758,757,756,755,754,753,752,751,750,749,748,747,746,745,744,743,742,741,740,739,738,737,736,735,734,733): 43 QueuedPackages, 0 AsyncPackages
+[2025.09.22-16.16.09:531][279]PIE: Server logged in
+[2025.09.22-16.16.09:533][279]PIE: Play in editor total start time 0,449 seconds.
+[2025.09.22-16.16.09:671][280]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.22-16.16.28:351][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-16.16.28:351][204]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.09.22-16.16.28:366][204]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-16.16.28:366][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-16.16.28:366][204]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2025.09.22-16.16.28:369][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.22-16.16.28:373][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-16.16.28:414][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-16.16.28:415][204]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.22-16.16.28:415][204]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.09.22-16.16.28:418][204]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.09.22-16.16.28:435][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.09.22-16.16.28:544][205]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.09.22-16.16.45:948][971]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_047C16A682A87C9102_1289642439.StaticMeshComponent0.
+[2025.09.22-16.16.46:985][ 20]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_047C16A682A87C9102_1289642439.StaticMeshComponent0.
+[2025.09.22-16.16.49:604][140]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.22-16.16.49:621][140]LogContentBundle: [Untitled_1(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.22-16.16.49:621][140]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2025.09.22-16.16.49:628][140]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 7.386 ms (total: 75.875 ms)
+[2025.09.22-16.16.49:629][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.22-16.16.49:629][140]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.09.22-16.16.49:665][140]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.22-16.16.49:671][140]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.481 ms (total: 21.171 ms)
+[2025.09.22-16.16.49:672][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043115s)
+[2025.09.22-16.16.49:673][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.043180s)
+[2025.09.22-16.16.49:709][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.09.22-16.16.49:712][140]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.09.22-16.16.49:714][140]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.22-16.16.49:714][140]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.22-16.16.49:714][140]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.22-16.16.49:714][140]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.22-16.16.49:727][140]LogWorldPartition: Display: WorldPartition initialize took 12.181 ms (total: 702.503 ms)
+[2025.09.22-16.16.49:727][140]LogPlayLevel: PIE: World Init took: (0.014903s)
+[2025.09.22-16.16.49:728][140]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.22-16.16.49:728][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.22-16.16.49:728][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.22-16.16.49:728][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.22-16.16.49:728][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.22-16.16.49:728][140]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.22-16.16.49:728][140]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.22-16.16.49:728][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.22-16.16.49:728][140]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.22-16.16.49:728][140]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.22-16.16.49:728][140]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.22-16.16.49:728][140]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.22-16.16.49:731][140]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.22-16.16.49:800][140]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3X Wireless)
+[2025.09.22-16.16.49:801][140]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.22-16.16.49:801][140]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.22-16.16.49:801][140]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.22-16.16.49:801][140]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.22-16.16.49:801][140]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.22-16.16.49:805][140]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.22-16.16.49:805][140]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.22-16.16.49:805][140]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.22-16.16.49:805][140]LogAudio: Display: Audio Device (ID: 4) registered with world 'Untitled_1'.
+[2025.09.22-16.16.49:805][140]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.22-16.16.49:810][140]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.22-16.16.49:812][140]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2025.09.22-18.16.49
+[2025.09.22-16.16.49:813][140]LogWorld: Bringing up level for play took: 0.002354
+[2025.09.22-16.16.49:816][140]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.09.22-16.16.49:826][140]LogStreaming: Display: FlushAsyncLoading(820,819,818,817,816,815,814,813,812,811,810,809,808,807,806,805,804,803,802,801,800,799,798,797,796,795,794,793,792,791,790,789,788,787,786,785,784,783,782,781,780,779,778): 43 QueuedPackages, 0 AsyncPackages
+[2025.09.22-16.16.50:116][140]PIE: Server logged in
+[2025.09.22-16.16.50:119][140]PIE: Play in editor total start time 0,498 seconds.
+[2025.09.22-16.16.50:281][141]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.22-16.17.02:752][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-16.17.02:752][741]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.09.22-16.17.02:779][741]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-16.17.02:779][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-16.17.02:779][741]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2025.09.22-16.17.02:783][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.22-16.17.02:790][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-16.17.02:839][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-16.17.02:839][741]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.22-16.17.02:839][741]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.09.22-16.17.02:844][741]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.09.22-16.17.02:863][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.22-16.17.02:978][742]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: ================================================
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Total job queries 2 709, among them cache hits 125 (4.61%), DDC hits 1 825 (67.37%), Duplicates 735 (27.13%)
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Tracking 1 849 distinct input hashes that result in 1 160 distinct outputs (62.74%)
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: RAM used: 11,91 MiB of 1,60 GiB budget. Usage: 0.73%
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Shaders Compiled: 24
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Average time worker was idle: 1.05 s
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Time job spent in pending queue: average 1.13 s, longest 5.54 s
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Job execution time: average 5.23 s, max 10.90 s
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Job life time (pending + execution): average 6.36 s, max 11.02
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Shader code size: total 296,094 KiB, numShaders 24, average 12,337 KiB, min 4,375 KiB, max 19,336 KiB
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.13 s
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.85%
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Average processing rate: 1.08 jobs/sec
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Total thread time: 80,207 s
+[2025.09.22-16.17.03:077][744]LogShaderCompilers: Display: Total thread preprocess time: 76,592 s
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display: Percentage time preprocessing: 95.49%
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display: Effective parallelization: 3.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.362401
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 5.61 sec, max 6.75 sec, min 4.46 sec)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 5.46 sec, max 6.20 sec, min 4.72 sec)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 5.41 sec, max 5.44 sec, min 5.38 sec)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 3.67 sec, max 4.82 sec, min 2.22 sec)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 3.45 sec, max 5.09 sec, min 2.03 sec)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.49% of total time (compiled    5 times, average 3.45 sec, max 5.09 sec, min 2.03 sec)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 18.32% of total time (compiled    4 times, average 3.67 sec, max 4.82 sec, min 2.22 sec)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 13.99% of total time (compiled    2 times, average 5.61 sec, max 6.75 sec, min 4.46 sec)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 13.61% of total time (compiled    2 times, average 5.46 sec, max 6.20 sec, min 4.72 sec)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display:                                                 FLumenCardCS - 13.50% of total time (compiled    2 times, average 5.41 sec, max 5.44 sec, min 5.38 sec)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display: === Material stats ===
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display: Materials Translated:    150
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display: Material Total Translate Time: 0.90 s
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display: Material Translation Only: 0.41 s (46%)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.09.22-16.17.03:078][744]LogShaderCompilers: Display: ================================================
+[2025.09.22-16.17.06:481][900]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_047C16A682A87C9102_1289642439.StaticMeshComponent0.
+[2025.09.22-16.17.09:223][ 24]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_047C16A682A87C9102_1289642439.StaticMeshComponent0.
+[2025.09.22-16.17.19:660][438]Cmd: DELETE
+[2025.09.22-16.17.19:660][438]Cmd: ACTOR DELETE
+[2025.09.22-16.17.19:931][438]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.22-16.17.19:967][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.09.22-16.17.19:970][438]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2025.09.22-16.17.43:018][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.09.22-16.17.46:461][507]LogSlate: Window 'Save Content' being destroyed
+[2025.09.22-16.17.46:487][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-16.17.51:059][507]LogSlate: Window 'Save Level As' being destroyed
+[2025.09.22-16.17.51:300][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.22-16.17.51:385][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.09.22-16.17.51:429][507]LogSavePackage: Moving output files for package: /Game/Untitled
+[2025.09.22-16.17.51:429][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/UntitledFA2D563C409CA9ED0671BE86AD5A5FA3.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/Untitled.umap'
+[2025.09.22-16.17.51:477][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-16.17.51:563][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.22-16.17.51:611][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.22-16.17.51:653][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.22-16.17.51:657][507]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Untitled_HLOD0_Instancing] ([1] browsable assets)...
+[2025.09.22-16.17.51:657][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/Untitled_HLOD0_Instancing]
+[2025.09.22-16.17.51:657][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_HLOD0_Instancing" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/Untitled_HLOD0_Instancing.uasset" SILENT=true
+[2025.09.22-16.17.51:672][507]LogSavePackage: Moving output files for package: /Game/Untitled_HLOD0_Instancing
+[2025.09.22-16.17.51:672][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Untitled_HLOD0_InstancingFE4D1DC44180C5002D360EB5B0826F78.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/Untitled_HLOD0_Instancing.uasset'
+[2025.09.22-16.17.51:690][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF
+[2025.09.22-16.17.51:691][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/0LAVFHBFPQHWQIE58DO5WF2C27B24646E40586A0DDBC800FAB4212.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset'
+[2025.09.22-16.17.51:706][507]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C
+[2025.09.22-16.17.51:706][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/B285Y38RMUAD5X0BOB317C6149A24248F13DDFB3138E96AD0C7C33.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C.uasset'
+[2025.09.22-16.17.51:723][507]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H
+[2025.09.22-16.17.51:723][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/IY4PEMN9UZYDE7BEBHFW5HD617D3E0471E0F470D25F089777D3CAD.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H.uasset'
+[2025.09.22-16.17.51:738][507]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59
+[2025.09.22-16.17.51:738][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/R3LGPWB6PMS7IVCUS30K599C7267EB481DB92FCA861E8A2C681636.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59.uasset'
+[2025.09.22-16.17.51:755][507]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/8/MK/U2AR470CV8I49WKHE35892
+[2025.09.22-16.17.51:755][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/U2AR470CV8I49WKHE358920D91644C4137F72A7937E08CC7D35682.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalObjects__/Untitled/8/MK/U2AR470CV8I49WKHE35892.uasset'
+[2025.09.22-16.17.51:772][507]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG
+[2025.09.22-16.17.51:772][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/VW6BB6ON1O5P9P6D4TNIKG4DB7368F46DB5A13AD42F3921DDBE0BB.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG.uasset'
+[2025.09.22-16.17.51:787][507]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/A/3B/C169NY21IYHWNPNC5K8H2X
+[2025.09.22-16.17.51:787][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/C169NY21IYHWNPNC5K8H2XC97F444142750B9934C972B5C8B31DB7.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalObjects__/Untitled/A/3B/C169NY21IYHWNPNC5K8H2X.uasset'
+[2025.09.22-16.17.51:933][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86
+[2025.09.22-16.17.51:933][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/2KM5RW3RB8MQTC5Z5QAP868C76DC8F41A00B108CA9D49EFD5A2CE9.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86.uasset'
+[2025.09.22-16.17.51:951][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/U3/F9ZCV1ZQZIEFW41ASA7N1E
+[2025.09.22-16.17.51:951][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/F9ZCV1ZQZIEFW41ASA7N1E88469695415D05CAAC2D7CB2CFFF9BBD.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/U3/F9ZCV1ZQZIEFW41ASA7N1E.uasset'
+[2025.09.22-16.17.51:966][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO
+[2025.09.22-16.17.51:966][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/ZK9VQR5UXVP37810TVO5YO0551207543E8C3E96C6962B7E3BD37BA.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO.uasset'
+[2025.09.22-16.17.51:983][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K
+[2025.09.22-16.17.51:983][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Y18E0V91UKJME7Q2OB3P5K543C9ED0492C2B4606F6F196498921D8.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K.uasset'
+[2025.09.22-16.17.51:999][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/C1/HS6V3BNZ7H6AKPXHPEX1M7
+[2025.09.22-16.17.51:999][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/HS6V3BNZ7H6AKPXHPEX1M7499F9D154A9E75B3C6E53E9AB429568B.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/C1/HS6V3BNZ7H6AKPXHPEX1M7.uasset'
+[2025.09.22-16.17.52:013][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/YK/K6UPO231BY2JGT7QL36BEO
+[2025.09.22-16.17.52:014][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/K6UPO231BY2JGT7QL36BEO95972D6E418B8A23F039B49D21F43DC0.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/0/YK/K6UPO231BY2JGT7QL36BEO.uasset'
+[2025.09.22-16.17.52:030][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW
+[2025.09.22-16.17.52:030][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/0GCTIMNEBVF8AOXPOXOJMW481E4BFE442F12947AA3D3B75B5E900C.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW.uasset'
+[2025.09.22-16.18.00:537][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF
+[2025.09.22-16.18.00:537][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/B2JMGSH9XFZI7GT8M36JMFC73A5DC54151373368FD68928647AD8D.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF.uasset'
+[2025.09.22-16.18.00:550][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ
+[2025.09.22-16.18.00:550][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/1KGJYU8K12XHN6XNLSYMBQD48D19654FF091CDA7781F817D0DCBBD.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ.uasset'
+[2025.09.22-16.18.00:612][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/SW/W8795T2GDG12XXM5U16N9I
+[2025.09.22-16.18.00:612][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/W8795T2GDG12XXM5U16N9ID47B0EF340B6CAA78D8E11ABC85AE1D6.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/SW/W8795T2GDG12XXM5U16N9I.uasset'
+[2025.09.22-16.18.00:636][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/6P/TZTEGS7BV2V5AXK97N4747
+[2025.09.22-16.18.00:636][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/TZTEGS7BV2V5AXK97N4747364EC9D545B75E9387EC2F9E22D143CE.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/5/6P/TZTEGS7BV2V5AXK97N4747.uasset'
+[2025.09.22-16.18.00:676][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/39/H32T5U1Q8KNHDYD5J4ES73
+[2025.09.22-16.18.00:676][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/H32T5U1Q8KNHDYD5J4ES733E11EE3749CDDE3A0501849EB9BD66FA.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/39/H32T5U1Q8KNHDYD5J4ES73.uasset'
+[2025.09.22-16.18.00:705][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/KE/OIGRKUBFQ7K03JW0AYCTV5
+[2025.09.22-16.18.00:705][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/OIGRKUBFQ7K03JW0AYCTV5C91E250E40318FCEBB8A6898CE78AAE6.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/6/KE/OIGRKUBFQ7K03JW0AYCTV5.uasset'
+[2025.09.22-16.18.00:735][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/88/91A6XDDNFM52BRAOQB9C7N
+[2025.09.22-16.18.00:735][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/91A6XDDNFM52BRAOQB9C7N0ADF542E4CA63C5371B869A273443AB9.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/88/91A6XDDNFM52BRAOQB9C7N.uasset'
+[2025.09.22-16.18.00:764][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/IV/F2UCV3PMQVPC9OA6Y0XXG3
+[2025.09.22-16.18.00:764][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/F2UCV3PMQVPC9OA6Y0XXG3EDFE61024C97BA1D0BE19E99DF46E06A.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/A/IV/F2UCV3PMQVPC9OA6Y0XXG3.uasset'
+[2025.09.22-16.18.00:795][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/03/C9M91X2IU3VSISEPAAR2J6
+[2025.09.22-16.18.00:795][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/C9M91X2IU3VSISEPAAR2J6FF745A324A081299C1A87A808BC59E21.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/3/03/C9M91X2IU3VSISEPAAR2J6.uasset'
+[2025.09.22-16.18.00:832][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/3B/TMAFS2SESKUD4KOAG2NJ49
+[2025.09.22-16.18.00:832][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/TMAFS2SESKUD4KOAG2NJ498C4B6C8644CCA76F914E25B5B8C61804.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/B/3B/TMAFS2SESKUD4KOAG2NJ49.uasset'
+[2025.09.22-16.18.00:900][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/YO/RTR8JDENQERG3GOYNFL652
+[2025.09.22-16.18.00:900][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/RTR8JDENQERG3GOYNFL65274F136444DA98E42C0DA4788C3CF5ED3.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/5/YO/RTR8JDENQERG3GOYNFL652.uasset'
+[2025.09.22-16.18.00:944][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/IV/H0MMTUZ996JY5Z931CM553
+[2025.09.22-16.18.00:944][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/H0MMTUZ996JY5Z931CM553F89876AF4C13F3C78DD3F49C8EBB7B60.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/8/IV/H0MMTUZ996JY5Z931CM553.uasset'
+[2025.09.22-16.18.00:975][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/8Y/SDDUZVFBIE0MB1SKJOTUE0
+[2025.09.22-16.18.00:975][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/SDDUZVFBIE0MB1SKJOTUE029BA6BFC4A9A3F0F0A898D9316C49BDD.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/0/8Y/SDDUZVFBIE0MB1SKJOTUE0.uasset'
+[2025.09.22-16.18.01:022][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/GQ/Z1GJ8KGAV56S5I7H40160C
+[2025.09.22-16.18.01:022][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Z1GJ8KGAV56S5I7H40160C59B03FCA4F97EB87C8576CA9D8407DBB.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/A/GQ/Z1GJ8KGAV56S5I7H40160C.uasset'
+[2025.09.22-16.18.01:060][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/DG/S0UKF9OUZ4ZHKU3LHS4676
+[2025.09.22-16.18.01:060][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/S0UKF9OUZ4ZHKU3LHS4676BCC859C44CEF0A2D854572A011CCBF85.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/4/DG/S0UKF9OUZ4ZHKU3LHS4676.uasset'
+[2025.09.22-16.18.01:103][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/TV/GKOPEC6UIIHJ9LBXKLD7UM
+[2025.09.22-16.18.01:103][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/GKOPEC6UIIHJ9LBXKLD7UM5908CE704C39C56C71D3A886989F1DC2.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/4/TV/GKOPEC6UIIHJ9LBXKLD7UM.uasset'
+[2025.09.22-16.18.01:135][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/5C/V2OCRSLOSFHUS6S9LPDM10
+[2025.09.22-16.18.01:136][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/V2OCRSLOSFHUS6S9LPDM103D0A1FFE4355E0B6784BF2B260E2FB3D.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/3/5C/V2OCRSLOSFHUS6S9LPDM10.uasset'
+[2025.09.22-16.18.01:168][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/AL/EUPIOBVK6UMCF23HOCCEU3
+[2025.09.22-16.18.01:168][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/EUPIOBVK6UMCF23HOCCEU3E877961F41F3BF8C48A10B83C44F7CFB.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/6/AL/EUPIOBVK6UMCF23HOCCEU3.uasset'
+[2025.09.22-16.18.01:216][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/P9/Y5TXGWIE2U6BVSRHM3CBRL
+[2025.09.22-16.18.01:216][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Y5TXGWIE2U6BVSRHM3CBRLB7DB388C4493D56A362E0B81B5E634B2.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/5/P9/Y5TXGWIE2U6BVSRHM3CBRL.uasset'
+[2025.09.22-16.18.01:243][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/NM/BA3WQIS9O921IEUJ5HLEG5
+[2025.09.22-16.18.01:243][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/BA3WQIS9O921IEUJ5HLEG5ABA219A24677803425F2B9A42010B935.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/NM/BA3WQIS9O921IEUJ5HLEG5.uasset'
+[2025.09.22-16.18.01:272][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/26/ZBUFF8X49WNUB8XW4T6JOF
+[2025.09.22-16.18.01:272][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/ZBUFF8X49WNUB8XW4T6JOF92E6C61E4609A4345F65E891EBBF509B.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/C/26/ZBUFF8X49WNUB8XW4T6JOF.uasset'
+[2025.09.22-16.18.01:303][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/PT/I1CXE7YA8N7EOIF6S2LUNU
+[2025.09.22-16.18.01:303][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/I1CXE7YA8N7EOIF6S2LUNUB1B8F5C4420AD7BED4F97CA2F7BF8ACA.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/5/PT/I1CXE7YA8N7EOIF6S2LUNU.uasset'
+[2025.09.22-16.18.01:332][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/8L/3CODS11OI75V0WX0JS91GF
+[2025.09.22-16.18.01:332][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/3CODS11OI75V0WX0JS91GF93D45909474EE32600FC9080BE59C848.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/C/8L/3CODS11OI75V0WX0JS91GF.uasset'
+[2025.09.22-16.18.01:365][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/2F/4YJUFZ5EQ0DYYJ7YPLLALQ
+[2025.09.22-16.18.01:365][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/4YJUFZ5EQ0DYYJ7YPLLALQC609EC034C5D336C1324A29EA4A822A9.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/6/2F/4YJUFZ5EQ0DYYJ7YPLLALQ.uasset'
+[2025.09.22-16.18.01:394][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/78/NR4DRMJJN85GU6E9FTRA0C
+[2025.09.22-16.18.01:394][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/NR4DRMJJN85GU6E9FTRA0CF23A58E44084AD4DA56434ACA9F547CE.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/6/78/NR4DRMJJN85GU6E9FTRA0C.uasset'
+[2025.09.22-16.18.01:436][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/1Y/LOC77QZ3MD1ZFKG90D5EP3
+[2025.09.22-16.18.01:436][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/LOC77QZ3MD1ZFKG90D5EP3307EE1104E571A7B4B636294A18C84E6.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/1Y/LOC77QZ3MD1ZFKG90D5EP3.uasset'
+[2025.09.22-16.18.01:476][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/BA/QUO0AEFJ38VWG80ZC1OF80
+[2025.09.22-16.18.01:476][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/QUO0AEFJ38VWG80ZC1OF8084CE2F6446E27D90E88205B11D85F92B.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/BA/QUO0AEFJ38VWG80ZC1OF80.uasset'
+[2025.09.22-16.18.01:531][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/1R/M0B50OLRXLIM0AHT0NV3LE
+[2025.09.22-16.18.01:531][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/M0B50OLRXLIM0AHT0NV3LE841637F049D4BB321FDDD1857D35F82F.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/1R/M0B50OLRXLIM0AHT0NV3LE.uasset'
+[2025.09.22-16.18.01:564][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/UL/FCX003UHDFE1XFF1UYEKB8
+[2025.09.22-16.18.01:564][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/FCX003UHDFE1XFF1UYEKB869018057479566C3CE76808931BFFE7A.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/C/UL/FCX003UHDFE1XFF1UYEKB8.uasset'
+[2025.09.22-16.18.01:597][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/JP/PRDWJX5HHWIFD0T7RJ6OUB
+[2025.09.22-16.18.01:597][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/PRDWJX5HHWIFD0T7RJ6OUB5791F5EB459C53F6126DAB8A31C5F714.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/B/JP/PRDWJX5HHWIFD0T7RJ6OUB.uasset'
+[2025.09.22-16.18.01:631][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/KM/6LU1RLRCO82PA3M8IZWHFG
+[2025.09.22-16.18.01:631][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/6LU1RLRCO82PA3M8IZWHFGA1C07CD240045D880B2E4A91723E81D1.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/E/KM/6LU1RLRCO82PA3M8IZWHFG.uasset'
+[2025.09.22-16.18.01:675][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/3W/Q0EVUK3U5XPDZDNHKTBSLP
+[2025.09.22-16.18.01:675][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Q0EVUK3U5XPDZDNHKTBSLPB27EE74140C4ED781F0ACF8F6FA0F5CA.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/3/3W/Q0EVUK3U5XPDZDNHKTBSLP.uasset'
+[2025.09.22-16.18.01:716][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/F1/MDBU119X329MP1N6H3D543
+[2025.09.22-16.18.01:716][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/MDBU119X329MP1N6H3D543EA524CAA421AD5B551AAFEB9D058A9E4.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/E/F1/MDBU119X329MP1N6H3D543.uasset'
+[2025.09.22-16.18.01:765][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/78/J445VYKJUTLNEBUTN5JFSX
+[2025.09.22-16.18.01:766][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/J445VYKJUTLNEBUTN5JFSXE1DB71904CCA7E103A1435825CF5887B.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/8/78/J445VYKJUTLNEBUTN5JFSX.uasset'
+[2025.09.22-16.18.01:836][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/BQ/9DT5QPLF7KD6YB8VPR7LE1
+[2025.09.22-16.18.01:836][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/9DT5QPLF7KD6YB8VPR7LE14253E863417C16D774A7078916B311ED.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/9/BQ/9DT5QPLF7KD6YB8VPR7LE1.uasset'
+[2025.09.22-16.18.01:904][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/MU/LNHD27GINT2578B3TZYQRM
+[2025.09.22-16.18.01:904][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/LNHD27GINT2578B3TZYQRMA94196A24F15028D871E218C5E72F945.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/E/MU/LNHD27GINT2578B3TZYQRM.uasset'
+[2025.09.22-16.18.01:981][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/XC/PTON9ZHKVA2YYM6OQVKGB2
+[2025.09.22-16.18.01:981][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/PTON9ZHKVA2YYM6OQVKGB2A21FCF744ADE5BCBC0A312A5F7498115.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/5/XC/PTON9ZHKVA2YYM6OQVKGB2.uasset'
+[2025.09.22-16.18.02:034][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/2A/3SH27DERCHJSHZDQM19U56
+[2025.09.22-16.18.02:034][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/3SH27DERCHJSHZDQM19U56463B6A444D9FB4D9E0789E94DB47BE89.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/7/2A/3SH27DERCHJSHZDQM19U56.uasset'
+[2025.09.22-16.18.02:102][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/FS/YFTU31AIP02GLV9QYB3OAQ
+[2025.09.22-16.18.02:102][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/YFTU31AIP02GLV9QYB3OAQ4E7FF345461CB8AFBF7C59B3A02ADCCA.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/2/FS/YFTU31AIP02GLV9QYB3OAQ.uasset'
+[2025.09.22-16.18.02:161][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/SV/A9DJ5UP9TCM1HX8LNL9YMB
+[2025.09.22-16.18.02:161][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/A9DJ5UP9TCM1HX8LNL9YMB791701DF42803455FAFD83B763B0F541.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/3/SV/A9DJ5UP9TCM1HX8LNL9YMB.uasset'
+[2025.09.22-16.18.02:221][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/YI/ZJ11KYNNPW461PLOWQD26D
+[2025.09.22-16.18.02:221][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/ZJ11KYNNPW461PLOWQD26DF14F0DC148A2C2B1699EE1841770C80D.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/5/YI/ZJ11KYNNPW461PLOWQD26D.uasset'
+[2025.09.22-16.18.02:274][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/KG/P4FT47HC1MCSOGH2WSE38M
+[2025.09.22-16.18.02:274][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/P4FT47HC1MCSOGH2WSE38MB189700642932E87892637BE8CECAA1C.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/8/KG/P4FT47HC1MCSOGH2WSE38M.uasset'
+[2025.09.22-16.18.02:324][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/UU/T0ZQNCIJWLLSMBV45U9UNS
+[2025.09.22-16.18.02:325][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/T0ZQNCIJWLLSMBV45U9UNS62C41F534519F7773B05B6AD45D5E266.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/7/UU/T0ZQNCIJWLLSMBV45U9UNS.uasset'
+[2025.09.22-16.18.02:369][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/19/N0FO3VW9PMSIQGODLR8OHK
+[2025.09.22-16.18.02:369][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/N0FO3VW9PMSIQGODLR8OHKD484619541D60ACD9D8700BB55B46F5E.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/B/19/N0FO3VW9PMSIQGODLR8OHK.uasset'
+[2025.09.22-16.18.02:418][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/X9/T0P80E587PN0FI1P1SY900
+[2025.09.22-16.18.02:418][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/T0P80E587PN0FI1P1SY9005ED1F0A24F03E5199A4D0BB97F50E7B7.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/X9/T0P80E587PN0FI1P1SY900.uasset'
+[2025.09.22-16.18.02:469][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/KO/HBTFQ946P5JEK2VINSXFF6
+[2025.09.22-16.18.02:469][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/HBTFQ946P5JEK2VINSXFF6263B085E41F61A704C1FE5B7BE8310C6.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/7/KO/HBTFQ946P5JEK2VINSXFF6.uasset'
+[2025.09.22-16.18.02:506][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/ZR/BS9RFRC48BZCNCJGUFIL41
+[2025.09.22-16.18.02:506][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/BS9RFRC48BZCNCJGUFIL41AC3DE74D494C0E78974809A05DAA0234.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/ZR/BS9RFRC48BZCNCJGUFIL41.uasset'
+[2025.09.22-16.18.02:543][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/SI/X9FK3ZHPHSO5EQPDKGIUR6
+[2025.09.22-16.18.02:543][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/X9FK3ZHPHSO5EQPDKGIUR67D95B1F14EC522FE3FC1C0868952D08A.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/8/SI/X9FK3ZHPHSO5EQPDKGIUR6.uasset'
+[2025.09.22-16.18.02:585][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/AP/1KJ2KRD4PP3Z0SLYN7WFIE
+[2025.09.22-16.18.02:585][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/1KJ2KRD4PP3Z0SLYN7WFIE8433C6954FB421FE5C1D518EF1543A0B.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/3/AP/1KJ2KRD4PP3Z0SLYN7WFIE.uasset'
+[2025.09.22-16.18.02:620][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/TD/9EBCA33K4RSQN59I5SZIQH
+[2025.09.22-16.18.02:620][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/9EBCA33K4RSQN59I5SZIQH935CB06D49E769950F5F9C87CC0EAB52.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/2/TD/9EBCA33K4RSQN59I5SZIQH.uasset'
+[2025.09.22-16.18.02:677][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/AY/1YG3IP1RLO5CDOBVQ0W0RA
+[2025.09.22-16.18.02:678][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/1YG3IP1RLO5CDOBVQ0W0RAFCC177F3467F53863C018589E33FFF21.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/AY/1YG3IP1RLO5CDOBVQ0W0RA.uasset'
+[2025.09.22-16.18.02:716][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/PU/4DA3AUPUZMAQWTIQT205ZY
+[2025.09.22-16.18.02:716][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/4DA3AUPUZMAQWTIQT205ZYCBB59534430B2D7D2C7CB689B819BE8A.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/PU/4DA3AUPUZMAQWTIQT205ZY.uasset'
+[2025.09.22-16.18.02:758][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/WJ/7L5OB0P2MOJN0JVT0IO388
+[2025.09.22-16.18.02:758][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/7L5OB0P2MOJN0JVT0IO388B85FA43D4B70717549262E998B519DD2.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/WJ/7L5OB0P2MOJN0JVT0IO388.uasset'
+[2025.09.22-16.18.02:798][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/Y5/82VFC1UWWA110XOOEJ158E
+[2025.09.22-16.18.02:798][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/82VFC1UWWA110XOOEJ158ECA3A327C49F6F30F13D70CB0F2399122.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/9/Y5/82VFC1UWWA110XOOEJ158E.uasset'
+[2025.09.22-16.18.02:840][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/YZ/YX06X250S5OVC9ACDIZ2EJ
+[2025.09.22-16.18.02:840][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/YX06X250S5OVC9ACDIZ2EJ010068C0433D85F3D9023A988E347F69.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/A/YZ/YX06X250S5OVC9ACDIZ2EJ.uasset'
+[2025.09.22-16.18.02:877][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/BE/ZFTWYVA2AW3K7IZGVNFI9L
+[2025.09.22-16.18.02:877][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/ZFTWYVA2AW3K7IZGVNFI9LBBE297624A828D63AB6CB9BEE505691D.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/9/BE/ZFTWYVA2AW3K7IZGVNFI9L.uasset'
+[2025.09.22-16.18.02:911][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/FB/UZK8LGMDWLF7LHM5AQVVMX
+[2025.09.22-16.18.02:912][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/UZK8LGMDWLF7LHM5AQVVMX950DD65644536C93D7624AAB818C1880.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/FB/UZK8LGMDWLF7LHM5AQVVMX.uasset'
+[2025.09.22-16.18.02:948][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/AG/KECGBPL7YSM95LL88MMB8I
+[2025.09.22-16.18.02:948][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/KECGBPL7YSM95LL88MMB8I0B0882C5454FFDEB4C964B94054BF71D.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/A/AG/KECGBPL7YSM95LL88MMB8I.uasset'
+[2025.09.22-16.18.02:980][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/AX/XID5TZXXMZIHV596JMGTU7
+[2025.09.22-16.18.02:980][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/XID5TZXXMZIHV596JMGTU763AB650B468D7F6AD1140996E3A19BEA.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/3/AX/XID5TZXXMZIHV596JMGTU7.uasset'
+[2025.09.22-16.18.03:015][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/E8/7OERKV5DBN9AKH9OGFA22L
+[2025.09.22-16.18.03:015][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/7OERKV5DBN9AKH9OGFA22L901C089E4CE6072FAD7A02AB56C68240.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/E8/7OERKV5DBN9AKH9OGFA22L.uasset'
+[2025.09.22-16.18.03:082][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/RC/KUGNOG85HLKEE7Q39VX85T
+[2025.09.22-16.18.03:082][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/KUGNOG85HLKEE7Q39VX85TDE2F4D034C9F407489F560854ED0F610.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/8/RC/KUGNOG85HLKEE7Q39VX85T.uasset'
+[2025.09.22-16.18.03:141][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/WU/6N24LSH1JBQH6WL2ATPWE1
+[2025.09.22-16.18.03:141][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/6N24LSH1JBQH6WL2ATPWE17AF18D494B40EEA6B778BBB1FEAF6719.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/6/WU/6N24LSH1JBQH6WL2ATPWE1.uasset'
+[2025.09.22-16.18.03:176][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/K0/21YIO1N87PSV94GJ48ZOX7
+[2025.09.22-16.18.03:176][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/21YIO1N87PSV94GJ48ZOX7852AD75C4AAC9CE0A87A9A9C99C9D817.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/9/K0/21YIO1N87PSV94GJ48ZOX7.uasset'
+[2025.09.22-16.18.03:220][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/DW/8L46K1WD89YDHPA4PA1YQO
+[2025.09.22-16.18.03:220][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/8L46K1WD89YDHPA4PA1YQOC3AB687F4660FBADBD4AED9F6F0388A9.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/A/DW/8L46K1WD89YDHPA4PA1YQO.uasset'
+[2025.09.22-16.18.03:268][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/LO/2L34HDZPM4CJROKPRLKZ5E
+[2025.09.22-16.18.03:268][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/2L34HDZPM4CJROKPRLKZ5E920F5B694B02AEFAD9BB13845BF06713.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/3/LO/2L34HDZPM4CJROKPRLKZ5E.uasset'
+[2025.09.22-16.18.03:313][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/44/XDORVWH31K9O5U948J6UPN
+[2025.09.22-16.18.03:313][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/XDORVWH31K9O5U948J6UPN74D349FD4EEA5C3F057BD4A322E121EF.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/9/44/XDORVWH31K9O5U948J6UPN.uasset'
+[2025.09.22-16.18.03:330][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/9L/EOQQBNIX06TRZ5JKHNXS6H
+[2025.09.22-16.18.03:330][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/EOQQBNIX06TRZ5JKHNXS6H8AD40BAF4185018BE155959ED427E48C.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/2/9L/EOQQBNIX06TRZ5JKHNXS6H.uasset'
+[2025.09.22-16.18.03:347][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/VH/UKHYJQL74V2MP5LKZYHH11
+[2025.09.22-16.18.03:347][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/UKHYJQL74V2MP5LKZYHH11D0AB3D904D4A6676FC3B67854B3AA663.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/7/VH/UKHYJQL74V2MP5LKZYHH11.uasset'
+[2025.09.22-16.18.03:363][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/UM/B5BRDG8V1RJL3TWM4HR0OJ
+[2025.09.22-16.18.03:363][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/B5BRDG8V1RJL3TWM4HR0OJD22660204F8EA79A8D660DBB9F9BBA66.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/4/UM/B5BRDG8V1RJL3TWM4HR0OJ.uasset'
+[2025.09.22-16.18.03:379][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/VA/5H66W3HWF2PTGWEWXIG0XI
+[2025.09.22-16.18.03:379][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/5H66W3HWF2PTGWEWXIG0XID6BF0BCA4E34F4D125BB2FBB148E3F41.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/C/VA/5H66W3HWF2PTGWEWXIG0XI.uasset'
+[2025.09.22-16.18.03:396][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/HE/6XMYFGC6A8NS1PR1SOBI7D
+[2025.09.22-16.18.03:396][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/6XMYFGC6A8NS1PR1SOBI7DE70D6D65425D3B4D7C8E0B930C8058C5.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/B/HE/6XMYFGC6A8NS1PR1SOBI7D.uasset'
+[2025.09.22-16.18.03:415][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/JZ/TVNAEBT2XB4FBCJVHSWPJG
+[2025.09.22-16.18.03:415][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/TVNAEBT2XB4FBCJVHSWPJGCFAB6321490D732D9F2F4F8C91D639E1.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/JZ/TVNAEBT2XB4FBCJVHSWPJG.uasset'
+[2025.09.22-16.18.03:432][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/4O/6JQEC7C7J07T44BN9XRKKB
+[2025.09.22-16.18.03:432][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/6JQEC7C7J07T44BN9XRKKB66A0B39A466B958901AC7399F68D0A10.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/8/4O/6JQEC7C7J07T44BN9XRKKB.uasset'
+[2025.09.22-16.18.03:450][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/TZ/H7X8SJH9IRNM65SZGY3GOB
+[2025.09.22-16.18.03:450][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/H7X8SJH9IRNM65SZGY3GOB599A4BB64D106739219D66A5D2D1AAEF.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/A/TZ/H7X8SJH9IRNM65SZGY3GOB.uasset'
+[2025.09.22-16.18.03:468][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/YA/AK1XLDR5V9IUUYHS9LT826
+[2025.09.22-16.18.03:468][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/AK1XLDR5V9IUUYHS9LT826F5FD5B1A4A63686CF9443FB6A82DF87F.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/A/YA/AK1XLDR5V9IUUYHS9LT826.uasset'
+[2025.09.22-16.18.03:487][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/1Y/5H7RHZCAR91A9DL66DYQZ1
+[2025.09.22-16.18.03:487][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/5H7RHZCAR91A9DL66DYQZ1BCB83D7647D9E53002B51F884BD18DC5.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/C/1Y/5H7RHZCAR91A9DL66DYQZ1.uasset'
+[2025.09.22-16.18.03:505][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/S4/QQGZ7DAJCRY5GXHVDJWZ63
+[2025.09.22-16.18.03:505][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/QQGZ7DAJCRY5GXHVDJWZ6390D8F01542B7E2E4395A3DB5A662464B.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/4/S4/QQGZ7DAJCRY5GXHVDJWZ63.uasset'
+[2025.09.22-16.18.03:537][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/BC/U8A7EELOY8P7KI64DKFYDH
+[2025.09.22-16.18.03:538][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/U8A7EELOY8P7KI64DKFYDHC24EC6CB484664538F91D9B7CC5B9812.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/0/BC/U8A7EELOY8P7KI64DKFYDH.uasset'
+[2025.09.22-16.18.03:555][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/R8/U69SAKGZ8JYPM3OB6EX0QD
+[2025.09.22-16.18.03:555][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/U69SAKGZ8JYPM3OB6EX0QDF5F6F725428E5A4112CA4F9DD857C8AE.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/C/R8/U69SAKGZ8JYPM3OB6EX0QD.uasset'
+[2025.09.22-16.18.03:578][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/II/4DHYLSBPUFMH473Q8O9S2B
+[2025.09.22-16.18.03:578][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/4DHYLSBPUFMH473Q8O9S2BC5F2BAD1422B11AA00582EB9CAA4A46D.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/A/II/4DHYLSBPUFMH473Q8O9S2B.uasset'
+[2025.09.22-16.18.03:597][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/ZP/X3NZJS0FIHM08ZXW8E8NQU
+[2025.09.22-16.18.03:597][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/X3NZJS0FIHM08ZXW8E8NQUD811E75243A9F00F6EAB4D9BCEC97F4B.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/ZP/X3NZJS0FIHM08ZXW8E8NQU.uasset'
+[2025.09.22-16.18.03:616][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/4A/ABY732A12WGV65UUF87JLR
+[2025.09.22-16.18.03:616][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/ABY732A12WGV65UUF87JLR3C7A1D7F416FE361FD4BED90562992E6.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/4A/ABY732A12WGV65UUF87JLR.uasset'
+[2025.09.22-16.18.03:633][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/T6/JZ5OSIKWQ7NAUADHTIMLAW
+[2025.09.22-16.18.03:634][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/JZ5OSIKWQ7NAUADHTIMLAW3792BFD64CA25180DAFE92A41DC624FC.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/6/T6/JZ5OSIKWQ7NAUADHTIMLAW.uasset'
+[2025.09.22-16.18.03:650][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/KQ/2XH64GEWX5DX4PBIMSZNI2
+[2025.09.22-16.18.03:650][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/2XH64GEWX5DX4PBIMSZNI26D41953F43508FE477284AA491E085A6.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/A/KQ/2XH64GEWX5DX4PBIMSZNI2.uasset'
+[2025.09.22-16.18.03:668][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/S6/LDLY18TSK27TZFUDPMCEW5
+[2025.09.22-16.18.03:668][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/LDLY18TSK27TZFUDPMCEW5181C1DD8405CE255D819E480BA895C6D.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/C/S6/LDLY18TSK27TZFUDPMCEW5.uasset'
+[2025.09.22-16.18.03:688][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/4P/W7D96E3DYPPMYMJWHCHJ59
+[2025.09.22-16.18.03:688][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/W7D96E3DYPPMYMJWHCHJ591A631D4B49A0FE82E68609842235803A.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/2/4P/W7D96E3DYPPMYMJWHCHJ59.uasset'
+[2025.09.22-16.18.03:707][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/UN/91AWBJM8S09UURPMEJNTUG
+[2025.09.22-16.18.03:707][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/91AWBJM8S09UURPMEJNTUG79395AF445FD51AF4A847FB2575BFD3F.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/5/UN/91AWBJM8S09UURPMEJNTUG.uasset'
+[2025.09.22-16.18.03:736][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/ZL/BO205AVTF1H51WLJULZKDE
+[2025.09.22-16.18.03:737][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/BO205AVTF1H51WLJULZKDE7FF5B3CE477CD122C6CB169EE4FCE8BB.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/7/ZL/BO205AVTF1H51WLJULZKDE.uasset'
+[2025.09.22-16.18.03:766][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/4P/FVZCFAHYN261SLBGVKYLQ2
+[2025.09.22-16.18.03:766][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/FVZCFAHYN261SLBGVKYLQ257E89974483F8ACACBF8D7BF08C15846.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/0/4P/FVZCFAHYN261SLBGVKYLQ2.uasset'
+[2025.09.22-16.18.03:784][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/MF/T2KIT9WWA5O7U7KOOMME36
+[2025.09.22-16.18.03:784][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/T2KIT9WWA5O7U7KOOMME36F78CE45E4DF2FDB097A963A66CB417D9.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/C/MF/T2KIT9WWA5O7U7KOOMME36.uasset'
+[2025.09.22-16.18.03:801][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/L8/XEWYHE4USPJO8RYIZ048VS
+[2025.09.22-16.18.03:801][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/XEWYHE4USPJO8RYIZ048VS2691C5E440C14D5E11764283E5F64357.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/9/L8/XEWYHE4USPJO8RYIZ048VS.uasset'
+[2025.09.22-16.18.03:818][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/8H/YI6CESF0ABS9YDUZ2U1YG8
+[2025.09.22-16.18.03:818][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/YI6CESF0ABS9YDUZ2U1YG89C7BC1F84BC17AEAE0D8739DD698D29F.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/E/8H/YI6CESF0ABS9YDUZ2U1YG8.uasset'
+[2025.09.22-16.18.03:841][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/WJ/HOOYUZ3RW2QWE5BEYDM11G
+[2025.09.22-16.18.03:842][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/HOOYUZ3RW2QWE5BEYDM11G598ECD77443B3040CF788EB9F84C1434.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/2/WJ/HOOYUZ3RW2QWE5BEYDM11G.uasset'
+[2025.09.22-16.18.03:857][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/GA/EWFQW0H0JLO8BKRI7U64K2
+[2025.09.22-16.18.03:857][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/EWFQW0H0JLO8BKRI7U64K2C31FAAB243B09CCA727070922C39B5A5.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/9/GA/EWFQW0H0JLO8BKRI7U64K2.uasset'
+[2025.09.22-16.18.03:874][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/IA/99IPYCIBP4EO70G7NCXO6D
+[2025.09.22-16.18.03:874][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/99IPYCIBP4EO70G7NCXO6DD1ED4F064EB311398594AF93EAC3AC66.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/4/IA/99IPYCIBP4EO70G7NCXO6D.uasset'
+[2025.09.22-16.18.03:891][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/SM/8F2B8YK2YY1FSYJ4CDD1LZ
+[2025.09.22-16.18.03:891][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/8F2B8YK2YY1FSYJ4CDD1LZ4A2D96C04990730E5B8E4CAC09388987.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/7/SM/8F2B8YK2YY1FSYJ4CDD1LZ.uasset'
+[2025.09.22-16.18.03:918][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/6B/A90KN4PDF9BYSQDRPALM93
+[2025.09.22-16.18.03:918][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/A90KN4PDF9BYSQDRPALM930ACBFCF9490C7BA8485B49B832265CA3.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/6B/A90KN4PDF9BYSQDRPALM93.uasset'
+[2025.09.22-16.18.03:936][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/AC/HOVTEE68G7VAJSFOUK370Q
+[2025.09.22-16.18.03:936][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/HOVTEE68G7VAJSFOUK370QBBCB8AAE4F58B13FE131188013CFDD6E.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/0/AC/HOVTEE68G7VAJSFOUK370Q.uasset'
+[2025.09.22-16.18.03:955][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/RS/WMTOUKEV8K3FHUM25G8BWJ
+[2025.09.22-16.18.03:955][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/WMTOUKEV8K3FHUM25G8BWJC48F9B2C4A20371C8191CCB386627EBF.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/4/RS/WMTOUKEV8K3FHUM25G8BWJ.uasset'
+[2025.09.22-16.18.03:975][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/EI/4QOQXMV1Z7RA8SARUL0Y9E
+[2025.09.22-16.18.03:975][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/4QOQXMV1Z7RA8SARUL0Y9E1D4987784EDE3E79C24576A02B77770A.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/EI/4QOQXMV1Z7RA8SARUL0Y9E.uasset'
+[2025.09.22-16.18.03:993][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/UV/743850F9OQFI148N0HVRR0
+[2025.09.22-16.18.03:993][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/743850F9OQFI148N0HVRR07EE725794B287D2C1F165FB700EC7E87.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/6/UV/743850F9OQFI148N0HVRR0.uasset'
+[2025.09.22-16.18.04:009][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/JR/96V7FEXIDQ6YRE9WCXTO3L
+[2025.09.22-16.18.04:009][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/96V7FEXIDQ6YRE9WCXTO3L7568D35B4D557C102C2696B702A71AFB.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/0/JR/96V7FEXIDQ6YRE9WCXTO3L.uasset'
+[2025.09.22-16.18.04:027][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/31/YMWLVZUS39SZKKP6EY3D02
+[2025.09.22-16.18.04:028][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/YMWLVZUS39SZKKP6EY3D027CCB4B84442DAF3B9CAB7A9E29DEB02E.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/31/YMWLVZUS39SZKKP6EY3D02.uasset'
+[2025.09.22-16.18.04:044][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/JV/7908X05DEKYVMHZDGVEVFX
+[2025.09.22-16.18.04:044][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/7908X05DEKYVMHZDGVEVFXA3517A03475D989B56C2D3AF82A90318.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/9/JV/7908X05DEKYVMHZDGVEVFX.uasset'
+[2025.09.22-16.18.04:060][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/BT/16KZACDPXTP4Z8S5D4BZ0W
+[2025.09.22-16.18.04:060][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/16KZACDPXTP4Z8S5D4BZ0W19E31B474EB18DDD310AB386922565BD.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/B/BT/16KZACDPXTP4Z8S5D4BZ0W.uasset'
+[2025.09.22-16.18.04:076][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/X9/8ASSQYJI2TVL4NB03GHN2Y
+[2025.09.22-16.18.04:076][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/8ASSQYJI2TVL4NB03GHN2Y3550382046EAA2AEB4D176B57117BA4F.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/C/X9/8ASSQYJI2TVL4NB03GHN2Y.uasset'
+[2025.09.22-16.18.04:092][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/UC/84I1258OPSKDPG5SEL0985
+[2025.09.22-16.18.04:092][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/84I1258OPSKDPG5SEL0985DE0005C34880036C02D081AE134AD8D3.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/UC/84I1258OPSKDPG5SEL0985.uasset'
+[2025.09.22-16.18.04:109][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/QI/A0ZTV8S9W9Y0PRY5NNQJKU
+[2025.09.22-16.18.04:110][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/A0ZTV8S9W9Y0PRY5NNQJKU8F05489148DBD71F908AF6B341652947.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/QI/A0ZTV8S9W9Y0PRY5NNQJKU.uasset'
+[2025.09.22-16.18.04:132][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/8Y/PEVY7T6FU8CAR13QMRYRHH
+[2025.09.22-16.18.04:132][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/PEVY7T6FU8CAR13QMRYRHH3D70CD4541855DA0447CFBBE349BCAE5.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/3/8Y/PEVY7T6FU8CAR13QMRYRHH.uasset'
+[2025.09.22-16.18.04:147][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/PM/UNP76Q21SVMI272RXI3AGK
+[2025.09.22-16.18.04:148][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/UNP76Q21SVMI272RXI3AGKB794EEC640893A1CE1BD608707762B02.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/2/PM/UNP76Q21SVMI272RXI3AGK.uasset'
+[2025.09.22-16.18.04:164][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/ER/5M1849BTWZ388ZXQKPK7AB
+[2025.09.22-16.18.04:164][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/5M1849BTWZ388ZXQKPK7ABA821647C4E3DF19D3BF87D8D2FC34087.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/8/ER/5M1849BTWZ388ZXQKPK7AB.uasset'
+[2025.09.22-16.18.04:182][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/95/8WUYYCMXX15BI3ANA0HQL2
+[2025.09.22-16.18.04:182][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/8WUYYCMXX15BI3ANA0HQL23ED7AF784C976B6F11C21E8836ED81C7.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/0/95/8WUYYCMXX15BI3ANA0HQL2.uasset'
+[2025.09.22-16.18.04:199][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/4F/HHY9CLN6GWOEY7MEKH8DDK
+[2025.09.22-16.18.04:199][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/HHY9CLN6GWOEY7MEKH8DDK6CD7EF33419F7C72F3299184B9E6DD89.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/4F/HHY9CLN6GWOEY7MEKH8DDK.uasset'
+[2025.09.22-16.18.04:215][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/15/9YKH8L8Z5C0IIMN27KK2VZ
+[2025.09.22-16.18.04:216][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/9YKH8L8Z5C0IIMN27KK2VZ34D10C5F4E52860B37B809A6A01EB562.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/8/15/9YKH8L8Z5C0IIMN27KK2VZ.uasset'
+[2025.09.22-16.18.04:241][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/N3/83YOOR0H2EPQ81F5LWFO38
+[2025.09.22-16.18.04:241][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/83YOOR0H2EPQ81F5LWFO38F23B68AD4A564ADA6EB86BA6F925EBF0.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/N3/83YOOR0H2EPQ81F5LWFO38.uasset'
+[2025.09.22-16.18.04:264][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/IX/QB4R3CRHV6SQ401B0EBGID
+[2025.09.22-16.18.04:264][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/QB4R3CRHV6SQ401B0EBGID53A10E874FC65582A4B5D09071916B56.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/4/IX/QB4R3CRHV6SQ401B0EBGID.uasset'
+[2025.09.22-16.18.04:286][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/KQ/CUA374J9FP9AFFTXJ7T5ZP
+[2025.09.22-16.18.04:286][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/CUA374J9FP9AFFTXJ7T5ZP6D6FA8964BB79FE24FC56595E8D4BBFA.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/9/KQ/CUA374J9FP9AFFTXJ7T5ZP.uasset'
+[2025.09.22-16.18.04:307][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/4X/GN0XA8QGIIL4B5QHYDFPY9
+[2025.09.22-16.18.04:308][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/GN0XA8QGIIL4B5QHYDFPY9574EE78140731E5DB3CD3EB7FF0E6EAC.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/D/4X/GN0XA8QGIIL4B5QHYDFPY9.uasset'
+[2025.09.22-16.18.04:338][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/B5/9L52R62XVE5E9BH06KPJKH
+[2025.09.22-16.18.04:338][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/9L52R62XVE5E9BH06KPJKH38EB13364A2F5B70363866BC67E5B725.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/2/B5/9L52R62XVE5E9BH06KPJKH.uasset'
+[2025.09.22-16.18.04:356][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/LB/DFA9VVD121ROTY5NBEC13Y
+[2025.09.22-16.18.04:356][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/DFA9VVD121ROTY5NBEC13Y10C4A16046DA57C60D5A318AFEA33625.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/3/LB/DFA9VVD121ROTY5NBEC13Y.uasset'
+[2025.09.22-16.18.04:374][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/FE/YB3M9P5BEKTAG0L64PFTJ3
+[2025.09.22-16.18.04:374][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/YB3M9P5BEKTAG0L64PFTJ3E715818C44A9AD2729E576B54F3CCAE8.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/7/FE/YB3M9P5BEKTAG0L64PFTJ3.uasset'
+[2025.09.22-16.18.04:394][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/02/IJ8HC1RVA6VSYU9C7T2FX4
+[2025.09.22-16.18.04:394][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/IJ8HC1RVA6VSYU9C7T2FX4E173C356418BCADD956AD6B412CA4D45.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/5/02/IJ8HC1RVA6VSYU9C7T2FX4.uasset'
+[2025.09.22-16.18.04:420][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/OF/9WTLWT7YQX2L3Q3TAT0130
+[2025.09.22-16.18.04:421][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/9WTLWT7YQX2L3Q3TAT0130E1C4010B4EFEBA65E767B89CE809F12A.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/8/OF/9WTLWT7YQX2L3Q3TAT0130.uasset'
+[2025.09.22-16.18.04:447][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/16/BFWQBLV6I27BBRHR1PJOLX
+[2025.09.22-16.18.04:448][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/BFWQBLV6I27BBRHR1PJOLX6548A1054BA3C22A04427F84166D269B.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/1/16/BFWQBLV6I27BBRHR1PJOLX.uasset'
+[2025.09.22-16.18.04:479][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/MO/TAQEW1E1C82JUFXW9HST5I
+[2025.09.22-16.18.04:479][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/TAQEW1E1C82JUFXW9HST5I6DB69717481264CD19D6C7A3FEFCFEFA.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/2/MO/TAQEW1E1C82JUFXW9HST5I.uasset'
+[2025.09.22-16.18.04:498][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/AK/MAPJMW9NWYWC79NT2QNDDW
+[2025.09.22-16.18.04:498][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/MAPJMW9NWYWC79NT2QNDDWE0EFEECA4081579935F76D85D70854F1.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/3/AK/MAPJMW9NWYWC79NT2QNDDW.uasset'
+[2025.09.22-16.18.04:519][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/MA/NHJ192PDCQXCXQ2HQBMY8K
+[2025.09.22-16.18.04:519][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/NHJ192PDCQXCXQ2HQBMY8KF5ECA9404ACB1BBF6E9977B52253E15B.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/9/MA/NHJ192PDCQXCXQ2HQBMY8K.uasset'
+[2025.09.22-16.18.04:540][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/GX/L3LD2P7KMUNO4QPHEMBTVD
+[2025.09.22-16.18.04:541][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/L3LD2P7KMUNO4QPHEMBTVD4D22C60643CEF36CAD978E8C0B69640B.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/8/GX/L3LD2P7KMUNO4QPHEMBTVD.uasset'
+[2025.09.22-16.18.04:565][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/7W/JK8UCU1PU2ABZQP90FEX7I
+[2025.09.22-16.18.04:565][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/JK8UCU1PU2ABZQP90FEX7IB8DB72CC4CEAA9EC8C0C9D9F2EB0BA7E.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/2/7W/JK8UCU1PU2ABZQP90FEX7I.uasset'
+[2025.09.22-16.18.04:587][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/2Y/OJWKRQAOOT0OHBWZTOW73R
+[2025.09.22-16.18.04:587][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/OJWKRQAOOT0OHBWZTOW73R448953F743F20D297B84B7A13D12C3AC.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/__ExternalActors__/Untitled/E/2Y/OJWKRQAOOT0OHBWZTOW73R.uasset'
+[2025.09.22-16.18.04:597][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.1 sec
+[2025.09.22-16.18.04:619][507]LogFileHelpers: Saving map 'Untitled' took 13.540
+[2025.09.22-16.18.04:620][507]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Models/Light] ([1] browsable assets)...
+[2025.09.22-16.18.04:620][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Light]
+[2025.09.22-16.18.04:620][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Models/Light" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Light.uasset" SILENT=true
+[2025.09.22-16.18.04:638][507]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Light
+[2025.09.22-16.18.04:638][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Light6FE4E60E4402E72257A196BC70ECC723.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Light.uasset'
+[2025.09.22-16.18.04:641][507]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Models/Material] ([1] browsable assets)...
+[2025.09.22-16.18.04:641][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Material]
+[2025.09.22-16.18.04:641][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Models/Material" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Material.uasset" SILENT=true
+[2025.09.22-16.18.04:655][507]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Material
+[2025.09.22-16.18.04:655][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/MaterialE569192B4AAB1E3BA2029EBBF6EFCD47.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Material.uasset'
+[2025.09.22-16.18.04:658][507]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Models/SCI-Fi_gun] ([1] browsable assets)...
+[2025.09.22-16.18.04:658][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/SCI-Fi_gun]
+[2025.09.22-16.18.04:658][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Models/SCI-Fi_gun" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/SCI-Fi_gun.uasset" SILENT=true
+[2025.09.22-16.18.04:673][507]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/SCI-Fi_gun
+[2025.09.22-16.18.04:673][507]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/SCI-Fi_gun19C1B5154C07DE9E330F8C8D80ABF7A9.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/SCI-Fi_gun.uasset'
+[2025.09.22-16.18.04:791][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.3 sec (total: 31.4 sec)
+[2025.09.22-16.18.04:791][507]LogStreaming: Display: FlushAsyncLoading(821): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.22-16.18.04:847][507]LogStaticMesh: Display: Building static mesh SM_Template_Map_Floor (Required Memory Estimate: 0.159396 MB)...
+[2025.09.22-16.18.04:847][507]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.22-16.18.04:850][507]LogStaticMesh: Built static mesh [0.00s] /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2025.09.22-16.18.04:851][507]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Base_Map.Base_Map
+[2025.09.22-16.18.04:851][507]Cmd: MAP LOAD FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/Base_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.22-16.18.04:898][507]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-16.18.04:899][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-16.18.04:899][507]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Untitled.Untitled
+[2025.09.22-16.18.04:949][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.22-16.18.04:970][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.09.22-16.18.05:389][507]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-16.18.05:389][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-16.18.05:427][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.09.22-16.18.05:516][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.22-16.18.05:521][507]LogAudio: Display: Audio Device (ID: 1) registered with world 'Base_Map'.
+[2025.09.22-16.18.05:522][507]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.22-16.18.05:678][507]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.22-16.18.05:718][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.09.22-16.18.05:727][507]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.22-16.18.05:728][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,082ms to complete.
+[2025.09.22-16.18.05:960][507]LogContentValidation: Display: Starting to validate 149 assets
+[2025.09.22-16.18.05:960][507]LogContentValidation: Enabled validators:
+[2025.09.22-16.18.05:960][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-16.18.05:960][507]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-16.18.05:960][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-16.18.05:960][507]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-16.18.05:960][507]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-16.18.05:960][507]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-16.18.05:961][507]AssetCheck: /Game/Untitled_HLOD0_Instancing Validating asset
+[2025.09.22-16.18.05:961][507]AssetCheck: /Game/POE_Part1/Models/Light Validating asset
+[2025.09.22-16.18.05:961][507]AssetCheck: /Game/POE_Part1/Models/Material Validating asset
+[2025.09.22-16.18.05:961][507]AssetCheck: /Game/POE_Part1/Models/SCI-Fi_gun Validating asset
+[2025.09.22-16.18.06:044][507]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-16.18.06:151][508]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.22-16.20.03:093][433]LogShaderCompilers: Display: ================================================
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Total job queries 2 714, among them cache hits 125 (4.61%), DDC hits 1 827 (67.32%), Duplicates 735 (27.08%)
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Tracking 1 854 distinct input hashes that result in 1 165 distinct outputs (62.84%)
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: RAM used: 11,94 MiB of 1,60 GiB budget. Usage: 0.73%
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Shaders Compiled: 27
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Jobs assigned 27, completed 27 (100%)
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Average time worker was idle: 39.82 s
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Time job spent in pending queue: average 1.02 s, longest 5.54 s
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Job execution time: average 4.80 s, max 10.90 s
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Job life time (pending + execution): average 5.82 s, max 11.02
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Shader code size: total 326,617 KiB, numShaders 27, average 12,097 KiB, min 4,375 KiB, max 19,336 KiB
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.33 s
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.85%
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Jobs were issued in 27 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Average processing rate: 1.11 jobs/sec
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Total thread time: 83,619 s
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Total thread preprocess time: 76,696 s
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Percentage time preprocessing: 91.72%
+[2025.09.22-16.20.03:094][433]LogShaderCompilers: Display: Effective parallelization: 3.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.343677
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 5.61 sec, max 6.75 sec, min 4.46 sec)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 5.46 sec, max 6.20 sec, min 4.72 sec)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 5.41 sec, max 5.44 sec, min 5.38 sec)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 3.67 sec, max 4.82 sec, min 2.22 sec)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 3.17 sec, max 5.09 sec, min 1.80 sec)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.76% of total time (compiled    6 times, average 3.17 sec, max 5.09 sec, min 1.80 sec)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 17.57% of total time (compiled    4 times, average 3.67 sec, max 4.82 sec, min 2.22 sec)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 13.41% of total time (compiled    2 times, average 5.61 sec, max 6.75 sec, min 4.46 sec)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 13.06% of total time (compiled    2 times, average 5.46 sec, max 6.20 sec, min 4.72 sec)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display:                                                 FLumenCardCS - 12.95% of total time (compiled    2 times, average 5.41 sec, max 5.44 sec, min 5.38 sec)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display: === Material stats ===
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display: Materials Translated:    151
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display: Material Total Translate Time: 0.90 s
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display: Material Translation Only: 0.41 s (46%)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.09.22-16.20.03:095][433]LogShaderCompilers: Display: ================================================
+[2025.09.22-16.22.02:646][459]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1576.798340
+[2025.09.22-16.22.03:645][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.22.03:645][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1577.463501, Update Interval: 330.936615
+[2025.09.22-16.23.09:741][ 93]LogStreaming: Display: FlushAsyncLoading(823): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.22-16.23.09:807][ 93]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/robin/OneDrive/Desktop/Blender Projects/Assets/Rock launcher.fbx]
+[2025.09.22-16.23.15:406][ 93]LogSlate: Window 'Import Content' being destroyed
+[2025.09.22-16.23.15:441][ 93]LogInterchangeEngine: [Pending] Importing
+[2025.09.22-16.23.15:538][ 94]LogStreaming: Display: FlushAsyncLoading(824): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.22-16.23.15:669][ 96]LogStreaming: Display: FlushAsyncLoading(830): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.22-16.23.15:838][ 99]LogStaticMesh: Display: Building static mesh Rock_launcher (Required Memory Estimate: 14.696304 MB)...
+[2025.09.22-16.23.15:882][ 99]LogStaticMesh: Adjacency [0.00s], tris: 9600, UVs 1
+[2025.09.22-16.23.15:889][ 99]LogStaticMesh: Clustering [0.01s]. Ratio: 1.013333
+[2025.09.22-16.23.15:889][ 99]LogStaticMesh: Leaves [0.00s]
+[2025.09.22-16.23.16:404][113]LogStaticMesh: Reduce [0.51s]
+[2025.09.22-16.23.16:785][128]LogStaticMesh: Fallback [0.38s], num tris: 3072
+[2025.09.22-16.23.16:995][136]LogStaticMesh: Fallback [0.21s], num tris: 1840
+[2025.09.22-16.23.17:002][137]LogStaticMesh: ConstrainClusters:
+[2025.09.22-16.23.17:002][137]LogStaticMesh:   Input: 157 Clusters, 19806 Triangles and 12973 Vertices
+[2025.09.22-16.23.17:002][137]LogStaticMesh:   Output without splits: 157 Clusters, 19806 Triangles and 14270 Vertices
+[2025.09.22-16.23.17:002][137]LogStaticMesh:   Output with splits: 157 Clusters, 19806 Triangles and 14270 Vertices
+[2025.09.22-16.23.17:004][137]LogStaticMesh: Material Stats - Unique Materials: 7, Fast Path Clusters: 141, Slow Path Clusters: 16, 1 Material: 16, 2 Materials: 68, 3 Materials: 57, At Least 4 Materials: 16
+[2025.09.22-16.23.17:011][137]LogStaticMesh: WritePages:
+[2025.09.22-16.23.17:011][137]LogStaticMesh:   Root: GPU size: 32480 bytes. 1 Pages. 32480.000 bytes per page (99.121% utilization).
+[2025.09.22-16.23.17:011][137]LogStaticMesh:   Streaming: GPU size: 157344 bytes. 2 Pages (2 with relative encoding). 78672.000 bytes per page (60.022% utilization).
+[2025.09.22-16.23.17:011][137]LogStaticMesh:   Page data disk size: 156412 bytes. Fixup data size: 728 bytes.
+[2025.09.22-16.23.17:011][137]LogStaticMesh:   Total GPU size: 189824 bytes, Total disk size: 157140 bytes.
+[2025.09.22-16.23.17:011][137]LogStaticMesh: Encode [0.02s]
+[2025.09.22-16.23.17:011][137]LogStaticMesh: NaniteBuild [1.13s]
+[2025.09.22-16.23.17:268][147]LogStaticMesh: Built static mesh [1.43s] /Game/POE_Part1/Models/Rock_launcher.Rock_launcher
+[2025.09.22-16.23.21:074][227]LogMeshUtilities: Finished distance field build in 3.7s - 28x126x70 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 71% occupied, 0 triangles, Rock_launcher
+[2025.09.22-16.23.21:142][228]LogInterchangeEngine: Display: Interchange import completed [C:/Users/robin/OneDr...nder Projects/Assets/Rock launcher.fbx]
+[2025.09.22-16.23.21:142][228]Interchange: Warning: [C:/Users/robin/OneDrive/Desktop/Blender Projects/Assets/Rock launcher.fbx : 'Rock_launcher', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.22-16.23.21:194][228]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.22-16.23.21:194][228]LogInterchangeEngine: [Success] Import Done
+[2025.09.22-16.23.23:594][324]LogMaterial: Display: Material /Game/POE_Part1/Models/Material_001.Material_001 needed to have new flag set bUsedWithNanite !
+[2025.09.22-16.23.23:627][324]LogMaterial: Display: Material /Game/POE_Part1/Models/Material_002.Material_002 needed to have new flag set bUsedWithNanite !
+[2025.09.22-16.23.23:635][324]LogMaterial: Display: Material /Game/POE_Part1/Models/Material_003.Material_003 needed to have new flag set bUsedWithNanite !
+[2025.09.22-16.23.23:646][324]LogMaterial: Display: Material /Game/POE_Part1/Models/Material_004.Material_004 needed to have new flag set bUsedWithNanite !
+[2025.09.22-16.23.23:656][324]LogMaterial: Display: Material /Game/POE_Part1/Models/Material_005.Material_005 needed to have new flag set bUsedWithNanite !
+[2025.09.22-16.23.23:666][324]LogMaterial: Display: Material /Game/POE_Part1/Models/Material_006.Material_006 needed to have new flag set bUsedWithNanite !
+[2025.09.22-16.23.38:466][876]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher
+[2025.09.22-16.23.38:466][876]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher
+[2025.09.22-16.23.38:467][876]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_1
+[2025.09.22-16.23.39:999][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.09.22-16.23.40:005][913]LogEditorActor: Deleted 0 Actors (0.057 secs)
+[2025.09.22-16.23.40:020][913]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher
+[2025.09.22-16.23.40:020][913]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher
+[2025.09.22-16.23.40:023][913]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_2
+[2025.09.22-16.24.07:374][ 71]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_2.StaticMeshComponent0.
+[2025.09.22-16.24.23:372][619]Cmd: DELETE
+[2025.09.22-16.24.23:372][619]Cmd: ACTOR DELETE
+[2025.09.22-16.24.23:382][619]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.22-16.24.23:431][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.09.22-16.24.23:435][619]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2025.09.22-16.24.41:958][536]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.22-16.24.41:981][536]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.22-16.24.42:008][537]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.22-16.24.44:936][669]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2025.09.22-16.24.44:938][669]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.22-16.25.05:687][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-16.25.05:687][461]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Models/SCI-Fi_gun] ([1] browsable assets)...
+[2025.09.22-16.25.05:687][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/SCI-Fi_gun]
+[2025.09.22-16.25.05:687][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Models/SCI-Fi_gun" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/SCI-Fi_gun.uasset" SILENT=true
+[2025.09.22-16.25.05:700][461]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/SCI-Fi_gun
+[2025.09.22-16.25.05:701][461]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/SCI-Fi_gun8308CD094E7D86C90CD514BB913B25D9.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/SCI-Fi_gun.uasset'
+[2025.09.22-16.25.05:702][461]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Models/Materials/Light] ([1] browsable assets)...
+[2025.09.22-16.25.05:702][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Materials/Light]
+[2025.09.22-16.25.05:702][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Models/Materials/Light" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Materials/Light.uasset" SILENT=true
+[2025.09.22-16.25.05:716][461]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Materials/Light
+[2025.09.22-16.25.05:716][461]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/LightD26332A24BB369748721AD9AA75CF99E.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Materials/Light.uasset'
+[2025.09.22-16.25.05:718][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.662 ms (total: 31.4 sec)
+[2025.09.22-16.25.05:844][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.09.22-16.25.05:878][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.09.22-16.25.05:908][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.22-16.25.05:976][461]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.22-16.25.05:976][461]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.22-16.25.05:976][461]LogContentValidation: Enabled validators:
+[2025.09.22-16.25.05:976][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-16.25.05:976][461]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-16.25.05:976][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-16.25.05:976][461]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-16.25.05:976][461]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-16.25.05:976][461]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-16.25.05:976][461]AssetCheck: /Game/POE_Part1/Models/SCI-Fi_gun Validating asset
+[2025.09.22-16.25.05:976][461]AssetCheck: /Game/POE_Part1/Models/Materials/Light Validating asset
+[2025.09.22-16.25.05:998][461]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-16.25.14:160][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-16.25.14:160][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Models/SCI-Fi_gun] ([1] browsable assets)...
+[2025.09.22-16.25.14:160][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/SCI-Fi_gun]
+[2025.09.22-16.25.14:160][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Models/SCI-Fi_gun" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/SCI-Fi_gun.uasset" SILENT=true
+[2025.09.22-16.25.14:176][773]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/SCI-Fi_gun
+[2025.09.22-16.25.14:176][773]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/SCI-Fi_gunFA39469744C694792B2CFC9484C24B82.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/SCI-Fi_gun.uasset'
+[2025.09.22-16.25.14:179][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Models/Materials/Material] ([1] browsable assets)...
+[2025.09.22-16.25.14:179][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Materials/Material]
+[2025.09.22-16.25.14:179][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Models/Materials/Material" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Materials/Material.uasset" SILENT=true
+[2025.09.22-16.25.14:191][773]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Materials/Material
+[2025.09.22-16.25.14:191][773]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Material707C6C434AE71ACD7434DC82292FFBCF.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Materials/Material.uasset'
+[2025.09.22-16.25.14:193][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/Models/Materials/Material_001] ([1] browsable assets)...
+[2025.09.22-16.25.14:241][773]OBJ SavePackage:     Rendered thumbnail for [Material /Game/POE_Part1/Models/Materials/Material_001.Material_001]
+[2025.09.22-16.25.14:241][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Materials/Material_001]
+[2025.09.22-16.25.14:254][773]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Materials/Material_001
+[2025.09.22-16.25.14:254][773]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Material_001755D139D478CB9988BF64AB9D473BB44.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Materials/Material_001.uasset'
+[2025.09.22-16.25.14:256][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/Models/Materials/Material_002] ([1] browsable assets)...
+[2025.09.22-16.25.14:266][773]OBJ SavePackage:     Rendered thumbnail for [Material /Game/POE_Part1/Models/Materials/Material_002.Material_002]
+[2025.09.22-16.25.14:266][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Materials/Material_002]
+[2025.09.22-16.25.14:280][773]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Materials/Material_002
+[2025.09.22-16.25.14:280][773]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Material_0024FE21049490218F712A72C89FD5DA61C.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Materials/Material_002.uasset'
+[2025.09.22-16.25.14:282][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/Models/Materials/Material_003] ([1] browsable assets)...
+[2025.09.22-16.25.14:291][773]OBJ SavePackage:     Rendered thumbnail for [Material /Game/POE_Part1/Models/Materials/Material_003.Material_003]
+[2025.09.22-16.25.14:291][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Materials/Material_003]
+[2025.09.22-16.25.14:304][773]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Materials/Material_003
+[2025.09.22-16.25.14:304][773]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Material_00319B230594827D144B4F16788CD6FDF73.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Materials/Material_003.uasset'
+[2025.09.22-16.25.14:308][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/Models/Materials/Material_004] ([1] browsable assets)...
+[2025.09.22-16.25.14:319][773]OBJ SavePackage:     Rendered thumbnail for [Material /Game/POE_Part1/Models/Materials/Material_004.Material_004]
+[2025.09.22-16.25.14:319][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Materials/Material_004]
+[2025.09.22-16.25.14:334][773]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Materials/Material_004
+[2025.09.22-16.25.14:334][773]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Material_0046AA8D3AF4F3E96EF59B89EADA9E18523.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Materials/Material_004.uasset'
+[2025.09.22-16.25.14:336][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/Models/Materials/Material_005] ([1] browsable assets)...
+[2025.09.22-16.25.14:346][773]OBJ SavePackage:     Rendered thumbnail for [Material /Game/POE_Part1/Models/Materials/Material_005.Material_005]
+[2025.09.22-16.25.14:347][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Materials/Material_005]
+[2025.09.22-16.25.14:360][773]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Materials/Material_005
+[2025.09.22-16.25.14:360][773]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Material_005E8EB70FF4D474C1AA43240ABA7BA85C7.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Materials/Material_005.uasset'
+[2025.09.22-16.25.14:361][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/Models/Materials/Material_006] ([1] browsable assets)...
+[2025.09.22-16.25.14:370][773]OBJ SavePackage:     Rendered thumbnail for [Material /Game/POE_Part1/Models/Materials/Material_006.Material_006]
+[2025.09.22-16.25.14:370][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Materials/Material_006]
+[2025.09.22-16.25.14:384][773]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Materials/Material_006
+[2025.09.22-16.25.14:384][773]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Material_006DD9F4A11490772DBE5304A8D09432B88.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Materials/Material_006.uasset'
+[2025.09.22-16.25.14:386][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.384 ms (total: 31.6 sec)
+[2025.09.22-16.25.14:597][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.22-16.25.14:628][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.09.22-16.25.14:661][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.22-16.25.14:748][773]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.22-16.25.14:748][773]LogContentValidation: Display: Starting to validate 8 assets
+[2025.09.22-16.25.14:748][773]LogContentValidation: Enabled validators:
+[2025.09.22-16.25.14:748][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-16.25.14:748][773]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-16.25.14:748][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-16.25.14:748][773]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-16.25.14:748][773]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-16.25.14:748][773]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-16.25.14:748][773]AssetCheck: /Game/POE_Part1/Models/SCI-Fi_gun Validating asset
+[2025.09.22-16.25.14:749][773]AssetCheck: /Game/POE_Part1/Models/Materials/Material Validating asset
+[2025.09.22-16.25.14:749][773]AssetCheck: /Game/POE_Part1/Models/Materials/Material_001 Validating asset
+[2025.09.22-16.25.14:749][773]AssetCheck: /Game/POE_Part1/Models/Materials/Material_002 Validating asset
+[2025.09.22-16.25.14:749][773]AssetCheck: /Game/POE_Part1/Models/Materials/Material_003 Validating asset
+[2025.09.22-16.25.14:749][773]AssetCheck: /Game/POE_Part1/Models/Materials/Material_004 Validating asset
+[2025.09.22-16.25.14:749][773]AssetCheck: /Game/POE_Part1/Models/Materials/Material_005 Validating asset
+[2025.09.22-16.25.14:749][773]AssetCheck: /Game/POE_Part1/Models/Materials/Material_006 Validating asset
+[2025.09.22-16.25.14:762][773]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-16.25.20:897][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun
+[2025.09.22-16.25.20:897][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun
+[2025.09.22-16.25.20:897][ 49]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_3
+[2025.09.22-16.25.21:623][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.22-16.25.21:626][ 73]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2025.09.22-16.25.21:638][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun
+[2025.09.22-16.25.21:638][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun
+[2025.09.22-16.25.21:640][ 73]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/SCI-Fi_gun.SCI-Fi_gun as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_4
+[2025.09.22-16.25.27:154][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher
+[2025.09.22-16.25.27:154][303]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher
+[2025.09.22-16.25.27:155][303]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_5
+[2025.09.22-16.25.27:895][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.22-16.25.27:896][319]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.09.22-16.25.27:910][319]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher
+[2025.09.22-16.25.27:910][319]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher
+[2025.09.22-16.25.27:911][319]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_6
+[2025.09.22-16.25.39:662][874]Cmd: DELETE
+[2025.09.22-16.25.39:662][874]Cmd: ACTOR DELETE
+[2025.09.22-16.25.39:664][874]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.22-16.25.39:712][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.22-16.25.39:717][874]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2025.09.22-16.25.40:229][895]Cmd: DELETE
+[2025.09.22-16.25.40:229][895]Cmd: ACTOR DELETE
+[2025.09.22-16.25.40:231][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.22-16.25.40:271][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.09.22-16.25.40:274][895]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2025.09.22-16.25.43:666][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-16.25.43:764][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base_Map" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/Base_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.22-16.25.43:830][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.22-16.25.43:862][  6]LogSavePackage: Moving output files for package: /Game/Base_Map
+[2025.09.22-16.25.43:863][  6]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Base_Map339F04E24570A99E4E315C9732F48B47.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/Base_Map.umap'
+[2025.09.22-16.25.43:878][  6]LogFileHelpers: Saving map 'Base_Map' took 0.114
+[2025.09.22-16.25.43:897][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 230.466 ms (total: 31.9 sec)
+[2025.09.22-16.25.43:976][  6]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.22-16.25.43:976][  6]LogContentValidation: Enabled validators:
+[2025.09.22-16.25.43:976][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-16.25.43:976][  6]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-16.25.43:976][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-16.25.43:976][  6]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-16.25.43:976][  6]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-16.25.43:976][  6]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-16.25.43:976][  6]AssetCheck: /Game/Base_Map Validating asset
+[2025.09.22-16.25.44:010][  6]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: ================================================
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Total job queries 2 843, among them cache hits 167 (5.87%), DDC hits 1 827 (64.26%), Duplicates 756 (26.59%)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Tracking 1 920 distinct input hashes that result in 1 231 distinct outputs (64.11%)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: RAM used: 12,63 MiB of 1,60 GiB budget. Usage: 0.77%
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Shaders Compiled: 93
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Jobs assigned 93, completed 93 (100%)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Average time worker was idle: 103.42 s
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Time job spent in pending queue: average 3.37 s, longest 22.17 s
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Job execution time: average 10.50 s, max 26.00 s
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Job life time (pending + execution): average 13.88 s, max 26.26
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Shader code size: total 1,125 MiB, numShaders 93, average 12,395 KiB, min 4,332 KiB, max 19,336 KiB
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 56.51 s
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.78%
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Jobs were issued in 62 batches (only local compilation was used), average 1.50 jobs/batch
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Average processing rate: 1.65 jobs/sec
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Total thread time: 332,643 s
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Total thread preprocess time: 80,941 s
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Percentage time preprocessing: 24.33%
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Effective parallelization: 5.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.588639
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    8 times, average 5.98 sec, max 7.25 sec, min 3.95 sec)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    8 times, average 5.95 sec, max 6.87 sec, min 3.95 sec)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    8 times, average 5.44 sec, max 5.62 sec, min 5.27 sec)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   16 times, average 3.78 sec, max 5.04 sec, min 2.22 sec)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   18 times, average 3.64 sec, max 5.24 sec, min 1.80 sec)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 19.67% of total time (compiled   18 times, average 3.64 sec, max 5.24 sec, min 1.80 sec)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 18.19% of total time (compiled   16 times, average 3.78 sec, max 5.04 sec, min 2.22 sec)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 14.38% of total time (compiled    8 times, average 5.98 sec, max 7.25 sec, min 3.95 sec)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 14.32% of total time (compiled    8 times, average 5.95 sec, max 6.87 sec, min 3.95 sec)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display:                                                 FLumenCardCS - 13.07% of total time (compiled    8 times, average 5.44 sec, max 5.62 sec, min 5.27 sec)
+[2025.09.22-16.26.03:344][ 41]LogShaderCompilers: Display: === Material stats ===
+[2025.09.22-16.26.03:345][ 41]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.22-16.26.03:345][ 41]LogShaderCompilers: Display: Materials Translated:    163
+[2025.09.22-16.26.03:345][ 41]LogShaderCompilers: Display: Material Total Translate Time: 0.92 s
+[2025.09.22-16.26.03:345][ 41]LogShaderCompilers: Display: Material Translation Only: 0.42 s (45%)
+[2025.09.22-16.26.03:345][ 41]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.09.22-16.26.03:345][ 41]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.09.22-16.26.03:345][ 41]LogShaderCompilers: Display: ================================================
+[2025.09.22-16.26.28:067][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.22-16.26.29:892][349]LogSlate: Window 'Save Content' being destroyed
+[2025.09.22-16.26.29:943][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-16.26.30:061][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/Models/Rock_launcher] ([1] browsable assets)...
+[2025.09.22-16.26.30:146][349]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/POE_Part1/Models/Rock_launcher.Rock_launcher]
+[2025.09.22-16.26.30:146][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Rock_launcher]
+[2025.09.22-16.26.30:146][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Models/Rock_launcher" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Rock_launcher.uasset" SILENT=true
+[2025.09.22-16.26.30:174][349]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Rock_launcher
+[2025.09.22-16.26.30:174][349]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Rock_launcher8B94D11241D11CD9491C758C9E10C71F.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Rock_launcher.uasset'
+[2025.09.22-16.26.30:196][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 253.209 ms (total: 32.1 sec)
+[2025.09.22-16.26.30:250][349]LogStall: Shutdown...
+[2025.09.22-16.26.30:250][349]LogStall: Shutdown complete.
+[2025.09.22-16.26.30:316][349]LogSlate: Window 'GadeProjectPEWPEW - Unreal Editor' being destroyed
+[2025.09.22-16.26.30:317][349]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.09.22-16.26.30:535][349]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.22-16.26.30:535][349]LogContentValidation: Enabled validators:
+[2025.09.22-16.26.30:535][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-16.26.30:536][349]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-16.26.30:536][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-16.26.30:536][349]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-16.26.30:536][349]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-16.26.30:536][349]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-16.26.30:536][349]AssetCheck: /Game/POE_Part1/Models/Rock_launcher Validating asset
+[2025.09.22-16.26.30:537][349]Cmd: QUIT_EDITOR
+[2025.09.22-16.26.30:538][349]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.22-16.26.30:539][349]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-16.26.30:546][350]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.22-16.26.30:547][350]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.22-16.26.30:547][350]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.22-16.26.30:547][350]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-16.26.30:548][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-16.26.33:949][350]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.22-16.26.33:949][350]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.09.22-16.26.33:949][350]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.22-16.26.33:953][350]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-16.26.33:954][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-16.26.33:956][350]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-16.26.33:956][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-16.26.33:960][350]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.09.22-16.26.33:960][350]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.22-16.26.33:963][350]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.09.22-16.26.34:804][350]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.22-16.26.34:804][350]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.22-16.26.34:804][350]LogAudio: Display: Audio Device unregistered from world 'Base_Map'.
+[2025.09.22-16.26.34:805][350]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.22-16.26.34:805][350]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.09.22-16.26.34:808][350]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.09.22-16.26.34:821][350]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.22-16.26.34:822][350]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.22-16.26.34:830][350]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.22-16.26.34:830][350]LogExit: Preparing to exit.
+[2025.09.22-16.26.34:902][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.09.22-16.26.34:917][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:917][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:917][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:917][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:917][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:917][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:917][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:917][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.34:918][350]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-16.26.35:817][350]LogEditorDataStorage: Deinitializing
+[2025.09.22-16.26.35:941][350]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.22-16.26.35:971][350]LogExit: Editor shut down
+[2025.09.22-16.26.35:977][350]LogExit: Transaction tracking system shut down
+[2025.09.22-16.26.36:350][350]LogExit: Object subsystem successfully closed.
+[2025.09.22-16.26.36:383][350]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.22-16.26.36:524][350]LogMemoryProfiler: Shutdown
+[2025.09.22-16.26.36:524][350]LogNetworkingProfiler: Shutdown
+[2025.09.22-16.26.36:524][350]LoadingProfiler: Shutdown
+[2025.09.22-16.26.36:524][350]LogTimingProfiler: Shutdown
+[2025.09.22-16.26.36:525][350]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.09.22-16.26.36:525][350]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.09.22-16.26.36:903][350]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.09.22-16.26.36:922][350]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.22-16.26.36:922][350]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC41DDAA4-4222-AA3B-F48F-FB96D8187B35%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=aaaa25dc48b69f705f8356ac7bdb584d%7C92422e972fd143598b00debb7d9b84c5%7Cd261d38e-8252-438f-8e9a-b60e79dbf9d7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.22-16.26.37:990][350]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.09.22-16.26.38:004][350]LogNFORDenoise: NFORDenoise function shutting down
+[2025.09.22-16.26.38:004][350]RenderDocPlugin: plugin has been unloaded.
+[2025.09.22-16.26.38:099][350]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.09.22-16.26.38:099][350]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.09.22-16.26.38:099][350]LogPakFile: Destroying PakPlatformFile
+[2025.09.22-16.26.39:635][350]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.22-16.26.39:792][350]LogExit: Exiting.
+[2025.09.22-16.26.39:826][350]Log file closed, 09/22/25 18:26:39
