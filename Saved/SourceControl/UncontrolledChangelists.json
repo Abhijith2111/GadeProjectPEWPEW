@@ -12,7 +12,10 @@
 				"C:/Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/IMC_Default.uasset",
 				"C:/Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Input/Actions/IA_Switch1.uasset",
 				"C:/Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Input/Actions/IA_Switch2.uasset",
-				"C:/Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Input/Actions/IA_Fire.uasset"
+				"C:/Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Input/Actions/IA_Fire.uasset",
+				"C:/Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_AmmoPickUp.uasset",
+				"C:/Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_SecondaryPickup.uasset",
+				"C:/Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/WBP_HUD.uasset"
 			]
 		}
 	]
