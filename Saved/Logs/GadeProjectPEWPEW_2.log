@@ -871,3 +871,13 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-15.51.28:060][  0]LogShaderCompilers: Display: Using 10 local workers for shader compilation
 [2025.09.22-15.51.28:211][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
 [2025.09.22-15.51.28:221][  0]LogShaderCompilers: Display: Shader autogen file written: C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2025.09.22-15.52.14:448][  0]LogSlate: Using FreeType 2.10.0
+[2025.09.22-15.52.14:741][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.09.22-15.52.15:797][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2025.09.22-15.52.15:797][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png]
+[2025.09.22-15.52.15:797][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2025.09.22-15.52.15:797][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png]
+[2025.09.22-15.52.16:699][  0]LogAssetRegistry: FAssetRegistry took 0.0162 seconds to start up
+[2025.09.22-15.52.17:047][  0]LogAssetRegistry: Display: AssetDataGatherer spent 0.000s loading caches C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Intermediate/CachedAssetRegistry_*.bin.
+[2025.09.22-15.52.18:713][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2025.09.22-15.52.57:348][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
