@@ -1564,3 +1564,19 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.09.22-11.53.19:955][136]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.22-11.53.19:955][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.22-11.53.19:955][136]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
+[2025.09.22-11.54.30:634][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.22-11.54.30:637][492]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base_Map' took 0.028
+[2025.09.22-11.54.30:639][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Blueprints/BP_SecondaryPickup] ([2] browsable assets)...
+[2025.09.22-11.54.30:639][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_SecondaryPickup]
+[2025.09.22-11.54.30:649][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Blueprints/BP_SecondaryPickup_Auto1
+[2025.09.22-11.54.30:649][492]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_SecondaryPickup_Auto149C7892745B93366D72FA98BF176FA19.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Blueprints/BP_SecondaryPickup_Auto1.uasset'
+[2025.09.22-11.54.30:651][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Blueprints/BP_AmmoPickUp] ([2] browsable assets)...
+[2025.09.22-11.54.30:651][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_AmmoPickUp]
+[2025.09.22-11.54.30:660][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Blueprints/BP_AmmoPickUp_Auto1
+[2025.09.22-11.54.30:660][492]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_AmmoPickUp_Auto19CF2AC0448B1B6CD5232D6A7AA947B57.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Blueprints/BP_AmmoPickUp_Auto1.uasset'
+[2025.09.22-11.54.30:661][492]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/WBP_HUD] ([2] browsable assets)...
+[2025.09.22-11.54.30:677][492]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part1/Blueprints/WBP_HUD.WBP_HUD]
+[2025.09.22-11.54.30:677][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/WBP_HUD]
+[2025.09.22-11.54.30:691][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Blueprints/WBP_HUD_Auto1
+[2025.09.22-11.54.30:691][492]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/WBP_HUD_Auto1189F1BED4CD73E1499DC908D4A62FEAB.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Blueprints/WBP_HUD_Auto1.uasset'
+[2025.09.22-11.54.30:692][492]LogFileHelpers: Auto-saving content packages took 0.054
