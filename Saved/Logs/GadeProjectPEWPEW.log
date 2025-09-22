@@ -784,3 +784,92 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-15.51.20:278][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.13.dll
 [2025.09.22-15.51.20:387][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
 [2025.09.22-15.51.20:536][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2025.09.22-15.51.21:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.09.22-15.51.21:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.09.22-15.51.21:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.09.22-15.51.21:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.09.22-15.51.21:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_OpenXR'
+[2025.09.22-15.51.21:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.09.22-15.51.21:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.09.22-15.51.21:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.09.22-15.51.21:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.09.22-15.51.21:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_OpenXRClient'
+[2025.09.22-15.51.21:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.09.22-15.51.21:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.09.22-15.51.21:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.09.22-15.51.21:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.09.22-15.51.21:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.09.22-15.51.21:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2025.09.22-15.51.21:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.09.22-15.51.21:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.09.22-15.51.22:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2025.09.22-15.51.22:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2025.09.22-15.51.22:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2025.09.22-15.51.22:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2025.09.22-15.51.22:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.09.22-15.51.22:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.09.22-15.51.22:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.09.22-15.51.22:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2025.09.22-15.51.22:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.09.22-15.51.22:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.09.22-15.51.22:548][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2025.09.22-15.51.24:376][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL_ES3_1_IOS from hinted modules, loading all potential format modules to find it
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_METAL_ES3_1_IOS
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_METAL_SM5_IOS
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_METAL_ES3_1_TVOS
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_METAL_SM5_TVOS
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_METAL_SM6
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_METAL_SIM
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_METAL_ES3_1
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   VVM_1_0
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2025.09.22-15.51.25:332][  0]LogTargetPlatformManager:   SF_VULKAN_SM6
+[2025.09.22-15.51.25:359][  0]LogRendererCore: Ray tracing is enabled (dynamic). Reason: r.RayTracing=1 and r.RayTracing.EnableOnDemand=1.
+[2025.09.22-15.51.25:359][  0]LogRendererCore: Ray tracing shaders are enabled.
+[2025.09.22-15.51.25:408][  0]LogDerivedDataCache: Display: Memory: Max Cache Size: -1 MB
+[2025.09.22-15.51.25:409][  0]LogDerivedDataCache: FDerivedDataBackendGraph: Pak pak cache file C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.09.22-15.51.25:409][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2025.09.22-15.51.25:409][  0]LogDerivedDataCache: FDerivedDataBackendGraph: CompressedPak pak cache file C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.09.22-15.51.25:409][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2025.09.22-15.51.26:121][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1350 MiB)
+[2025.09.22-15.51.26:121][  0]LogDerivedDataCache: FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.09.22-15.51.26:121][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2025.09.22-15.51.26:185][  0]LogZenServiceInstance: Found Zen config default=C:/Users/robin/AppData/Local/UnrealEngine/Common/Zen/Data
+[2025.09.22-15.51.26:223][  0]LogZenServiceInstance: InTree version at 'D:/UE_5.6/Engine/Binaries/Win64/zenserver.exe' is '5.6.6-202504241958-windows-x64-release-f090a03'
+[2025.09.22-15.51.26:226][  0]LogZenServiceInstance: Installed version at 'C:/Users/robin/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' is '5.6.6-202504241958-windows-x64-release-f090a03'
+[2025.09.22-15.51.26:226][  0]LogZenServiceInstance: No current process using the data dir found, launching a new instance
+[2025.09.22-15.51.26:226][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/robin/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/robin/AppData/Local/UnrealEngine/Common/Zen/Install', data dir 'C:/Users/robin/AppData/Local/UnrealEngine/Common/Zen/Data', args '--port 8558 --data-dir "C:\Users\robin\AppData\Local\UnrealEngine\Common\Zen\Data" --http asio --gc-cache-duration-seconds 1209600 --gc-interval-seconds 21600 --gc-low-diskspace-threshold 2147483648 --quiet --http-forceloopback --owner-pid 14648  --child-id Zen_14648_Startup'
+[2025.09.22-15.51.27:030][  0]LogZenServiceInstance: Display: Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+[2025.09.22-15.51.27:030][  0]LogZenServiceInstance: Local ZenServer AutoLaunch initialization completed in 0.845 seconds
+[2025.09.22-15.51.27:280][  0]LogDerivedDataCache: Display: ZenLocal: Using ZenServer HTTP service at http://[::1]:8558/ with namespace ue.ddc status: OK!.
+[2025.09.22-15.51.27:678][  0]LogDerivedDataCache: C:/Users/robin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Speed tests took 0.35 seconds.
+[2025.09.22-15.51.27:682][  0]LogDerivedDataCache: Display: C:/Users/robin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.18ms. RandomReadSpeed=2.78MBs, RandomWriteSpeed=104.71MBs. Assigned SpeedClass 'Local'
+[2025.09.22-15.51.27:684][  0]LogDerivedDataCache: Local: Using data cache path C:/Users/robin/AppData/Local/UnrealEngine/Common/DerivedDataCache: DeleteOnly
+[2025.09.22-15.51.27:684][  0]LogDerivedDataCache: ZenShared: Disabled because Host is set to 'None'
+[2025.09.22-15.51.27:684][  0]LogDerivedDataCache: Unable to find inner node ZenShared for hierarchy Hierarchy.
+[2025.09.22-15.51.27:684][  0]LogDerivedDataCache: Shared: Disabled because no path is configured.
+[2025.09.22-15.51.27:684][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2025.09.22-15.51.27:684][  0]LogDerivedDataCache: Cloud: Disabled because Host is set to 'None'
+[2025.09.22-15.51.27:684][  0]LogDerivedDataCache: Unable to find inner node Cloud for hierarchy Hierarchy.
+[2025.09.22-15.51.27:905][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Intermediate/Shaders/WorkingDirectory/14648/).
+[2025.09.22-15.51.27:906][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/robin/AppData/Local/Temp/UnrealShaderWorkingDir/9306B3624607E8FD18EB6BAED0AF1639/'.
+[2025.09.22-15.51.27:907][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.09.22-15.51.28:060][  0]LogUbaHorde: Display: UBA/Horde Configuration [Uba.Provider.Horde]: Not Enabled
+[2025.09.22-15.51.28:060][  0]LogShaderCompilers: Display: Using 10 local workers for shader compilation
+[2025.09.22-15.51.28:211][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2025.09.22-15.51.28:221][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2025.09.22-15.51.28:221][  0]LogShaderCompilers: Display: Shader autogen file written: C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
