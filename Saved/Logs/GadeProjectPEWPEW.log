@@ -2702,3 +2702,506 @@ Sampler Limit: 32
 [2025.09.23-17.30.30:602][714]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2025.09.23-17.30.30:602][714]LogShaderCompilers: Display: Material Cache Hits: 12 (6%)
 [2025.09.23-17.30.30:602][714]LogShaderCompilers: Display: ================================================
+[2025.09.23-17.31.06:411][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.31.06:412][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.31.06:412][395]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_13
+[2025.09.23-17.31.07:226][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.23-17.31.07:228][437]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.09.23-17.31.07:236][437]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.31.07:236][437]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.31.07:237][437]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_14
+[2025.09.23-17.31.31:465][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.31.31:465][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.31.31:465][844]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_15
+[2025.09.23-17.31.32:268][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.09.23-17.31.32:270][887]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.09.23-17.31.32:280][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.31.32:280][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.31.32:281][887]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_16
+[2025.09.23-17.31.35:182][ 53]Cmd: DELETE
+[2025.09.23-17.31.35:182][ 53]Cmd: ACTOR DELETE
+[2025.09.23-17.31.35:185][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.23-17.31.35:203][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.09.23-17.31.35:205][ 53]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.09.23-17.32.01:726][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.32.01:727][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.32.01:727][289]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_17
+[2025.09.23-17.32.02:990][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.23-17.32.02:993][339]LogEditorActor: Deleted 0 Actors (0.379 secs)
+[2025.09.23-17.32.03:001][339]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.32.03:001][339]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.32.03:002][339]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_18
+[2025.09.23-17.32.08:948][682]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_18.StaticMeshComponent0.
+[2025.09.23-17.32.44:032][675]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.32.44:033][675]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.32.44:033][675]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_19
+[2025.09.23-17.32.45:186][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.23-17.32.45:188][736]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.09.23-17.32.45:197][736]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.32.45:197][736]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.32.45:198][736]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_20
+[2025.09.23-17.33.39:652][867]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.33.39:652][867]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.33.39:652][867]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_21
+[2025.09.23-17.33.40:523][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.23-17.33.40:526][910]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.09.23-17.33.40:533][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.33.40:534][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.33.40:536][910]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_22
+[2025.09.23-17.34.24:032][408]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.34.24:033][408]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.34.24:033][408]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_23
+[2025.09.23-17.34.24:841][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.09.23-17.34.24:845][450]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.09.23-17.34.24:854][450]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.34.24:854][450]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.34.24:855][450]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_24
+[2025.09.23-17.34.27:732][610]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_24.StaticMeshComponent0.
+[2025.09.23-17.35.15:155][323]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5034.947754
+[2025.09.23-17.35.15:472][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-17.35.15:472][343]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5035.248535, Update Interval: 306.169006
+[2025.09.23-17.35.28:824][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.35.28:824][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.35.28:824][ 95]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_25
+[2025.09.23-17.35.29:483][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.09.23-17.35.29:485][128]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.09.23-17.35.29:493][128]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.35.29:493][128]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.35.29:494][128]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_26
+[2025.09.23-17.35.51:019][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.35.51:019][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.35.51:019][354]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_27
+[2025.09.23-17.35.51:666][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.09.23-17.35.51:670][387]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.09.23-17.35.51:680][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.35.51:680][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.35.51:681][387]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_28
+[2025.09.23-17.35.55:493][606]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_28.StaticMeshComponent0.
+[2025.09.23-17.36.34:855][825]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.36.34:855][825]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.36.34:856][825]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_29
+[2025.09.23-17.36.36:032][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.23-17.36.36:035][887]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.09.23-17.36.36:046][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.36.36:046][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.36.36:047][887]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_30
+[2025.09.23-17.37.14:898][ 93]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.37.14:898][ 93]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.37.14:899][ 93]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_31
+[2025.09.23-17.37.15:861][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.09.23-17.37.15:864][141]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.09.23-17.37.15:873][141]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.37.15:873][141]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.37.15:874][141]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_32
+[2025.09.23-17.37.35:132][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.37.35:132][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.37.35:132][229]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_33
+[2025.09.23-17.37.35:872][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.23-17.37.35:876][264]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.09.23-17.37.35:886][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.37.35:887][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.37.35:888][264]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_34
+[2025.09.23-17.37.58:914][554]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.37.58:914][554]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.37.58:915][554]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_35
+[2025.09.23-17.37.59:678][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.09.23-17.37.59:681][591]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.09.23-17.37.59:691][591]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.37.59:691][591]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.37.59:692][591]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_36
+[2025.09.23-17.38.16:086][523]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.38.16:086][523]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.38.16:087][523]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_37
+[2025.09.23-17.38.16:918][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.09.23-17.38.16:920][567]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.09.23-17.38.16:929][567]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.38.16:929][567]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building
+[2025.09.23-17.38.16:930][567]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Single_Building.Single_Building as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_38
+[2025.09.23-17.39.07:720][380]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.39.07:720][380]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.39.07:720][380]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_39
+[2025.09.23-17.39.08:714][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.09.23-17.39.08:716][430]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.09.23-17.39.08:725][430]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.39.08:725][430]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.39.08:726][430]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_40
+[2025.09.23-17.39.14:150][707]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.39.14:150][707]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.39.14:150][707]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_41
+[2025.09.23-17.39.14:868][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.09.23-17.39.14:871][743]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.09.23-17.39.14:883][743]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.39.14:883][743]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.39.14:884][743]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_42
+[2025.09.23-17.39.23:736][229]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_40.StaticMeshComponent0.
+[2025.09.23-17.39.28:024][445]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.39.28:024][445]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.39.28:024][445]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_43
+[2025.09.23-17.39.29:144][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.23-17.39.29:147][505]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.09.23-17.39.29:156][505]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.39.29:156][505]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.39.29:157][505]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_44
+[2025.09.23-17.39.32:379][679]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_44.StaticMeshComponent0.
+[2025.09.23-17.40.29:315][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.40.29:315][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.40.29:315][807]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Barrel.Barrel as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_45
+[2025.09.23-17.40.30:066][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.09.23-17.40.30:070][840]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.09.23-17.40.30:081][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.40.30:081][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.40.30:083][840]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Barrel.Barrel as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_46
+[2025.09.23-17.40.37:270][212]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0.
+[2025.09.23-17.41.06:020][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5385.820312
+[2025.09.23-17.41.06:411][807]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-17.41.06:411][807]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5386.195312, Update Interval: 335.507080
+[2025.09.23-17.41.10:961][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.41.10:961][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.41.10:962][ 48]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_47
+[2025.09.23-17.41.11:929][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.09.23-17.41.11:932][ 97]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.09.23-17.41.11:943][ 97]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.41.11:943][ 97]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.41.11:945][ 97]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_48
+[2025.09.23-17.41.49:312][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.41.49:312][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.41.49:312][153]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_49
+[2025.09.23-17.41.49:924][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.09.23-17.41.49:928][186]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.09.23-17.41.49:939][186]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.41.49:939][186]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.41.49:940][186]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_50
+[2025.09.23-17.42.18:206][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.42.18:206][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.42.18:206][704]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_51
+[2025.09.23-17.42.19:336][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.09.23-17.42.19:339][763]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.09.23-17.42.19:351][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.42.19:351][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.42.19:353][763]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_52
+[2025.09.23-17.42.22:248][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.42.22:248][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.42.22:249][903]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_53
+[2025.09.23-17.42.22:966][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.09.23-17.42.22:969][940]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.09.23-17.42.22:980][940]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.42.22:980][940]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.42.22:982][940]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_54
+[2025.09.23-17.42.25:545][ 60]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.42.25:545][ 60]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.42.25:547][ 60]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_55
+[2025.09.23-17.42.27:774][179]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.42.27:774][179]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.42.27:776][179]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_56
+[2025.09.23-17.43.25:577][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.43.25:577][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.43.25:577][260]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Barrel.Barrel as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_57
+[2025.09.23-17.43.26:277][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.09.23-17.43.26:280][296]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.09.23-17.43.26:290][296]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.43.26:290][296]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.43.26:292][296]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Barrel.Barrel as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_58
+[2025.09.23-17.43.39:562][993]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.43.39:562][993]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.43.39:563][993]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Barrel.Barrel as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_59
+[2025.09.23-17.43.40:230][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.09.23-17.43.40:233][ 26]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.09.23-17.43.40:246][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.43.40:246][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.43.40:248][ 26]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Barrel.Barrel as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_60
+[2025.09.23-17.43.51:839][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.43.51:839][633]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.43.51:839][633]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Barrel.Barrel as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_61
+[2025.09.23-17.43.52:806][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.23-17.43.52:808][682]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.09.23-17.43.52:820][682]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.43.52:821][682]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.43.52:822][682]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Barrel.Barrel as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_62
+[2025.09.23-17.44.06:548][419]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.44.06:548][419]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.44.06:548][419]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Barrel.Barrel as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_63
+[2025.09.23-17.44.07:774][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.09.23-17.44.07:777][484]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.09.23-17.44.07:787][484]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.44.07:788][484]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.44.07:789][484]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Barrel.Barrel as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_64
+[2025.09.23-17.44.30:858][796]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.44.30:858][796]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.44.30:858][796]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_65
+[2025.09.23-17.44.31:933][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.09.23-17.44.31:936][853]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.09.23-17.44.31:946][853]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.44.31:946][853]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin
+[2025.09.23-17.44.31:948][853]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Dustbin.Dustbin as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_66
+[2025.09.23-17.44.50:928][896]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.23-17.44.50:938][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.23-17.44.50:938][896]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.09.23-17.44.50:944][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005650s)
+[2025.09.23-17.44.50:944][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.005776s)
+[2025.09.23-17.44.50:972][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.23-17.44.50:975][896]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.23-17.44.50:978][896]LogPlayLevel: PIE: World Init took: (0.003123s)
+[2025.09.23-17.44.50:979][896]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.23-17.44.50:979][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.23-17.44.50:979][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.23-17.44.50:979][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.23-17.44.50:979][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.23-17.44.50:979][896]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.23-17.44.50:979][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.23-17.44.50:979][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.23-17.44.50:979][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.23-17.44.50:979][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.23-17.44.50:979][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.23-17.44.50:979][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.23-17.44.50:983][896]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.23-17.44.51:045][896]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2025.09.23-17.44.51:046][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.23-17.44.51:046][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.23-17.44.51:046][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.23-17.44.51:047][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.23-17.44.51:047][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2025.09.23-17.44.51:049][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.23-17.44.51:049][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.23-17.44.51:049][896]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.23-17.44.51:049][896]LogAudio: Display: Audio Device (ID: 4) registered with world 'Base_Map'.
+[2025.09.23-17.44.51:049][896]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.23-17.44.51:055][896]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.23-17.44.51:057][896]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.09.23-19.44.51
+[2025.09.23-17.44.51:057][896]LogWorld: Bringing up level for play took: 0.002147
+[2025.09.23-17.44.51:060][896]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.09.23-17.44.51:064][896]PIE: Server logged in
+[2025.09.23-17.44.51:066][896]PIE: Play in editor total start time 0,129 seconds.
+[2025.09.23-17.44.51:131][897]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.23-17.45.07:436][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-17.45.07:436][855]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.09.23-17.45.07:437][855]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-17.45.07:437][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-17.45.07:447][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.23-17.45.07:449][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-17.45.07:478][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-17.45.07:478][855]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.23-17.45.07:478][855]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.09.23-17.45.07:482][855]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.09.23-17.45.07:493][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.23-17.45.07:592][856]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.09.23-17.45.20:285][544]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.45.20:285][544]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.45.20:286][544]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_67
+[2025.09.23-17.45.20:863][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.09.23-17.45.20:865][571]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.09.23-17.45.20:876][571]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.45.20:877][571]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.45.20:879][571]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_68
+[2025.09.23-17.45.34:961][346]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.45.34:962][346]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.45.34:962][346]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_69
+[2025.09.23-17.45.35:513][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.09.23-17.45.35:517][370]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.09.23-17.45.35:529][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.45.35:529][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.45.35:530][370]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_70
+[2025.09.23-17.45.38:058][513]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_70.StaticMeshComponent0.
+[2025.09.23-17.45.51:223][242]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.45.51:223][242]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.45.51:224][242]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_71
+[2025.09.23-17.45.51:773][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.23-17.45.51:776][268]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.09.23-17.45.51:787][268]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.45.51:787][268]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Shack.Shack
+[2025.09.23-17.45.51:789][268]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Shack.Shack as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_72
+[2025.09.23-17.45.53:782][377]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_72.StaticMeshComponent0.
+[2025.09.23-17.46.08:358][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.46.08:358][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.46.08:359][183]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Barrel.Barrel as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_73
+[2025.09.23-17.46.09:297][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.09.23-17.46.09:301][234]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.09.23-17.46.09:311][234]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.46.09:311][234]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Barrel.Barrel
+[2025.09.23-17.46.09:313][234]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Barrel.Barrel as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_74
+[2025.09.23-17.46.47:148][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.46.47:148][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.46.47:148][294]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Wall.Wall as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_75
+[2025.09.23-17.46.48:104][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.09.23-17.46.48:108][338]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.09.23-17.46.48:119][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.46.48:119][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.46.48:120][338]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Wall.Wall as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_76
+[2025.09.23-17.47.21:697][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.47.21:697][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.47.21:698][225]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Wall.Wall as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_77
+[2025.09.23-17.47.22:852][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.09.23-17.47.22:855][279]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.09.23-17.47.22:866][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.47.22:866][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.47.22:868][279]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Wall.Wall as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_78
+[2025.09.23-17.47.25:230][411]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5765.039062
+[2025.09.23-17.47.25:528][429]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-17.47.25:528][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5765.323242, Update Interval: 345.900452
+[2025.09.23-17.48.04:664][654]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.48.04:664][654]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.48.04:665][654]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Wall.Wall as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_79
+[2025.09.23-17.48.07:810][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.09.23-17.48.07:812][831]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.09.23-17.48.07:823][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.48.07:823][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.48.07:825][831]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Wall.Wall as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_80
+[2025.09.23-17.48.49:712][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.48.49:712][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.48.49:713][279]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Wall.Wall as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_81
+[2025.09.23-17.48.50:480][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.09.23-17.48.50:482][318]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.09.23-17.48.50:494][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.48.50:494][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/POE_Part1/Models/Wall.Wall
+[2025.09.23-17.48.50:495][318]LogActorFactory: Actor Factory spawned StaticMesh /Game/POE_Part1/Models/Wall.Wall as actor: StaticMeshActor /Game/Base_Map.Base_Map:PersistentLevel.StaticMeshActor_82
+[2025.09.23-17.49.24:823][244]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.23-17.49.24:831][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.23-17.49.24:856][244]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.09.23-17.49.24:860][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004497s)
+[2025.09.23-17.49.24:860][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.004555s)
+[2025.09.23-17.49.24:887][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.09.23-17.49.24:889][244]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.23-17.49.24:891][244]LogPlayLevel: PIE: World Init took: (0.001635s)
+[2025.09.23-17.49.24:891][244]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.23-17.49.24:891][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.23-17.49.24:891][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.23-17.49.24:891][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.23-17.49.24:891][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.23-17.49.24:891][244]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.23-17.49.24:891][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.23-17.49.24:891][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.23-17.49.24:891][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.23-17.49.24:891][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.23-17.49.24:891][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.23-17.49.24:891][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.23-17.49.24:894][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.23-17.49.24:946][244]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2025.09.23-17.49.24:946][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.23-17.49.24:946][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.23-17.49.24:946][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.23-17.49.24:947][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.23-17.49.24:947][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2025.09.23-17.49.24:949][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.23-17.49.24:949][244]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.23-17.49.24:949][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.23-17.49.24:949][244]LogAudio: Display: Audio Device (ID: 5) registered with world 'Base_Map'.
+[2025.09.23-17.49.24:949][244]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.23-17.49.24:954][244]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.23-17.49.24:956][244]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.09.23-19.49.24
+[2025.09.23-17.49.24:956][244]LogWorld: Bringing up level for play took: 0.001959
+[2025.09.23-17.49.24:959][244]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.09.23-17.49.24:962][244]PIE: Server logged in
+[2025.09.23-17.49.24:965][244]PIE: Play in editor total start time 0,134 seconds.
+[2025.09.23-17.49.25:022][245]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.23-17.49.57:957][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-17.49.57:957][213]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.09.23-17.49.57:957][213]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-17.49.57:958][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-17.49.57:960][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.23-17.49.57:962][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-17.49.57:983][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-17.49.57:983][213]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.23-17.49.57:983][213]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.09.23-17.49.57:987][213]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.09.23-17.49.57:994][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.09.23-17.49.58:094][214]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.09.23-17.50.01:260][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-17.50.01:367][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base_Map" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/Base_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.23-17.50.01:424][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.09.23-17.50.01:455][391]LogSavePackage: Moving output files for package: /Game/Base_Map
+[2025.09.23-17.50.01:455][391]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Base_Map920BAB0143A178A46041E69343A69F70.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/Base_Map.umap'
+[2025.09.23-17.50.01:473][391]LogFileHelpers: Saving map 'Base_Map' took 0.106
+[2025.09.23-17.50.01:503][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 242.525 ms (total: 1.05 sec)
+[2025.09.23-17.50.01:566][391]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-17.50.01:566][391]LogContentValidation: Enabled validators:
+[2025.09.23-17.50.01:566][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-17.50.01:566][391]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-17.50.01:566][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-17.50.01:566][391]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-17.50.01:566][391]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-17.50.01:566][391]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-17.50.01:566][391]AssetCheck: /Game/Base_Map Validating asset
+[2025.09.23-17.50.04:261][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.09.23-17.50.05:688][546]LogSlate: Window 'Save Content' being destroyed
+[2025.09.23-17.50.05:701][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-17.50.05:795][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Models/Barrel] ([1] browsable assets)...
+[2025.09.23-17.50.05:795][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Barrel]
+[2025.09.23-17.50.05:795][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Models/Barrel" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Barrel.uasset" SILENT=true
+[2025.09.23-17.50.05:815][546]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Barrel
+[2025.09.23-17.50.05:815][546]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Barrel8DA1AEB64144720008EE9E8FB2C6E309.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Barrel.uasset'
+[2025.09.23-17.50.05:818][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Models/Shack] ([1] browsable assets)...
+[2025.09.23-17.50.05:818][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Shack]
+[2025.09.23-17.50.05:818][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Models/Shack" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Shack.uasset" SILENT=true
+[2025.09.23-17.50.05:838][546]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Shack
+[2025.09.23-17.50.05:838][546]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/ShackCAA9E8EB4B110A0D58FED19FA742F7CB.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Shack.uasset'
+[2025.09.23-17.50.05:840][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Models/Single_Building] ([1] browsable assets)...
+[2025.09.23-17.50.05:841][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Single_Building]
+[2025.09.23-17.50.05:841][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Models/Single_Building" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Single_Building.uasset" SILENT=true
+[2025.09.23-17.50.05:860][546]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Single_Building
+[2025.09.23-17.50.05:860][546]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Single_BuildingD31340F9435998DDEE821D9ADD2E8F3F.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Single_Building.uasset'
+[2025.09.23-17.50.05:862][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Models/Wall] ([1] browsable assets)...
+[2025.09.23-17.50.05:862][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Wall]
+[2025.09.23-17.50.05:862][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Models/Wall" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Wall.uasset" SILENT=true
+[2025.09.23-17.50.05:877][546]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Wall
+[2025.09.23-17.50.05:877][546]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/Wall35635008400D64B461649184CB881101.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Content/POE_Part1/Models/Wall.uasset'
+[2025.09.23-17.50.05:917][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 216.834 ms (total: 1.27 sec)
+[2025.09.23-17.50.09:431][546]LogStall: Shutdown...
+[2025.09.23-17.50.09:432][546]LogStall: Shutdown complete.
+[2025.09.23-17.50.09:473][546]LogSlate: Window 'GadeProjectPEWPEW - Unreal Editor' being destroyed
+[2025.09.23-17.50.09:475][546]LogWindowsTextInputMethodSystem: Activated input method: English (South Africa) - (Keyboard).
+[2025.09.23-17.50.10:516][546]LogContentValidation: Display: Starting to validate 4 assets
+[2025.09.23-17.50.10:516][546]LogContentValidation: Enabled validators:
+[2025.09.23-17.50.10:516][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-17.50.10:516][546]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-17.50.10:516][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-17.50.10:516][546]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-17.50.10:516][546]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-17.50.10:517][546]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-17.50.10:517][546]AssetCheck: /Game/POE_Part1/Models/Barrel Validating asset
+[2025.09.23-17.50.10:517][546]AssetCheck: /Game/POE_Part1/Models/Shack Validating asset
+[2025.09.23-17.50.10:517][546]AssetCheck: /Game/POE_Part1/Models/Single_Building Validating asset
+[2025.09.23-17.50.10:517][546]AssetCheck: /Game/POE_Part1/Models/Wall Validating asset
+[2025.09.23-17.50.10:519][546]Cmd: QUIT_EDITOR
+[2025.09.23-17.50.10:519][546]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.23-17.50.10:521][546]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/robin/OneDrive/Documents/GitHub/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.23-17.50.10:553][547]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.23-17.50.10:555][547]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.23-17.50.10:555][547]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.23-17.50.10:556][547]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-17.50.10:556][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-17.50.10:646][547]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.23-17.50.10:646][547]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.09.23-17.50.10:692][547]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.23-17.50.10:784][547]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-17.50.10:784][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-17.50.10:784][547]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-17.50.10:784][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-17.50.10:807][547]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.09.23-17.50.10:807][547]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.23-17.50.10:821][547]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.09.23-17.50.11:479][547]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.23-17.50.11:479][547]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.23-17.50.11:479][547]LogAudio: Display: Audio Device unregistered from world 'Base_Map'.
+[2025.09.23-17.50.11:479][547]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.23-17.50.11:479][547]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.09.23-17.50.11:482][547]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.09.23-17.50.11:489][547]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.23-17.50.11:489][547]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.23-17.50.11:498][547]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.23-17.50.11:499][547]LogExit: Preparing to exit.
+[2025.09.23-17.50.11:816][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.09.23-17.50.13:241][547]LogEditorDataStorage: Deinitializing
+[2025.09.23-17.50.14:074][547]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.23-17.50.14:329][547]LogExit: Editor shut down
+[2025.09.23-17.50.14:340][547]LogExit: Transaction tracking system shut down
+[2025.09.23-17.50.17:633][547]LogExit: Object subsystem successfully closed.
+[2025.09.23-17.50.17:742][547]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.23-17.50.19:531][547]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.09.23-17.50.19:547][547]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.09.23-17.50.19:600][547]LogMemoryProfiler: Shutdown
+[2025.09.23-17.50.19:625][547]LogNetworkingProfiler: Shutdown
+[2025.09.23-17.50.19:625][547]LoadingProfiler: Shutdown
+[2025.09.23-17.50.19:635][547]LogTimingProfiler: Shutdown
