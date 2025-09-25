@@ -5008,3 +5008,92 @@ Sampler Limit: 32
 [2025.09.25-19.52.40:005][103]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31750.650391
 [2025.09.25-19.52.41:339][108]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.25-19.52.41:339][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31751.652344, Update Interval: 327.907959
+[2025.09.25-19.54.00:960][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.09.25-19.54.27:802][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.09.25-19.54.27:822][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Base_Map_Auto8
+[2025.09.25-19.54.27:822][648]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Base_Map_Auto86BB9B422415387FBFB6D1C9ED3891AFA.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/Base_Map_Auto8.umap'
+[2025.09.25-19.54.27:826][648]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base_Map' took 0.045
+[2025.09.25-19.54.27:826][648]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2025.09.25-19.58.42:795][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32113.423828
+[2025.09.25-19.58.43:796][416]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-19.58.43:796][416]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32114.091797, Update Interval: 309.823914
+[2025.09.25-20.04.25:190][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32455.857422
+[2025.09.25-20.04.26:191][443]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-20.04.26:191][443]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32456.525391, Update Interval: 312.235474
+[2025.09.25-20.05.39:976][665]LogDerivedDataCache: C:/Users/abhij/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.25-20.10.22:919][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32813.613281
+[2025.09.25-20.10.24:255][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-20.10.24:255][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32814.613281, Update Interval: 323.449188
+[2025.09.25-20.11.29:626][991]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.25-20.11.29:634][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.25-20.11.29:671][991]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.09.25-20.11.29:677][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004327s)
+[2025.09.25-20.11.29:677][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.004388s)
+[2025.09.25-20.11.29:705][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.25-20.11.29:707][991]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.25-20.11.29:710][991]LogPlayLevel: PIE: World Init took: (0.002056s)
+[2025.09.25-20.11.29:710][991]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.09.25-20.11.29:710][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.25-20.11.29:710][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.25-20.11.29:710][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.25-20.11.29:710][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.25-20.11.29:710][991]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.25-20.11.29:710][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.25-20.11.29:710][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.25-20.11.29:710][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.25-20.11.29:710][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.25-20.11.29:710][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.25-20.11.29:710][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.25-20.11.29:713][991]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.25-20.11.29:754][991]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2025.09.25-20.11.29:754][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.25-20.11.29:754][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.25-20.11.29:754][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.25-20.11.29:755][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.09.25-20.11.29:755][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.09.25-20.11.29:758][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.09.25-20.11.29:758][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.09.25-20.11.29:758][991]LogInit: FAudioDevice initialized with ID 27.
+[2025.09.25-20.11.29:758][991]LogAudio: Display: Audio Device (ID: 27) registered with world 'Base_Map'.
+[2025.09.25-20.11.29:758][991]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.09.25-20.11.29:764][991]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.25-20.11.29:766][991]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.09.25-22.11.29
+[2025.09.25-20.11.29:766][991]LogWorld: Bringing up level for play took: 0.001960
+[2025.09.25-20.11.29:769][991]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.09.25-20.11.29:772][991]PIE: Server logged in
+[2025.09.25-20.11.29:775][991]PIE: Play in editor total start time 0,141 seconds.
+[2025.09.25-20.11.29:824][992]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.25-20.12.08:433][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.25-20.12.08:433][272]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.09.25-20.12.08:433][272]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.25-20.12.08:434][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.25-20.12.08:436][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.25-20.12.08:440][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.25-20.12.08:466][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.25-20.12.08:466][272]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.09.25-20.12.08:466][272]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2025.09.25-20.12.08:469][272]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2025.09.25-20.12.08:477][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.25-20.12.08:551][273]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.09.25-20.15.59:136][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.09.25-20.15.59:143][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.25-20.15.59:185][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base_Map" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/Base_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.25-20.15.59:246][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.09.25-20.15.59:274][612]LogSavePackage: Moving output files for package: /Game/Base_Map
+[2025.09.25-20.15.59:274][612]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Base_Map395278C74721460FBE10BBB60E2CB8C6.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/Base_Map.umap'
+[2025.09.25-20.15.59:286][612]LogFileHelpers: Saving map 'Base_Map' took 0.102
+[2025.09.25-20.15.59:300][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.912 ms (total: 7.89 sec)
+[2025.09.25-20.15.59:336][612]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.25-20.15.59:336][612]LogContentValidation: Enabled validators:
+[2025.09.25-20.15.59:336][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.25-20.15.59:336][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.25-20.15.59:336][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.25-20.15.59:336][612]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.25-20.15.59:336][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.25-20.15.59:336][612]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.25-20.15.59:337][612]AssetCheck: /Game/Base_Map Validating asset
+[2025.09.25-20.16.28:142][210]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33174.507812
+[2025.09.25-20.16.28:584][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-20.16.28:584][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33174.933594, Update Interval: 349.485779
