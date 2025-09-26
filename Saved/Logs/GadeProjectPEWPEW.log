@@ -3770,3 +3770,934 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.26-14.49.26:873][960]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.26-14.49.26:873][960]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6154.934570, Update Interval: 335.402679
 [2025.09.26-14.53.30:837][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.09.26-14.55.59:402][162]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6547.461426
+[2025.09.26-14.56.00:401][165]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-14.56.00:401][165]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6548.127441, Update Interval: 339.119843
+[2025.09.26-15.02.21:784][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6929.858398
+[2025.09.26-15.02.22:785][312]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-15.02.22:785][312]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6930.524902, Update Interval: 313.489807
+[2025.09.26-15.08.08:177][348]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7276.251465
+[2025.09.26-15.08.09:177][351]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-15.08.09:177][351]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7276.917969, Update Interval: 322.954803
+[2025.09.26-15.08.47:339][466]LogDerivedDataCache: C:/Users/abhij/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.26-15.14.19:581][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7647.657227
+[2025.09.26-15.14.20:580][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-15.14.20:580][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7648.322754, Update Interval: 335.388031
+[2025.09.26-15.20.41:642][609]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8029.721191
+[2025.09.26-15.20.42:642][611]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-15.20.42:642][611]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8030.388672, Update Interval: 328.105713
+[2025.09.26-15.22.53:516][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.09.26-15.22.53:521][251]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base_Map' took 0.031
+[2025.09.26-15.22.53:521][251]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.09.26-15.22.53:730][251]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part1/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2025.09.26-15.22.53:730][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.09.26-15.22.53:772][251]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Blueprints/BP_FPS_Character_Auto6
+[2025.09.26-15.22.53:772][251]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_Character_Auto628B3A23A47509E23BC7076932CBC99C7.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Blueprints/BP_FPS_Character_Auto6.uasset'
+[2025.09.26-15.22.53:774][251]LogFileHelpers: Auto-saving content packages took 0.253
+[2025.09.26-15.26.50:874][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8398.938477
+[2025.09.26-15.26.51:874][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-15.26.51:874][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8399.605469, Update Interval: 349.837341
+[2025.09.26-15.33.23:601][678]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8791.653320
+[2025.09.26-15.33.24:936][682]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-15.33.24:936][682]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8792.653320, Update Interval: 310.237732
+[2025.09.26-15.39.05:323][703]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9133.366211
+[2025.09.26-15.39.06:324][706]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-15.39.06:324][706]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9134.034180, Update Interval: 350.956146
+[2025.09.26-15.45.49:723][917]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9537.779297
+[2025.09.26-15.45.50:723][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-15.45.50:723][920]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9538.446289, Update Interval: 334.406555
+[2025.09.26-15.52.03:790][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9911.837891
+[2025.09.26-15.52.04:789][ 42]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-15.52.04:789][ 42]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9912.504883, Update Interval: 305.778992
+[2025.09.26-15.57.44:520][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10252.558594
+[2025.09.26-15.57.45:519][ 64]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-15.57.45:519][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10253.225586, Update Interval: 357.795349
+[2025.09.26-16.04.14:575][230]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10642.625977
+[2025.09.26-16.04.15:575][233]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-16.04.15:575][233]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10643.292969, Update Interval: 313.927429
+[2025.09.26-16.08.47:340][ 49]LogDerivedDataCache: C:/Users/abhij/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.26-16.10.16:299][316]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11004.356445
+[2025.09.26-16.10.17:302][318]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-16.10.17:302][318]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11005.024414, Update Interval: 301.785339
+[2025.09.26-16.16.01:699][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11349.750977
+[2025.09.26-16.16.03:034][356]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-16.16.03:034][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11350.752930, Update Interval: 311.299774
+[2025.09.26-16.21.48:083][390]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11696.130859
+[2025.09.26-16.21.49:417][394]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-16.21.49:417][394]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11697.134766, Update Interval: 340.267944
+[2025.09.26-16.28.23:155][575]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12091.201172
+[2025.09.26-16.28.24:154][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-16.28.24:154][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12091.867188, Update Interval: 339.683838
+[2025.09.26-16.34.51:883][741]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12479.934570
+[2025.09.26-16.34.53:883][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-16.34.53:883][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12481.601562, Update Interval: 340.983917
+[2025.09.26-16.41.16:274][895]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12864.331055
+[2025.09.26-16.41.17:275][897]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-16.41.17:275][897]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12864.999023, Update Interval: 334.108093
+[2025.09.26-16.47.38:351][ 41]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13246.411133
+[2025.09.26-16.47.39:351][ 43]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-16.47.39:351][ 43]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13247.076172, Update Interval: 306.886810
+[2025.09.26-16.53.18:404][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13586.456055
+[2025.09.26-16.53.19:737][ 64]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-16.53.19:737][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13587.456055, Update Interval: 329.883728
+[2025.09.26-16.59.31:802][181]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13959.853516
+[2025.09.26-16.59.32:803][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-16.59.32:803][184]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13960.520508, Update Interval: 334.307678
+[2025.09.26-17.02.01:284][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.09.26-17.02.01:291][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-17.02.01:326][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.09.26-17.02.01:326][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.09.26-17.02.01:363][829]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/BP_FPS_Character
+[2025.09.26-17.02.01:363][829]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_Character7BBB6C0748EE038F2622DF86AE5EE4B7.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_FPS_Character.uasset'
+[2025.09.26-17.02.01:374][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.992 ms (total: 4.57 sec)
+[2025.09.26-17.02.01:412][829]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-17.02.01:412][829]LogContentValidation: Enabled validators:
+[2025.09.26-17.02.01:412][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-17.02.01:412][829]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-17.02.01:412][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-17.02.01:412][829]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-17.02.01:412][829]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-17.02.01:412][829]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-17.02.01:412][829]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
+[2025.09.26-17.02.02:807][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.09.26-17.02.10:246][326]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.26-17.02.10:255][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.26-17.02.10:255][326]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.09.26-17.02.10:261][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005161s)
+[2025.09.26-17.02.10:261][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.005250s)
+[2025.09.26-17.02.10:285][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.26-17.02.10:293][326]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.26-17.02.10:296][326]LogPlayLevel: PIE: World Init took: (0.002670s)
+[2025.09.26-17.02.10:296][326]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.09.26-17.02.10:296][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.26-17.02.10:296][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.26-17.02.10:296][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.26-17.02.10:296][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.26-17.02.10:296][326]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.26-17.02.10:296][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.26-17.02.10:296][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.26-17.02.10:296][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.26-17.02.10:296][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.26-17.02.10:296][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.26-17.02.10:296][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.26-17.02.10:299][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.26-17.02.10:341][326]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2025.09.26-17.02.10:342][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.26-17.02.10:342][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.26-17.02.10:342][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.26-17.02.10:344][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.09.26-17.02.10:344][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.09.26-17.02.10:347][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.09.26-17.02.10:347][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.09.26-17.02.10:347][326]LogInit: FAudioDevice initialized with ID 18.
+[2025.09.26-17.02.10:347][326]LogAudio: Display: Audio Device (ID: 18) registered with world 'Base_Map'.
+[2025.09.26-17.02.10:347][326]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.09.26-17.02.10:362][326]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.26-17.02.10:364][326]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.09.26-19.02.10
+[2025.09.26-17.02.10:364][326]LogWorld: Bringing up level for play took: 0.002423
+[2025.09.26-17.02.10:367][326]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2025.09.26-17.02.10:372][326]PIE: Server logged in
+[2025.09.26-17.02.10:375][326]PIE: Play in editor total start time 0,121 seconds.
+[2025.09.26-17.02.10:425][327]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.26-17.02.14:973][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.26-17.02.14:973][572]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.09.26-17.02.14:973][572]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-17.02.14:974][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-17.02.14:976][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.26-17.02.14:981][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-17.02.15:006][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.26-17.02.15:006][572]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.09.26-17.02.15:006][572]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.09.26-17.02.15:009][572]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.09.26-17.02.15:015][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.26-17.02.15:018][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.26-17.02.15:048][573]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2025.09.26-17.03.20:180][938]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.26-17.03.20:189][938]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.26-17.03.20:201][939]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.26-17.03.25:225][241]LogContentBrowser: Attempting asset rename: NewFolder -> HealthBar
+[2025.09.26-17.03.25:227][241]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.26-17.05.41:087][752]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14329.109375
+[2025.09.26-17.05.42:089][755]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-17.05.42:089][755]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14329.775391, Update Interval: 345.100250
+[2025.09.26-17.08.47:342][314]LogDerivedDataCache: C:/Users/abhij/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.26-17.12.04:654][906]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14712.653320
+[2025.09.26-17.12.05:655][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-17.12.05:655][908]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14713.321289, Update Interval: 355.475342
+[2025.09.26-17.18.47:728][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15115.737305
+[2025.09.26-17.18.48:728][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-17.18.48:728][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15116.403320, Update Interval: 327.003387
+[2025.09.26-17.25.14:462][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15502.476562
+[2025.09.26-17.25.15:462][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-17.25.15:462][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15503.142578, Update Interval: 301.856750
+[2025.09.26-17.30.56:193][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15844.214844
+[2025.09.26-17.30.57:192][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-17.30.57:192][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15844.879883, Update Interval: 305.008087
+[2025.09.26-17.36.32:246][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16180.251953
+[2025.09.26-17.36.33:245][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-17.36.33:245][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16180.919922, Update Interval: 325.053253
+[2025.09.26-17.42.44:275][417]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.09.26-17.42.44:275][417]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{a895b15a-3ed1-4496-8a9b-484ac85cfd48}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.09.26-17.42.44:405][417]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2025.09.26-17.42.44:523][418]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{a895b15a-3ed1-4496-8a9b-484ac85cfd48}]
+[2025.09.26-17.42.44:523][418]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.09.26-17.42.44:525][418]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.09.26-17.42.46:196][423]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a895b15a-3ed1-4496-8a9b-484ac85cfd48}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1338.19
+[2025.09.26-17.42.46:196][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.09.26-17.42.46:196][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.26-17.42.46:201][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.26-17.42.49:912][430]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16557.925781
+[2025.09.26-17.42.50:976][434]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-17.42.50:976][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16558.667969, Update Interval: 308.970612
+[2025.09.26-17.48.30:203][448]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16898.218750
+[2025.09.26-17.48.31:535][452]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-17.48.31:535][452]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16899.224609, Update Interval: 301.014435
+[2025.09.26-17.54.14:211][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17242.220703
+[2025.09.26-17.54.15:211][480]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-17.54.15:211][480]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17242.886719, Update Interval: 307.650391
+[2025.09.26-18.00.15:643][559]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17603.632812
+[2025.09.26-18.00.16:977][563]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-18.00.16:977][563]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17604.632812, Update Interval: 355.526611
+[2025.09.26-18.06.45:237][726]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17993.248047
+[2025.09.26-18.06.46:237][729]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-18.06.46:237][729]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17993.916016, Update Interval: 355.533936
+[2025.09.26-18.08.47:344][ 93]LogDerivedDataCache: C:/Users/abhij/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.26-18.12.20:424][730]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (USB PnP Sound Device), InstanceID=1
+[2025.09.26-18.12.20:424][730]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{bf8c866b-212e-4c55-9a66-1e4e7aae315a}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.09.26-18.12.20:584][730]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{bf8c866b-212e-4c55-9a66-1e4e7aae315a}]
+[2025.09.26-18.12.20:584][730]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.09.26-18.12.20:584][730]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.09.26-18.12.20:920][731]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bf8c866b-212e-4c55-9a66-1e4e7aae315a}, Name=Speakers (USB PnP Sound Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=140.79
+[2025.09.26-18.12.20:920][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.09.26-18.12.20:920][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.26-18.12.20:922][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.26-18.13.13:311][884]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18381.367188
+[2025.09.26-18.13.14:310][887]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-18.13.14:311][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18382.033203, Update Interval: 340.537109
+[2025.09.26-18.19.48:038][ 68]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18776.146484
+[2025.09.26-18.19.49:373][ 73]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-18.19.49:374][ 73]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18777.146484, Update Interval: 334.743500
+[2025.09.26-18.26.08:437][209]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19156.718750
+[2025.09.26-18.26.09:770][214]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-18.26.09:770][214]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19157.718750, Update Interval: 346.541321
+[2025.09.26-18.30.08:349][ 96]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.26-18.30.08:794][ 96]LogInterchangeEngine: [Pending] Importing
+[2025.09.26-18.30.08:794][ 96]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/abhij/Downloads/Game-Health-Bar-PNG-Photo.png]
+[2025.09.26-18.30.08:875][ 98]LogStreaming: Display: FlushAsyncLoading(726): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.26-18.30.08:880][ 99]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.09.26-18.30.08:903][100]LogTexture: Display: Building textures: /Game/POE_Part1/HealthBar/Game-Health-Bar-PNG-Photo.Game-Health-Bar-PNG-Photo (BGRA8, 746x420 x1x1x1) (Required Memory Estimate: 11.756989 MB), EncodeSpeed: Fast
+[2025.09.26-18.30.08:935][101]LogInterchangeEngine: Display: Interchange import completed [C:/Users/abhij/Downloads/Game-Health-Bar-PNG-Photo.png]
+[2025.09.26-18.30.09:011][101]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.26-18.30.09:011][101]LogInterchangeEngine: [Success] Import Done
+[2025.09.26-18.30.12:855][289]LogStreaming: Display: FlushAsyncLoading(727): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.26-18.30.12:862][289]LogInterchangeEngine: [Pending] Importing
+[2025.09.26-18.30.12:862][289]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/abhij/Downloads/GameHealth Dead.png]
+[2025.09.26-18.30.12:940][291]LogStreaming: Display: FlushAsyncLoading(728): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.26-18.30.13:059][296]LogTexture: Display: Building textures: /Game/POE_Part1/HealthBar/GameHealth_Dead.GameHealth_Dead (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.09.26-18.30.13:257][299]LogInterchangeEngine: Display: Interchange import completed [C:/Users/abhij/Downloads/GameHealth Dead.png]
+[2025.09.26-18.30.13:264][299]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.26-18.30.13:264][299]LogInterchangeEngine: [Success] Import Done
+[2025.09.26-18.30.40:795][931]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/POE_Part1/HealthBar/GameHealth_Dead.GameHealth_Dead
+[2025.09.26-18.30.41:523][931]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2025.09.26-18.30.41:532][931]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2025.09.26-18.30.41:532][931]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2025.09.26-18.30.41:532][931]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2025.09.26-18.30.42:472][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2025.09.26-18.30.42:477][974]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base_Map' took 0.117
+[2025.09.26-18.30.42:478][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/HealthBar/Game-Health-Bar-PNG-Photo] ([1] browsable assets)...
+[2025.09.26-18.30.42:481][974]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/POE_Part1/HealthBar/Game-Health-Bar-PNG-Photo.Game-Health-Bar-PNG-Photo]
+[2025.09.26-18.30.42:481][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/HealthBar/Game-Health-Bar-PNG-Photo]
+[2025.09.26-18.30.42:493][974]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/HealthBar/Game-Health-Bar-PNG-Photo_Auto7
+[2025.09.26-18.30.42:493][974]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Game-Health-Bar-PNG-Photo_Auto7B72A9B694637CAB42CC6749DF3E7A1FE.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/HealthBar/Game-Health-Bar-PNG-Photo_Auto7.uasset'
+[2025.09.26-18.30.42:494][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/HealthBar/GameHealth_Dead] ([1] browsable assets)...
+[2025.09.26-18.30.42:497][974]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/POE_Part1/HealthBar/GameHealth_Dead.GameHealth_Dead]
+[2025.09.26-18.30.42:497][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/HealthBar/GameHealth_Dead]
+[2025.09.26-18.30.42:573][974]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/HealthBar/GameHealth_Dead_Auto7
+[2025.09.26-18.30.42:573][974]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/GameHealth_Dead_Auto752CE18174AC4C3EA6FD868AC840AD135.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/HealthBar/GameHealth_Dead_Auto7.uasset'
+[2025.09.26-18.30.42:573][974]LogFileHelpers: Auto-saving content packages took 0.096
+[2025.09.26-18.31.08:313][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.31.08:352][682]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/HealthBar/GameHealth_Dead] ([1] browsable assets)...
+[2025.09.26-18.31.08:352][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/HealthBar/GameHealth_Dead]
+[2025.09.26-18.31.08:433][682]LogSavePackage: Moving output files for package: /Game/POE_Part1/HealthBar/GameHealth_Dead
+[2025.09.26-18.31.08:433][682]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/GameHealth_DeadA97A567545BAE708E65F04B168254DED.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/HealthBar/GameHealth_Dead.uasset'
+[2025.09.26-18.31.08:452][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.680 ms (total: 4.71 sec)
+[2025.09.26-18.31.08:476][682]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.31.08:476][682]LogContentValidation: Enabled validators:
+[2025.09.26-18.31.08:476][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.31.08:476][682]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.31.08:476][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.31.08:476][682]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.31.08:476][682]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.31.08:476][682]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.31.08:476][682]AssetCheck: /Game/POE_Part1/HealthBar/GameHealth_Dead Validating asset
+[2025.09.26-18.31.08:498][682]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.26-18.31.08:804][701]LogSlate: Window 'GameHealth_Dead' being destroyed
+[2025.09.26-18.31.08:812][701]LogSlate: Window 'GameHealth_Dead' being destroyed
+[2025.09.26-18.31.13:566][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.09.26-18.31.13:672][936]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.09.26-18.31.13:690][936]LogSlate: Took 0.016113 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.09.26-18.31.17:277][936]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.26-18.31.17:330][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.26-18.31.17:355][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.26-18.31.17:380][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.26-18.31.21:208][118]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.26-18.31.21:214][118]LogInterchangeEngine: [Pending] Importing
+[2025.09.26-18.31.21:214][118]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/abhij/Downloads/Screenshot 2025-09-26 203054.png]
+[2025.09.26-18.31.21:292][120]LogStreaming: Display: FlushAsyncLoading(730): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.26-18.31.21:315][122]LogTexture: Display: Building textures: /Game/POE_Part1/HealthBar/Screenshot_2025-09-26_203054.Screenshot_2025-09-26_203054 (BGRA8, 877x203 x1x1x1) (Required Memory Estimate: 7.112194 MB), EncodeSpeed: Fast
+[2025.09.26-18.31.21:342][122]LogInterchangeEngine: Display: Interchange import completed [C:/Users/abhij/Downloads/Screenshot 2025-09-26 203054.png]
+[2025.09.26-18.31.21:347][122]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.26-18.31.21:347][122]LogInterchangeEngine: [Success] Import Done
+[2025.09.26-18.31.23:000][205]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/POE_Part1/HealthBar/Screenshot_2025-09-26_203054.Screenshot_2025-09-26_203054
+[2025.09.26-18.31.28:946][531]LogSlate: Window 'Screenshot_2025-09-26_203054' being destroyed
+[2025.09.26-18.31.28:956][531]LogSlate: Window 'Screenshot_2025-09-26_203054' being destroyed
+[2025.09.26-18.31.30:531][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.09.26-18.31.31:724][621]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.26-18.31.31:768][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.09.26-18.31.31:795][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.09.26-18.31.31:824][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.26-18.31.38:933][800]LogStreaming: Display: FlushAsyncLoading(731): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.26-18.31.38:939][800]LogInterchangeEngine: [Pending] Importing
+[2025.09.26-18.31.38:939][800]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/abhij/Downloads/GameHealth Dead.png]
+[2025.09.26-18.31.39:630][802]LogStreaming: Display: FlushAsyncLoading(732): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.26-18.31.40:290][804]LogInterchangeEngine: Display: Interchange import completed [C:/Users/abhij/Downloads/GameHealth Dead.png]
+[2025.09.26-18.31.40:295][804]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.26-18.31.40:295][804]LogInterchangeEngine: [Success] Import Done
+[2025.09.26-18.31.56:612][966]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/POE_Part1/Widgets/W_WeaponHUD.W_WeaponHUD
+[2025.09.26-18.31.56:613][966]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.09.26-18.31.56:622][966]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.09.26-18.32.31:775][450]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19540.376953
+[2025.09.26-18.32.32:126][471]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-18.32.32:126][471]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19540.718750, Update Interval: 321.491760
+[2025.09.26-18.34.03:565][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.09.26-18.34.04:516][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.34.04:795][600]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Widgets/W_WeaponHUD] ([2] browsable assets)...
+[2025.09.26-18.34.04:804][600]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part1/Widgets/W_WeaponHUD.W_WeaponHUD]
+[2025.09.26-18.34.04:804][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Widgets/W_WeaponHUD]
+[2025.09.26-18.34.04:804][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Widgets/W_WeaponHUD" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset" SILENT=true
+[2025.09.26-18.34.04:835][600]LogSavePackage: Moving output files for package: /Game/POE_Part1/Widgets/W_WeaponHUD
+[2025.09.26-18.34.04:835][600]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/W_WeaponHUDF10B71494A9325D899AA24AE7DB007A3.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset'
+[2025.09.26-18.34.04:848][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 332.057 ms (total: 5.04 sec)
+[2025.09.26-18.34.04:887][600]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.34.04:887][600]LogContentValidation: Enabled validators:
+[2025.09.26-18.34.04:887][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.34.04:887][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.34.04:887][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.34.04:887][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.34.04:887][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.34.04:887][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.34.04:888][600]AssetCheck: /Game/POE_Part1/Widgets/W_WeaponHUD Validating asset
+[2025.09.26-18.34.41:499][296]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.26-18.34.48:514][707]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.26-18.36.21:791][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.26-18.36.22:228][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.36.22:271][955]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Widgets/W_WeaponHUD] ([2] browsable assets)...
+[2025.09.26-18.36.22:274][955]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part1/Widgets/W_WeaponHUD.W_WeaponHUD]
+[2025.09.26-18.36.22:274][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Widgets/W_WeaponHUD]
+[2025.09.26-18.36.22:274][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Widgets/W_WeaponHUD" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset" SILENT=true
+[2025.09.26-18.36.22:301][955]LogSavePackage: Moving output files for package: /Game/POE_Part1/Widgets/W_WeaponHUD
+[2025.09.26-18.36.22:301][955]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/W_WeaponHUDF887AE3046964C61E54EC39CB28D771D.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset'
+[2025.09.26-18.36.22:314][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.681 ms (total: 5.12 sec)
+[2025.09.26-18.36.22:354][955]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.36.22:354][955]LogContentValidation: Enabled validators:
+[2025.09.26-18.36.22:354][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.36.22:354][955]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.36.22:354][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.36.22:354][955]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.36.22:354][955]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.36.22:354][955]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.36.22:355][955]AssetCheck: /Game/POE_Part1/Widgets/W_WeaponHUD Validating asset
+[2025.09.26-18.36.23:527][ 19]LogPSOHitching: Encountered 50 PSO creation hitches so far (0 graphics, 50 compute). 0 of them were precached.
+[2025.09.26-18.36.28:740][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.26-18.36.29:859][312]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.26-18.36.29:958][312]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/POE_Part1/HealthBar/GameHealth_Dead.GameHealth_Dead
+	Asset Type: Texture2D
+[2025.09.26-18.36.30:552][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.26-18.36.30:582][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.26-18.36.30:613][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.26-18.36.34:513][484]LogStreaming: Display: FlushAsyncLoading(733): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.26-18.36.34:523][484]LogInterchangeEngine: [Pending] Importing
+[2025.09.26-18.36.34:523][484]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/abhij/Downloads/Screenshot 2025-09-26 203054.png]
+[2025.09.26-18.36.35:208][486]LogStreaming: Display: FlushAsyncLoading(734): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.26-18.36.35:524][488]LogTexture: Display: Building textures: /Game/POE_Part1/HealthBar/Screenshot_2025-09-26_203054.Screenshot_2025-09-26_203054 (BGRA8, 416x91 x1x1x1) (Required Memory Estimate: 2.299667 MB), EncodeSpeed: Fast
+[2025.09.26-18.36.35:873][488]LogInterchangeEngine: Display: Interchange import completed [C:/Users/abhij/Downloads/Screenshot 2025-09-26 203054.png]
+[2025.09.26-18.36.35:877][488]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.26-18.36.35:877][488]LogInterchangeEngine: [Success] Import Done
+[2025.09.26-18.36.40:593][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.09.26-18.36.40:599][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.36.40:633][564]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/HealthBar/Game-Health-Bar-PNG-Photo] ([1] browsable assets)...
+[2025.09.26-18.36.40:633][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/HealthBar/Game-Health-Bar-PNG-Photo]
+[2025.09.26-18.36.40:647][564]LogSavePackage: Moving output files for package: /Game/POE_Part1/HealthBar/Game-Health-Bar-PNG-Photo
+[2025.09.26-18.36.40:647][564]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Game-Health-Bar-PNG-PhotoCBD3A9D24F849BFD8A9041B175F87784.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/HealthBar/Game-Health-Bar-PNG-Photo.uasset'
+[2025.09.26-18.36.40:659][564]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/HealthBar/Screenshot_2025-09-26_203054] ([1] browsable assets)...
+[2025.09.26-18.36.40:662][564]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/POE_Part1/HealthBar/Screenshot_2025-09-26_203054.Screenshot_2025-09-26_203054]
+[2025.09.26-18.36.40:662][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/HealthBar/Screenshot_2025-09-26_203054]
+[2025.09.26-18.36.40:671][564]LogSavePackage: Moving output files for package: /Game/POE_Part1/HealthBar/Screenshot_2025-09-26_203054
+[2025.09.26-18.36.40:671][564]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Screenshot_2025-09-26_2030546E29282B4C6D271381B7C8856808982F.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/HealthBar/Screenshot_2025-09-26_203054.uasset'
+[2025.09.26-18.36.40:684][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.477 ms (total: 5.21 sec)
+[2025.09.26-18.36.40:723][564]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.26-18.36.40:723][564]LogContentValidation: Enabled validators:
+[2025.09.26-18.36.40:723][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.36.40:723][564]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.36.40:723][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.36.40:723][564]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.36.40:723][564]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.36.40:723][564]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.36.40:723][564]AssetCheck: /Game/POE_Part1/HealthBar/Game-Health-Bar-PNG-Photo Validating asset
+[2025.09.26-18.36.40:723][564]AssetCheck: /Game/POE_Part1/HealthBar/Screenshot_2025-09-26_203054 Validating asset
+[2025.09.26-18.36.40:740][564]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.26-18.38.16:491][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.09.26-18.38.17:102][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.38.17:128][203]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Widgets/W_WeaponHUD] ([2] browsable assets)...
+[2025.09.26-18.38.17:135][203]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part1/Widgets/W_WeaponHUD.W_WeaponHUD]
+[2025.09.26-18.38.17:135][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Widgets/W_WeaponHUD]
+[2025.09.26-18.38.17:135][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Widgets/W_WeaponHUD" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset" SILENT=true
+[2025.09.26-18.38.17:162][203]LogSavePackage: Moving output files for package: /Game/POE_Part1/Widgets/W_WeaponHUD
+[2025.09.26-18.38.17:163][203]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/W_WeaponHUDA582189446B76F21A2AA06B46EC7FF26.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset'
+[2025.09.26-18.38.17:173][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.410 ms (total: 5.28 sec)
+[2025.09.26-18.38.17:203][203]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.38.17:204][203]LogContentValidation: Enabled validators:
+[2025.09.26-18.38.17:204][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.38.17:204][203]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.38.17:204][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.38.17:204][203]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.38.17:204][203]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.38.17:204][203]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.38.17:205][203]AssetCheck: /Game/POE_Part1/Widgets/W_WeaponHUD Validating asset
+[2025.09.26-18.38.37:926][780]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19907.421875
+[2025.09.26-18.38.38:275][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-18.38.38:276][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19907.755859, Update Interval: 355.380096
+[2025.09.26-18.40.05:739][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.26-18.40.06:253][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.40.06:300][ 58]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Widgets/W_WeaponHUD] ([2] browsable assets)...
+[2025.09.26-18.40.06:302][ 58]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part1/Widgets/W_WeaponHUD.W_WeaponHUD]
+[2025.09.26-18.40.06:302][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Widgets/W_WeaponHUD]
+[2025.09.26-18.40.06:302][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Widgets/W_WeaponHUD" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset" SILENT=true
+[2025.09.26-18.40.06:327][ 58]LogSavePackage: Moving output files for package: /Game/POE_Part1/Widgets/W_WeaponHUD
+[2025.09.26-18.40.06:328][ 58]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/W_WeaponHUD4E1607124E25AADFF0F3E998C7A1AA3B.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset'
+[2025.09.26-18.40.06:342][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.166 ms (total: 5.37 sec)
+[2025.09.26-18.40.06:378][ 58]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.40.06:378][ 58]LogContentValidation: Enabled validators:
+[2025.09.26-18.40.06:378][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.40.06:378][ 58]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.40.06:378][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.40.06:378][ 58]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.40.06:378][ 58]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.40.06:378][ 58]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.40.06:378][ 58]AssetCheck: /Game/POE_Part1/Widgets/W_WeaponHUD Validating asset
+[2025.09.26-18.40.08:008][146]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.26-18.40.08:017][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.26-18.40.08:017][146]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.09.26-18.40.08:025][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007341s)
+[2025.09.26-18.40.08:025][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.007419s)
+[2025.09.26-18.40.08:052][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.26-18.40.08:058][146]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.26-18.40.08:061][146]LogPlayLevel: PIE: World Init took: (0.002700s)
+[2025.09.26-18.40.08:062][146]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.09.26-18.40.08:062][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.26-18.40.08:062][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.26-18.40.08:062][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.26-18.40.08:062][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.26-18.40.08:062][146]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.26-18.40.08:062][146]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.26-18.40.08:062][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.26-18.40.08:062][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.26-18.40.08:062][146]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.26-18.40.08:062][146]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.26-18.40.08:062][146]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.26-18.40.08:065][146]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.26-18.40.08:109][146]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2025.09.26-18.40.08:109][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.26-18.40.08:109][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.26-18.40.08:109][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.26-18.40.08:110][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.09.26-18.40.08:110][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.09.26-18.40.08:112][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.09.26-18.40.08:112][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.09.26-18.40.08:112][146]LogInit: FAudioDevice initialized with ID 19.
+[2025.09.26-18.40.08:112][146]LogAudio: Display: Audio Device (ID: 19) registered with world 'Base_Map'.
+[2025.09.26-18.40.08:112][146]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.09.26-18.40.08:121][146]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.26-18.40.08:123][146]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.09.26-20.40.08
+[2025.09.26-18.40.08:123][146]LogWorld: Bringing up level for play took: 0.002055
+[2025.09.26-18.40.08:126][146]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2025.09.26-18.40.08:131][146]PIE: Server logged in
+[2025.09.26-18.40.08:133][146]PIE: Play in editor total start time 0,116 seconds.
+[2025.09.26-18.40.08:188][147]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.26-18.40.12:981][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.26-18.40.12:982][409]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.09.26-18.40.12:982][409]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-18.40.12:982][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-18.40.12:985][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.26-18.40.12:989][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-18.40.13:013][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.26-18.40.13:013][409]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.09.26-18.40.13:013][409]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.09.26-18.40.13:016][409]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.09.26-18.40.13:021][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.26-18.40.13:024][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.09.26-18.40.13:096][411]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2025.09.26-18.40.48:142][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.26-18.40.48:144][780]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base_Map' took 0.026
+[2025.09.26-18.40.48:145][780]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Widgets/W_WeaponHUD] ([2] browsable assets)...
+[2025.09.26-18.40.48:148][780]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part1/Widgets/W_WeaponHUD.W_WeaponHUD]
+[2025.09.26-18.40.48:149][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Widgets/W_WeaponHUD]
+[2025.09.26-18.40.48:176][780]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Widgets/W_WeaponHUD_Auto8
+[2025.09.26-18.40.48:176][780]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/W_WeaponHUD_Auto86D5E597143F4B67E4771A29ECCEC26D6.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Widgets/W_WeaponHUD_Auto8.uasset'
+[2025.09.26-18.40.48:181][780]LogFileHelpers: Auto-saving content packages took 0.037
+[2025.09.26-18.41.03:527][686]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.26-18.41.05:747][816]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.26-18.41.22:857][826]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.26-18.41.40:066][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.26-18.41.41:074][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.41.41:109][898]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Widgets/W_WeaponHUD] ([2] browsable assets)...
+[2025.09.26-18.41.41:111][898]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part1/Widgets/W_WeaponHUD.W_WeaponHUD]
+[2025.09.26-18.41.41:112][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Widgets/W_WeaponHUD]
+[2025.09.26-18.41.41:112][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Widgets/W_WeaponHUD" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset" SILENT=true
+[2025.09.26-18.41.41:137][898]LogSavePackage: Moving output files for package: /Game/POE_Part1/Widgets/W_WeaponHUD
+[2025.09.26-18.41.41:137][898]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/W_WeaponHUDC8C88F0B462820A9838E57B11907B3CF.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset'
+[2025.09.26-18.41.41:149][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.615 ms (total: 5.44 sec)
+[2025.09.26-18.41.41:185][898]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.41.41:185][898]LogContentValidation: Enabled validators:
+[2025.09.26-18.41.41:185][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.41.41:185][898]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.41.41:185][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.41.41:185][898]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.41.41:185][898]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.41.41:185][898]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.41.41:186][898]AssetCheck: /Game/POE_Part1/Widgets/W_WeaponHUD Validating asset
+[2025.09.26-18.42.51:710][308]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.26-18.42.55:975][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.09.26-18.42.56:726][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.42.56:764][588]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Widgets/W_WeaponHUD] ([2] browsable assets)...
+[2025.09.26-18.42.56:768][588]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part1/Widgets/W_WeaponHUD.W_WeaponHUD]
+[2025.09.26-18.42.56:768][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Widgets/W_WeaponHUD]
+[2025.09.26-18.42.56:768][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Widgets/W_WeaponHUD" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset" SILENT=true
+[2025.09.26-18.42.56:794][588]LogSavePackage: Moving output files for package: /Game/POE_Part1/Widgets/W_WeaponHUD
+[2025.09.26-18.42.56:795][588]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/W_WeaponHUD440D3A39473F94B06681079553A681B2.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset'
+[2025.09.26-18.42.56:805][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.501 ms (total: 5.52 sec)
+[2025.09.26-18.42.56:839][588]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.42.56:839][588]LogContentValidation: Enabled validators:
+[2025.09.26-18.42.56:839][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.42.56:839][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.42.56:839][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.42.56:839][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.42.56:839][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.42.56:839][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.42.56:839][588]AssetCheck: /Game/POE_Part1/Widgets/W_WeaponHUD Validating asset
+[2025.09.26-18.42.59:320][728]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.26-18.42.59:327][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.26-18.42.59:327][728]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.09.26-18.42.59:332][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003887s)
+[2025.09.26-18.42.59:332][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.003926s)
+[2025.09.26-18.42.59:357][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.26-18.42.59:360][728]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.26-18.42.59:362][728]LogPlayLevel: PIE: World Init took: (0.001908s)
+[2025.09.26-18.42.59:363][728]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.09.26-18.42.59:363][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.26-18.42.59:363][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.26-18.42.59:363][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.26-18.42.59:363][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.26-18.42.59:363][728]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.26-18.42.59:363][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.26-18.42.59:363][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.26-18.42.59:363][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.26-18.42.59:363][728]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.26-18.42.59:363][728]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.26-18.42.59:363][728]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.26-18.42.59:366][728]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.26-18.42.59:409][728]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2025.09.26-18.42.59:409][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.26-18.42.59:409][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.26-18.42.59:409][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.26-18.42.59:409][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.09.26-18.42.59:409][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.09.26-18.42.59:412][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.09.26-18.42.59:412][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.09.26-18.42.59:412][728]LogInit: FAudioDevice initialized with ID 20.
+[2025.09.26-18.42.59:412][728]LogAudio: Display: Audio Device (ID: 20) registered with world 'Base_Map'.
+[2025.09.26-18.42.59:412][728]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.09.26-18.42.59:417][728]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.26-18.42.59:419][728]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.09.26-20.42.59
+[2025.09.26-18.42.59:419][728]LogWorld: Bringing up level for play took: 0.001996
+[2025.09.26-18.42.59:422][728]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2025.09.26-18.42.59:425][728]PIE: Server logged in
+[2025.09.26-18.42.59:428][728]PIE: Play in editor total start time 0,101 seconds.
+[2025.09.26-18.42.59:505][729]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.26-18.43.02:891][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.26-18.43.02:891][920]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.09.26-18.43.02:891][920]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-18.43.02:892][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-18.43.02:894][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.26-18.43.02:898][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-18.43.02:920][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.26-18.43.02:920][920]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.09.26-18.43.02:920][920]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.09.26-18.43.02:923][920]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.09.26-18.43.02:927][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.26-18.43.02:929][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.09.26-18.43.02:998][922]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2025.09.26-18.43.59:893][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.09.26-18.44.00:892][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.44.00:938][ 72]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.09.26-18.44.01:033][ 72]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part1/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2025.09.26-18.44.01:033][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.09.26-18.44.01:085][ 72]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/BP_FPS_Character
+[2025.09.26-18.44.01:086][ 72]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_CharacterE41DB37947EDFAF99BEA8C80D11F5407.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_FPS_Character.uasset'
+[2025.09.26-18.44.01:099][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 207.574 ms (total: 5.73 sec)
+[2025.09.26-18.44.01:147][ 72]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.44.01:148][ 72]LogContentValidation: Enabled validators:
+[2025.09.26-18.44.01:148][ 72]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.44.01:148][ 72]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.44.01:148][ 72]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.44.01:148][ 72]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.44.01:148][ 72]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.44.01:148][ 72]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.44.01:148][ 72]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
+[2025.09.26-18.44.25:299][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.26-18.44.26:012][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.44.26:046][630]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.09.26-18.44.26:156][630]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part1/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2025.09.26-18.44.26:156][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.09.26-18.44.26:190][630]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/BP_FPS_Character
+[2025.09.26-18.44.26:191][630]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_CharacterD84A8417414DA3F68C0E0393540F68E3.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_FPS_Character.uasset'
+[2025.09.26-18.44.26:203][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.174 ms (total: 5.92 sec)
+[2025.09.26-18.44.26:242][630]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.44.26:242][630]LogContentValidation: Enabled validators:
+[2025.09.26-18.44.26:242][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.44.26:242][630]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.44.26:242][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.44.26:242][630]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.44.26:242][630]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.44.26:242][630]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.44.26:242][630]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
+[2025.09.26-18.45.11:628][602]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20302.197266
+[2025.09.26-18.45.12:627][605]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-18.45.12:627][605]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20302.863281, Update Interval: 350.582611
+[2025.09.26-18.46.20:720][527]LogBlueprint: Error: [AssetLog] C:\Users\abhij\Uni Work C\Coding\Unreal\GadeProjectPEWPEW\Content\POE_Part1\Widgets\W_WeaponHUD.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_FPS_Character  to imply a specific type.
+[2025.09.26-18.46.20:721][527]LogBlueprint: Error: [AssetLog] C:\Users\abhij\Uni Work C\Coding\Unreal\GadeProjectPEWPEW\Content\POE_Part1\Widgets\W_WeaponHUD.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.09.26-18.46.20:767][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.09.26-18.46.21:276][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.46.21:315][549]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Widgets/W_WeaponHUD] ([2] browsable assets)...
+[2025.09.26-18.46.21:321][549]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part1/Widgets/W_WeaponHUD.W_WeaponHUD]
+[2025.09.26-18.46.21:321][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Widgets/W_WeaponHUD]
+[2025.09.26-18.46.21:321][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Widgets/W_WeaponHUD" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset" SILENT=true
+[2025.09.26-18.46.21:351][549]LogSavePackage: Moving output files for package: /Game/POE_Part1/Widgets/W_WeaponHUD
+[2025.09.26-18.46.21:351][549]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/W_WeaponHUD0761D6DE446394783024089A024FB05F.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset'
+[2025.09.26-18.46.21:363][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.568 ms (total: 6.01 sec)
+[2025.09.26-18.46.21:398][549]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.46.21:398][549]LogContentValidation: Enabled validators:
+[2025.09.26-18.46.21:398][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.46.21:398][549]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.46.21:398][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.46.21:398][549]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.46.21:398][549]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.46.21:398][549]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.46.21:399][549]AssetCheck: /Game/POE_Part1/Widgets/W_WeaponHUD Validating asset
+[2025.09.26-18.48.49:040][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.26-18.48.49:546][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.48.49:584][495]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Widgets/W_WeaponHUD] ([2] browsable assets)...
+[2025.09.26-18.48.49:587][495]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part1/Widgets/W_WeaponHUD.W_WeaponHUD]
+[2025.09.26-18.48.49:587][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Widgets/W_WeaponHUD]
+[2025.09.26-18.48.49:587][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Widgets/W_WeaponHUD" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset" SILENT=true
+[2025.09.26-18.48.49:619][495]LogSavePackage: Moving output files for package: /Game/POE_Part1/Widgets/W_WeaponHUD
+[2025.09.26-18.48.49:619][495]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/W_WeaponHUD200CC83C4210A2DE5D6FF88DF5130D2B.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset'
+[2025.09.26-18.48.49:631][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.232 ms (total: 6.09 sec)
+[2025.09.26-18.48.49:673][495]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.48.49:673][495]LogContentValidation: Enabled validators:
+[2025.09.26-18.48.49:673][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.48.49:673][495]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.48.49:673][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.48.49:673][495]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.48.49:673][495]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.48.49:673][495]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.48.49:674][495]AssetCheck: /Game/POE_Part1/Widgets/W_WeaponHUD Validating asset
+[2025.09.26-18.49.39:021][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.09.26-18.49.39:828][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.49.39:859][576]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Widgets/W_WeaponHUD] ([2] browsable assets)...
+[2025.09.26-18.49.39:862][576]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part1/Widgets/W_WeaponHUD.W_WeaponHUD]
+[2025.09.26-18.49.39:862][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Widgets/W_WeaponHUD]
+[2025.09.26-18.49.39:862][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part1/Widgets/W_WeaponHUD" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset" SILENT=true
+[2025.09.26-18.49.39:889][576]LogSavePackage: Moving output files for package: /Game/POE_Part1/Widgets/W_WeaponHUD
+[2025.09.26-18.49.39:890][576]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/W_WeaponHUDDEC3C0B04962365D259FCC902C2B49F1.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Widgets/W_WeaponHUD.uasset'
+[2025.09.26-18.49.39:902][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.755 ms (total: 6.17 sec)
+[2025.09.26-18.49.39:926][576]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.49.39:926][576]LogContentValidation: Enabled validators:
+[2025.09.26-18.49.39:926][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.49.39:926][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.49.39:926][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.49.39:926][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.49.39:926][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.49.39:926][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.49.39:927][576]AssetCheck: /Game/POE_Part1/Widgets/W_WeaponHUD Validating asset
+[2025.09.26-18.51.47:708][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20699.314453
+[2025.09.26-18.51.48:074][344]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-18.51.48:075][344]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20699.667969, Update Interval: 328.290649
+[2025.09.26-18.52.16:259][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.09.26-18.52.16:810][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.52.16:850][444]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.09.26-18.52.16:900][444]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part1/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2025.09.26-18.52.16:900][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.09.26-18.52.16:935][444]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/BP_FPS_Character
+[2025.09.26-18.52.16:936][444]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_CharacterB372044541AAE05B486365BF5E23EF4C.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_FPS_Character.uasset'
+[2025.09.26-18.52.16:946][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.701 ms (total: 6.30 sec)
+[2025.09.26-18.52.16:978][444]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.52.16:978][444]LogContentValidation: Enabled validators:
+[2025.09.26-18.52.16:978][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.52.16:978][444]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.52.16:978][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.52.16:978][444]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.52.16:979][444]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.52.16:979][444]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.52.16:979][444]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
+[2025.09.26-18.52.25:516][575]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.26-18.52.25:524][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.26-18.52.25:571][575]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.09.26-18.52.25:577][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005136s)
+[2025.09.26-18.52.25:577][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.005231s)
+[2025.09.26-18.52.25:601][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.09.26-18.52.25:603][575]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.26-18.52.25:605][575]LogPlayLevel: PIE: World Init took: (0.001778s)
+[2025.09.26-18.52.25:606][575]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.09.26-18.52.25:606][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.26-18.52.25:606][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.26-18.52.25:606][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.26-18.52.25:606][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.26-18.52.25:606][575]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.26-18.52.25:606][575]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.26-18.52.25:606][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.26-18.52.25:606][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.26-18.52.25:606][575]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.26-18.52.25:606][575]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.26-18.52.25:606][575]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.26-18.52.25:609][575]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.26-18.52.25:649][575]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2025.09.26-18.52.25:649][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.26-18.52.25:649][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.26-18.52.25:649][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.26-18.52.25:650][575]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.09.26-18.52.25:650][575]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.09.26-18.52.25:652][575]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.09.26-18.52.25:652][575]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.09.26-18.52.25:652][575]LogInit: FAudioDevice initialized with ID 21.
+[2025.09.26-18.52.25:652][575]LogAudio: Display: Audio Device (ID: 21) registered with world 'Base_Map'.
+[2025.09.26-18.52.25:652][575]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.09.26-18.52.25:657][575]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.26-18.52.25:659][575]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.09.26-20.52.25
+[2025.09.26-18.52.25:659][575]LogWorld: Bringing up level for play took: 0.001895
+[2025.09.26-18.52.25:662][575]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2025.09.26-18.52.25:667][575]PIE: Server logged in
+[2025.09.26-18.52.25:670][575]PIE: Play in editor total start time 0,147 seconds.
+[2025.09.26-18.52.25:733][576]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.26-18.52.30:111][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.26-18.52.30:111][828]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.09.26-18.52.30:112][828]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-18.52.30:112][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-18.52.30:115][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.26-18.52.30:119][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-18.52.30:142][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.26-18.52.30:142][828]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.09.26-18.52.30:142][828]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.09.26-18.52.30:145][828]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.09.26-18.52.30:149][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.26-18.52.30:152][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.26-18.52.30:183][829]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2025.09.26-18.52.48:426][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.09.26-18.52.48:962][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.52.49:012][919]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.09.26-18.52.49:196][919]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part1/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2025.09.26-18.52.49:196][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.09.26-18.52.49:232][919]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/BP_FPS_Character
+[2025.09.26-18.52.49:232][919]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_CharacterC1C19CAE4D232B594DF1A5B6B76ACA30.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_FPS_Character.uasset'
+[2025.09.26-18.52.49:244][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 281.145 ms (total: 6.58 sec)
+[2025.09.26-18.52.49:275][919]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.52.49:275][919]LogContentValidation: Enabled validators:
+[2025.09.26-18.52.49:275][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.52.49:275][919]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.52.49:275][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.52.49:275][919]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.52.49:275][919]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.52.49:275][919]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.52.49:275][919]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
+[2025.09.26-18.52.50:292][972]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.26-18.52.50:300][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.26-18.52.50:300][972]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.09.26-18.52.50:305][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004436s)
+[2025.09.26-18.52.50:305][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.004478s)
+[2025.09.26-18.52.50:332][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.26-18.52.50:335][972]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.26-18.52.50:336][972]LogPlayLevel: PIE: World Init took: (0.001820s)
+[2025.09.26-18.52.50:337][972]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.09.26-18.52.50:337][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.26-18.52.50:337][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.26-18.52.50:337][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.26-18.52.50:337][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.26-18.52.50:337][972]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.26-18.52.50:337][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.26-18.52.50:337][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.26-18.52.50:337][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.26-18.52.50:337][972]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.26-18.52.50:337][972]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.26-18.52.50:337][972]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.26-18.52.50:340][972]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.26-18.52.50:383][972]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2025.09.26-18.52.50:383][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.26-18.52.50:383][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.26-18.52.50:383][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.26-18.52.50:384][972]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.09.26-18.52.50:384][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.09.26-18.52.50:386][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.09.26-18.52.50:386][972]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.09.26-18.52.50:386][972]LogInit: FAudioDevice initialized with ID 22.
+[2025.09.26-18.52.50:386][972]LogAudio: Display: Audio Device (ID: 22) registered with world 'Base_Map'.
+[2025.09.26-18.52.50:386][972]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.09.26-18.52.50:391][972]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.26-18.52.50:393][972]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.09.26-20.52.50
+[2025.09.26-18.52.50:393][972]LogWorld: Bringing up level for play took: 0.001860
+[2025.09.26-18.52.50:395][972]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2025.09.26-18.52.50:399][972]PIE: Server logged in
+[2025.09.26-18.52.50:402][972]PIE: Play in editor total start time 0,102 seconds.
+[2025.09.26-18.52.50:449][973]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.26-18.53.01:143][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.26-18.53.01:143][605]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.09.26-18.53.01:143][605]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-18.53.01:143][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-18.53.01:145][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.26-18.53.01:149][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-18.53.01:171][605]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.26-18.53.01:171][605]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.09.26-18.53.01:171][605]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.09.26-18.53.01:174][605]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.09.26-18.53.01:179][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.26-18.53.01:183][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.09.26-18.53.01:209][606]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2025.09.26-18.54.24:707][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.09.26-18.54.24:709][689]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base_Map' took 0.027
+[2025.09.26-18.54.24:709][689]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.09.26-18.54.24:841][689]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part1/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2025.09.26-18.54.24:841][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.09.26-18.54.24:878][689]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Blueprints/BP_FPS_Character_Auto9
+[2025.09.26-18.54.24:878][689]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_Character_Auto908DAEBF04E23039B4AFF5291C505E1A1.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Blueprints/BP_FPS_Character_Auto9.uasset'
+[2025.09.26-18.54.24:879][689]LogFileHelpers: Auto-saving content packages took 0.170
+[2025.09.26-18.56.54:512][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-18.56.54:553][897]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.09.26-18.56.54:659][897]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part1/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2025.09.26-18.56.54:659][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.09.26-18.56.54:698][897]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/BP_FPS_Character
+[2025.09.26-18.56.54:698][897]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_Character53D090C34A2B8ACF5CB96E99FCADCE29.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_FPS_Character.uasset'
+[2025.09.26-18.56.54:711][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.425 ms (total: 6.78 sec)
+[2025.09.26-18.56.54:749][897]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-18.56.54:749][897]LogContentValidation: Enabled validators:
+[2025.09.26-18.56.54:749][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-18.56.54:749][897]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-18.56.54:749][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-18.56.54:749][897]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-18.56.54:749][897]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-18.56.54:749][897]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-18.56.54:749][897]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
+[2025.09.26-18.57.51:441][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21064.279297
+[2025.09.26-18.57.51:741][316]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-18.57.51:741][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21064.566406, Update Interval: 317.095245
+[2025.09.26-19.03.51:349][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21426.808594
+[2025.09.26-19.03.51:682][379]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.26-19.03.51:682][379]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21427.128906, Update Interval: 359.463501
+[2025.09.26-19.05.01:501][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.09.26-19.05.02:447][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-19.05.02:479][862]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.09.26-19.05.02:589][862]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part1/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2025.09.26-19.05.02:589][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.09.26-19.05.02:624][862]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/BP_FPS_Character
+[2025.09.26-19.05.02:624][862]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_Character8FDD72B64E2BB952081F18A3483F7263.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_FPS_Character.uasset'
+[2025.09.26-19.05.02:636][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.768 ms (total: 6.97 sec)
+[2025.09.26-19.05.02:667][862]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-19.05.02:667][862]LogContentValidation: Enabled validators:
+[2025.09.26-19.05.02:667][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-19.05.02:667][862]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-19.05.02:667][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-19.05.02:667][862]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-19.05.02:667][862]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-19.05.02:667][862]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-19.05.02:667][862]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
+[2025.09.26-19.05.33:473][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.26-19.05.33:925][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-19.05.33:970][ 40]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.09.26-19.05.34:178][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part1/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2025.09.26-19.05.34:178][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.09.26-19.05.34:216][ 40]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/BP_FPS_Character
+[2025.09.26-19.05.34:217][ 40]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_Character0C3EFA1F4BCF5657EAD82191F78752AD.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_FPS_Character.uasset'
+[2025.09.26-19.05.34:228][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 303.031 ms (total: 7.28 sec)
+[2025.09.26-19.05.34:259][ 40]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-19.05.34:259][ 40]LogContentValidation: Enabled validators:
+[2025.09.26-19.05.34:259][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-19.05.34:259][ 40]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-19.05.34:259][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-19.05.34:259][ 40]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-19.05.34:259][ 40]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-19.05.34:259][ 40]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-19.05.34:259][ 40]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
+[2025.09.26-19.05.36:524][160]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.26-19.05.36:530][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.26-19.05.36:530][160]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.09.26-19.05.36:535][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004058s)
+[2025.09.26-19.05.36:535][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.004105s)
+[2025.09.26-19.05.36:559][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.26-19.05.36:564][160]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.26-19.05.36:565][160]LogPlayLevel: PIE: World Init took: (0.001933s)
+[2025.09.26-19.05.36:566][160]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.09.26-19.05.36:566][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.26-19.05.36:566][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.26-19.05.36:566][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.26-19.05.36:566][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.26-19.05.36:566][160]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.26-19.05.36:566][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.26-19.05.36:566][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.26-19.05.36:566][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.26-19.05.36:566][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.26-19.05.36:566][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.26-19.05.36:566][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.26-19.05.36:569][160]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.26-19.05.36:610][160]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2025.09.26-19.05.36:610][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.26-19.05.36:610][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.26-19.05.36:610][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.26-19.05.36:612][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.09.26-19.05.36:612][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.09.26-19.05.36:614][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.09.26-19.05.36:614][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.09.26-19.05.36:614][160]LogInit: FAudioDevice initialized with ID 23.
+[2025.09.26-19.05.36:614][160]LogAudio: Display: Audio Device (ID: 23) registered with world 'Base_Map'.
+[2025.09.26-19.05.36:614][160]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.09.26-19.05.36:619][160]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.26-19.05.36:621][160]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.09.26-21.05.36
+[2025.09.26-19.05.36:621][160]LogWorld: Bringing up level for play took: 0.001823
+[2025.09.26-19.05.36:623][160]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2025.09.26-19.05.36:628][160]PIE: Server logged in
+[2025.09.26-19.05.36:631][160]PIE: Play in editor total start time 0,1 seconds.
+[2025.09.26-19.05.36:680][161]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.26-19.05.42:822][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.26-19.05.42:823][519]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.09.26-19.05.42:823][519]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.26-19.05.42:823][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-19.05.42:825][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.26-19.05.42:829][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.26-19.05.42:851][519]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.26-19.05.42:851][519]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.09.26-19.05.42:851][519]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.09.26-19.05.42:853][519]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.09.26-19.05.42:862][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.26-19.05.42:865][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.26-19.05.42:946][521]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2025.09.26-19.05.51:869][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
