@@ -1434,3 +1434,342 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.09.27-14.13.56:130][654]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5357.521973
 [2025.09.27-14.13.57:127][657]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.27-14.13.57:127][657]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5358.186035, Update Interval: 357.850281
+[2025.09.27-14.18.08:848][133]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.27-14.18.08:862][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.27-14.18.08:863][133]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.09.27-14.18.08:868][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005872s)
+[2025.09.27-14.18.08:868][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.005947s)
+[2025.09.27-14.18.08:895][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.27-14.18.08:898][133]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.27-14.18.08:900][133]LogPlayLevel: PIE: World Init took: (0.002398s)
+[2025.09.27-14.18.08:901][133]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.27-14.18.08:901][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.27-14.18.08:901][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.27-14.18.08:901][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.27-14.18.08:901][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.27-14.18.08:901][133]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.27-14.18.08:901][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.27-14.18.08:901][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.27-14.18.08:901][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.27-14.18.08:901][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.27-14.18.08:901][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.27-14.18.08:901][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.27-14.18.08:904][133]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.27-14.18.08:954][133]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3X Wireless)
+[2025.09.27-14.18.08:955][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.27-14.18.08:955][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.27-14.18.08:955][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.27-14.18.08:955][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.27-14.18.08:955][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.27-14.18.08:958][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.27-14.18.08:958][133]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.27-14.18.08:958][133]LogAudio: Display: Audio Device (ID: 3) registered with world 'Base_Map'.
+[2025.09.27-14.18.08:958][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.27-14.18.08:958][133]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.27-14.18.09:027][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.27-14.18.09:028][133]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.27-14.18.09:030][133]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.09.27-16.18.09
+[2025.09.27-14.18.09:031][133]LogWorld: Bringing up level for play took: 0.002433
+[2025.09.27-14.18.09:034][133]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.09.27-14.18.09:063][133]PIE: Server logged in
+[2025.09.27-14.18.09:067][133]PIE: Play in editor total start time 0,213 seconds.
+[2025.09.27-14.18.09:166][134]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2025.09.27-14.18.09:166][134]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2025.09.27-14.18.09:185][134]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.27-14.18.49:600][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.27-14.18.49:600][973]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.09.27-14.18.49:611][973]LogSlate: Window 'GadeProjectPEWPEW Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.27-14.18.49:635][973]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.27-14.18.49:637][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.18.49:639][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.27-14.18.49:645][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.18.49:689][973]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.27-14.18.49:689][973]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.09.27-14.18.49:692][973]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.09.27-14.18.49:702][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.09.27-14.18.49:737][974]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.09.27-14.18.55:028][289]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.09.27-14.18.55:028][289]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.27-14.18.55:042][290]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.09.27-14.18.55:042][290]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.09.27-14.18.55:080][290]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2025.09.27-14.19.00:029][586]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.09.27-14.19.00:029][586]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.09.27-14.19.00:029][586]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.27-14.19.05:029][884]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.09.27-14.19.05:029][884]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.09.27-14.19.05:029][884]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.27-14.19.10:029][ 43]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.09.27-14.19.10:029][ 43]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.09.27-14.19.10:029][ 43]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.27-14.19.15:030][338]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.09.27-14.19.15:030][338]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.09.27-14.19.15:030][338]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.27-14.19.20:030][543]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.09.27-14.19.20:030][543]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.09.27-14.19.20:030][543]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.27-14.19.25:030][558]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.09.27-14.19.25:030][558]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.09.27-14.19.25:030][558]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.27-14.19.30:030][573]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.09.27-14.19.30:030][573]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.09.27-14.19.30:030][573]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.27-14.19.35:043][588]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.09.27-14.19.35:043][588]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.09.27-14.19.35:043][588]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.27-14.19.40:057][603]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.09.27-14.19.40:057][603]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.09.27-14.19.40:057][603]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.27-14.19.45:060][618]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.09.27-14.19.45:060][618]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.09.27-14.19.45:060][618]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.27-14.19.47:212][624]LogAudioMixer: Error: CreateMasteringVoice failed with result 0x800706BE: The remote procedure call failed. (line: 1277) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0cf23fea-6b58-4b9e-965d-c0a0114d7c95}, Name=Headphones (Arctis Nova 3X Wireless))
+[2025.09.27-14.19.47:329][624]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.09.27-14.19.50:632][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.09.27-14.19.50:632][624]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.27-14.19.50:632][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.27-14.19.50:632][624]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=31472
+[2025.09.27-14.19.50:633][624]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.09.27-14.19.50:634][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.27-14.19.50:671][626]LogAudioMixer: Display: FMixerPlatformXAudio2: Audio device removed [[No Friendly Name for Device]], falling back to other windows default device. bIsRenderDevice=1, InstanceID=1
+[2025.09.27-14.19.50:671][626]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDeviceRemoved', force=1
+[2025.09.27-14.19.50:673][626]LogAudioEnumeration: Warning: FWindowsMMDeviceCache::OnDeviceRemoved: DeviceId='{0.0.0.00000000}.{4e7c549e-fcc8-4582-9e20-77ede675d9b3}' was not in the cache. 
+[2025.09.27-14.19.50:674][626]LogAudioEnumeration: Warning: FWindowsMMDeviceCache::OnDeviceRemoved: DeviceId='{0.0.0.00000000}.{5a5abd9c-2c2d-41a8-9990-651b7ccf16c8}' was not in the cache. 
+[2025.09.27-14.19.50:674][626]LogAudioEnumeration: Warning: FWindowsMMDeviceCache::OnDeviceRemoved: DeviceId='{0.0.0.00000000}.{68dbe822-c1a2-443f-a6a0-a04952d3bf41}' was not in the cache. 
+[2025.09.27-14.19.50:674][626]LogAudioEnumeration: Warning: FWindowsMMDeviceCache::OnDeviceRemoved: DeviceId='{0.0.0.00000000}.{69c1dfa8-df82-4fe0-939c-ed99e5fcbfae}' was not in the cache. 
+[2025.09.27-14.19.50:674][626]LogAudioEnumeration: Warning: FWindowsMMDeviceCache::OnDeviceRemoved: DeviceId='{0.0.0.00000000}.{7bf891f3-9002-4459-a6b4-d352123c525f}' was not in the cache. 
+[2025.09.27-14.19.50:675][626]LogAudioEnumeration: Warning: FWindowsMMDeviceCache::OnDeviceRemoved: DeviceId='{0.0.0.00000000}.{88f6a2a0-29b6-4459-961f-cc6932f256ed}' was not in the cache. 
+[2025.09.27-14.19.50:675][626]LogAudioEnumeration: Warning: FWindowsMMDeviceCache::OnDeviceRemoved: DeviceId='{0.0.0.00000000}.{95503772-eaff-43ba-8f31-c1290c1a06db}' was not in the cache. 
+[2025.09.27-14.19.50:675][626]LogAudioEnumeration: Warning: FWindowsMMDeviceCache::OnDeviceRemoved: DeviceId='{0.0.0.00000000}.{ade163e8-47d4-445e-9327-6a85bbefb6ed}' was not in the cache. 
+[2025.09.27-14.19.50:676][626]LogAudioEnumeration: Warning: FWindowsMMDeviceCache::OnDeviceRemoved: DeviceId='{0.0.0.00000000}.{c4d4fb04-a5c8-4933-99c5-f96a2a605550}' was not in the cache. 
+[2025.09.27-14.19.50:679][626]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.09.27-14.19.50:680][626]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.09.27-14.19.50:680][626]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.09.27-14.19.50:994][626]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.09.27-14.19.50:994][626]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.09.27-14.19.50:994][626]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDeviceRemoved
+[2025.09.27-14.19.51:330][627]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.27-14.19.51:331][627]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.09.27-14.19.51:331][627]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.09.27-14.19.51:331][627]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.27-14.19.51:331][627]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.27-14.19.51:331][627]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=31472
+[2025.09.27-14.19.51:334][627]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.27-14.20.25:329][997]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5746.730957
+[2025.09.27-14.20.25:630][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.27-14.20.25:630][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5747.015625, Update Interval: 332.205566
+[2025.09.27-14.20.48:007][349]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Arctis Nova 3X Wireless), InstanceID=1
+[2025.09.27-14.20.48:007][349]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{0cf23fea-6b58-4b9e-965d-c0a0114d7c95}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.09.27-14.20.48:173][349]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{0cf23fea-6b58-4b9e-965d-c0a0114d7c95}]
+[2025.09.27-14.20.48:174][349]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.09.27-14.20.48:174][349]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.09.27-14.20.48:511][350]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.27-14.20.48:514][350]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0cf23fea-6b58-4b9e-965d-c0a0114d7c95}, Name=Headphones (Arctis Nova 3X Wireless)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=331.50
+[2025.09.27-14.20.48:514][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.09.27-14.20.48:514][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.27-14.20.48:517][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.27-14.26.43:235][224]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6124.636719
+[2025.09.27-14.26.44:232][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.27-14.26.44:232][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6125.300293, Update Interval: 343.300262
+[2025.09.27-14.28.11:342][855]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.27-14.28.11:351][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.27-14.28.11:351][855]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.09.27-14.28.11:358][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005875s)
+[2025.09.27-14.28.11:358][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.005980s)
+[2025.09.27-14.28.11:411][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.27-14.28.11:413][855]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.27-14.28.11:414][855]LogPlayLevel: PIE: World Init took: (0.002079s)
+[2025.09.27-14.28.11:416][855]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.27-14.28.11:416][855]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.27-14.28.11:416][855]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.27-14.28.11:416][855]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.27-14.28.11:416][855]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.27-14.28.11:416][855]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.27-14.28.11:416][855]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.27-14.28.11:416][855]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.27-14.28.11:416][855]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.27-14.28.11:416][855]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.27-14.28.11:416][855]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.27-14.28.11:416][855]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.27-14.28.11:419][855]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.27-14.28.11:461][855]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3X Wireless)
+[2025.09.27-14.28.11:462][855]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.27-14.28.11:462][855]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.27-14.28.11:462][855]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.27-14.28.11:462][855]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.27-14.28.11:462][855]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.27-14.28.11:465][855]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.27-14.28.11:465][855]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.27-14.28.11:465][855]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.27-14.28.11:465][855]LogAudio: Display: Audio Device (ID: 4) registered with world 'Base_Map'.
+[2025.09.27-14.28.11:465][855]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.27-14.28.11:510][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.27-14.28.11:510][855]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.27-14.28.11:512][855]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.09.27-16.28.11
+[2025.09.27-14.28.11:512][855]LogWorld: Bringing up level for play took: 0.001955
+[2025.09.27-14.28.11:515][855]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.09.27-14.28.11:525][855]PIE: Server logged in
+[2025.09.27-14.28.11:530][855]PIE: Play in editor total start time 0,178 seconds.
+[2025.09.27-14.28.11:634][856]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.27-14.29.18:795][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.27-14.29.18:796][659]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.09.27-14.29.18:796][659]LogSlate: Window 'GadeProjectPEWPEW Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.27-14.29.18:808][659]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.27-14.29.18:810][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.29.18:810][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.27-14.29.18:819][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.29.18:861][659]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.27-14.29.18:861][659]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.09.27-14.29.18:864][659]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.09.27-14.29.18:875][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.09.27-14.29.18:913][660]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.09.27-14.32.58:700][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6500.117188
+[2025.09.27-14.32.59:023][979]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.27-14.32.59:023][979]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6500.422852, Update Interval: 310.915253
+[2025.09.27-14.33.33:812][ 47]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.27-14.33.33:821][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.27-14.33.33:821][ 47]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.09.27-14.33.33:826][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005501s)
+[2025.09.27-14.33.33:826][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.005557s)
+[2025.09.27-14.33.33:869][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.09.27-14.33.33:870][ 47]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.09.27-14.33.33:872][ 47]LogPlayLevel: PIE: World Init took: (0.002056s)
+[2025.09.27-14.33.33:873][ 47]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.27-14.33.33:873][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.27-14.33.33:873][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.27-14.33.33:873][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.27-14.33.33:873][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.27-14.33.33:873][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.27-14.33.33:873][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.27-14.33.33:873][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.27-14.33.33:873][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.27-14.33.33:873][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.27-14.33.33:873][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.27-14.33.33:873][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.27-14.33.33:876][ 47]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.27-14.33.33:926][ 47]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3X Wireless)
+[2025.09.27-14.33.33:926][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.27-14.33.33:926][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.27-14.33.33:926][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.27-14.33.33:927][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.27-14.33.33:927][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.27-14.33.33:929][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.27-14.33.33:929][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.27-14.33.33:929][ 47]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.27-14.33.33:929][ 47]LogAudio: Display: Audio Device (ID: 5) registered with world 'Base_Map'.
+[2025.09.27-14.33.33:929][ 47]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.27-14.33.33:969][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.27-14.33.33:969][ 47]LogLoad: Game class is 'GM_GameMode_C'
+[2025.09.27-14.33.33:970][ 47]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.09.27-16.33.33
+[2025.09.27-14.33.33:970][ 47]LogWorld: Bringing up level for play took: 0.002276
+[2025.09.27-14.33.33:974][ 47]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.09.27-14.33.33:984][ 47]PIE: Server logged in
+[2025.09.27-14.33.33:986][ 47]PIE: Play in editor total start time 0,166 seconds.
+[2025.09.27-14.33.34:069][ 48]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.27-14.35.08:396][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.27-14.35.08:396][426]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.09.27-14.35.08:396][426]LogSlate: Window 'GadeProjectPEWPEW Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.27-14.35.08:408][426]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.27-14.35.08:408][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.35.08:410][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.27-14.35.08:414][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.35.08:445][426]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.27-14.35.08:445][426]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.09.27-14.35.08:447][426]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.09.27-14.35.08:458][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.09.27-14.35.08:501][427]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.09.27-14.36.27:536][443]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.09.27-14.36.27:536][443]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.09.27-14.36.33:004][770]LogWindowsTextInputMethodSystem: Activated input method: English (South Africa) - (Keyboard).
+[2025.09.27-14.36.33:004][770]LogWindowsTextInputMethodSystem: Activated input method: English (South Africa) - (Keyboard).
+[2025.09.27-14.38.46:267][552]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6847.645508
+[2025.09.27-14.38.47:270][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.27-14.38.47:270][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6848.312988, Update Interval: 334.631805
+[2025.09.27-14.40.13:070][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.09.27-14.40.13:246][802]LogStall: Shutdown...
+[2025.09.27-14.40.13:247][802]LogStall: Shutdown complete.
+[2025.09.27-14.40.13:359][802]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.27-14.40.13:359][802]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.27-14.40.13:359][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.40.13:516][802]LogSlate: Window 'GadeProjectPEWPEW - Unreal Editor' being destroyed
+[2025.09.27-14.40.14:484][802]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2025.09.27-14.40.14:507][803]Cmd: QUIT_EDITOR
+[2025.09.27-14.40.14:507][803]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.27-14.40.14:655][803]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.27-14.40.14:711][803]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.27-14.40.14:711][803]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.27-14.40.14:816][803]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.09.27-14.40.14:816][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.40.15:059][803]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.27-14.40.15:104][803]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.09.27-14.40.15:264][803]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.27-14.40.15:412][803]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.27-14.40.15:412][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.40.15:415][803]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.27-14.40.15:415][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.40.15:416][803]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.27-14.40.15:416][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.40.15:418][803]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.27-14.40.15:418][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.40.15:430][803]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.27-14.40.15:430][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.40.15:438][803]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.27-14.40.15:438][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.40.15:439][803]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.27-14.40.15:439][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.27-14.40.15:546][803]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.09.27-14.40.15:559][803]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.27-14.40.15:646][803]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.09.27-14.40.16:449][803]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.27-14.40.16:449][803]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.27-14.40.16:449][803]LogAudio: Display: Audio Device unregistered from world 'Base_Map'.
+[2025.09.27-14.40.16:472][803]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.27-14.40.16:472][803]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.09.27-14.40.16:474][803]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.09.27-14.40.16:482][803]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.27-14.40.16:491][803]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.27-14.40.16:493][803]LogWindowsTextInputMethodSystem: Activated input method: English (South Africa) - (Keyboard).
+[2025.09.27-14.40.16:561][803]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.27-14.40.16:561][803]LogExit: Preparing to exit.
+[2025.09.27-14.40.17:239][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.09.27-14.40.17:241][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:241][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.17:242][803]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.27-14.40.18:709][803]LogEditorDataStorage: Deinitializing
+[2025.09.27-14.40.21:032][803]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.27-14.40.22:748][803]LogExit: Editor shut down
+[2025.09.27-14.40.22:764][803]LogExit: Transaction tracking system shut down
+[2025.09.27-14.40.31:639][803]LogExit: Object subsystem successfully closed.
+[2025.09.27-14.40.31:708][803]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.27-14.40.35:469][803]LogMemoryProfiler: Shutdown
+[2025.09.27-14.40.35:505][803]LogNetworkingProfiler: Shutdown
+[2025.09.27-14.40.35:505][803]LoadingProfiler: Shutdown
+[2025.09.27-14.40.35:523][803]LogTimingProfiler: Shutdown
+[2025.09.27-14.40.35:643][803]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.09.27-14.40.35:664][803]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.09.27-14.46.03:101][803]LogDerivedDataCache: C:/Users/robin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.27-15.46.03:104][803]LogDerivedDataCache: C:/Users/robin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
