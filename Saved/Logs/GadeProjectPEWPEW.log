@@ -1465,6 +1465,7 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2025.10.19-12.11.18:131][598]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2025.10.19-12.11.21:933][819]LogContentBrowser: Attempting asset rename: NewFolder -> C++
 [2025.10.19-12.11.21:935][819]LogContentBrowser: End creating deferred item NewFolder
+<<<<<<< Updated upstream
 [2025.10.19-12.11.58:757][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
 [2025.10.19-12.11.58:832][328]LogStall: Shutdown...
 [2025.10.19-12.11.58:833][328]LogStall: Shutdown complete.
@@ -1565,3 +1566,5 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2025.10.19-12.12.05:787][329]LogD3D12RHI: ~FD3D12DynamicRHI
 [2025.10.19-12.12.05:914][329]LogExit: Exiting.
 [2025.10.19-12.12.05:964][329]Log file closed, 10/19/25 14:12:05
+=======
+>>>>>>> Stashed changes
