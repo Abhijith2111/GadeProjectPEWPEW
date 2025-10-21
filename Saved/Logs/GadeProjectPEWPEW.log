@@ -2275,3 +2275,233 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2025.10.21-23.01.56:111][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17706.341797
 [2025.10.21-23.01.56:448][368]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.21-23.01.56:448][368]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17706.658203, Update Interval: 349.857483
+[2025.10.21-23.03.18:889][833]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.10.21-23.03.24:934][185]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.10.21-23.03.40:973][ 11]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.10.21-23.03.41:005][ 12]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2025.10.21-23.03.45:561][219]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/POE_Part1/Models/Arms/Firing_Rifle_Montage.Firing_Rifle_Montage
+[2025.10.21-23.03.45:565][219]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.10.21-23.03.45:587][219]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.03.45:853][219]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.10.21-23.03.54:614][687]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.03.54:614][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.03.54:681][687]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.03.54:681][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.03.54:740][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.21-23.04.04:847][207]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/POE_Part1/Models/Arms/Walking__1__Montage.Walking__1__Montage
+[2025.10.21-23.04.04:848][207]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.10.21-23.04.04:858][207]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.04.05:123][207]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.10.21-23.04.10:508][477]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.04.10:508][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.04.10:551][477]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.04.10:551][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.04.10:609][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.21-23.04.41:674][224]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/POE_Part1/Models/Arms/Firing_Rifle_Montage.Firing_Rifle_Montage
+[2025.10.21-23.04.41:674][224]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.10.21-23.04.41:685][224]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.04.41:951][224]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.10.21-23.06.06:015][593]Cmd: TRANSACTION UNDO
+[2025.10.21-23.06.06:015][593]LogEditorTransaction: Undo Set Scale
+[2025.10.21-23.06.06:894][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.06.06:896][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.06.06:899][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.06.06:902][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.06.06:924][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.06.06:938][593]Cmd: TRANSACTION UNDO
+[2025.10.21-23.06.06:938][593]LogEditorTransaction: Undo Rotate Bone
+[2025.10.21-23.06.07:904][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.06.07:905][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.06.07:906][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.06.07:909][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.06.07:931][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.10:041][465]Cmd: TRANSACTION UNDO
+[2025.10.21-23.07.10:041][465]LogEditorTransaction: Undo Insert Notify Track
+[2025.10.21-23.07.10:900][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.10:901][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.10:903][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.10:908][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.10:926][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.10:939][465]Cmd: TRANSACTION UNDO
+[2025.10.21-23.07.10:939][465]LogEditorTransaction: Undo Add Notify Track
+[2025.10.21-23.07.11:821][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.11:822][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.11:825][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.11:831][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.11:855][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.11:859][465]Cmd: TRANSACTION UNDO
+[2025.10.21-23.07.11:859][465]LogEditorTransaction: Undo Translate Bone
+[2025.10.21-23.07.12:765][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.12:766][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.12:770][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.12:775][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.07.12:795][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.21-23.08.10:149][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.21-23.08.10:152][408]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base_Map' took 0.057
+[2025.10.21-23.08.10:152][408]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part1/Models/Arms/Firing_Rifle_Montage] ([1] browsable assets)...
+[2025.10.21-23.08.10:191][408]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/POE_Part1/Models/Arms/Firing_Rifle_Montage.Firing_Rifle_Montage]
+[2025.10.21-23.08.10:191][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Arms/Firing_Rifle_Montage]
+[2025.10.21-23.08.10:203][408]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part1/Models/Arms/Firing_Rifle_Montage_Auto3
+[2025.10.21-23.08.10:203][408]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Firing_Rifle_Montage_Auto36FCE9653499B7A4CA834A58F58BC2918.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part1/Models/Arms/Firing_Rifle_Montage_Auto3.uasset'
+[2025.10.21-23.08.10:204][408]LogFileHelpers: Auto-saving content packages took 0.053
+[2025.10.21-23.08.30:370][469]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18101.267578
+[2025.10.21-23.08.31:368][472]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-23.08.31:368][472]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18101.931641, Update Interval: 333.622864
+[2025.10.21-23.08.39:031][495]LogDerivedDataCache: C:/Users/abhij/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.21-23.09.03:694][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-23.09.03:762][690]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Models/Arms/Firing_Rifle_Montage] ([1] browsable assets)...
+[2025.10.21-23.09.03:763][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Models/Arms/Firing_Rifle_Montage]
+[2025.10.21-23.09.03:773][690]LogSavePackage: Moving output files for package: /Game/POE_Part1/Models/Arms/Firing_Rifle_Montage
+[2025.10.21-23.09.03:773][690]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Firing_Rifle_MontageE304FCCD46E7793DAEF0598C030F6B10.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Models/Arms/Firing_Rifle_Montage.uasset'
+[2025.10.21-23.09.03:782][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.024 ms (total: 3.06 sec)
+[2025.10.21-23.09.03:854][690]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-23.09.03:854][690]LogContentValidation: Enabled validators:
+[2025.10.21-23.09.03:854][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-23.09.03:854][690]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-23.09.03:854][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-23.09.03:854][690]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-23.09.03:854][690]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-23.09.03:854][690]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-23.09.03:854][690]AssetCheck: /Game/POE_Part1/Models/Arms/Firing_Rifle_Montage Validating asset
+[2025.10.21-23.10.04:668][ 77]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.21-23.10.04:698][ 77]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.21-23.10.04:720][ 78]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.21-23.10.08:625][283]LogContentBrowser: Attempting asset rename: NewFolder -> AIGuys
+[2025.10.21-23.10.08:629][283]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.21-23.10.17:505][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-23.10.17:505][705]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part2/AI/AIGuys/AP_AI_Noir] ([2] browsable assets)...
+[2025.10.21-23.10.17:574][705]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/POE_Part2/AI/AIGuys/AP_AI_Noir.AP_AI_Noir_C]
+[2025.10.21-23.10.17:574][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/AIGuys/AP_AI_Noir]
+[2025.10.21-23.10.17:589][705]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/AIGuys/AP_AI_Noir
+[2025.10.21-23.10.17:589][705]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/AP_AI_Noir4AA2876A4BB8F2E3634C07B106B79446.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/AP_AI_Noir.uasset'
+[2025.10.21-23.10.17:595][705]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/POE_Part2/AI/AIGuys/AP_AI_Noir.
+[2025.10.21-23.10.17:597][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part2/AI/AP_AI_Noir] ([5] browsable assets)...
+[2025.10.21-23.10.17:597][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/AP_AI_Noir]
+[2025.10.21-23.10.17:597][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part2/AI/AP_AI_Noir" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AP_AI_Noir.uasset" SILENT=true
+[2025.10.21-23.10.17:606][705]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/AP_AI_Noir
+[2025.10.21-23.10.17:606][705]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/AP_AI_Noir801D3C2742FDEDCB4C43D7AFBB42C81A.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AP_AI_Noir.uasset'
+[2025.10.21-23.10.17:610][705]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part2/AI/AIGuys/AP_AI_Zombie] ([2] browsable assets)...
+[2025.10.21-23.10.17:628][705]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/POE_Part2/AI/AIGuys/AP_AI_Zombie.AP_AI_Zombie_C]
+[2025.10.21-23.10.17:628][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/AIGuys/AP_AI_Zombie]
+[2025.10.21-23.10.17:644][705]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/AIGuys/AP_AI_Zombie
+[2025.10.21-23.10.17:644][705]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/AP_AI_ZombieD1C3FEF64DFE9C88E61E3ABD8554F595.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/AP_AI_Zombie.uasset'
+[2025.10.21-23.10.17:651][705]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/POE_Part2/AI/AIGuys/AP_AI_Zombie.
+[2025.10.21-23.10.17:652][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part2/AI/AP_AI_Zombie] ([5] browsable assets)...
+[2025.10.21-23.10.17:652][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/AP_AI_Zombie]
+[2025.10.21-23.10.17:652][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part2/AI/AP_AI_Zombie" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AP_AI_Zombie.uasset" SILENT=true
+[2025.10.21-23.10.17:661][705]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/AP_AI_Zombie
+[2025.10.21-23.10.17:662][705]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/AP_AI_Zombie0C33B4644E83AB2B22D943A79341B0E6.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AP_AI_Zombie.uasset'
+[2025.10.21-23.10.17:666][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.524 ms (total: 3.22 sec)
+[2025.10.21-23.10.17:721][705]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.21-23.10.17:721][705]LogContentValidation: Display: Starting to validate 8 assets
+[2025.10.21-23.10.17:721][705]LogContentValidation: Enabled validators:
+[2025.10.21-23.10.17:721][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-23.10.17:721][705]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-23.10.17:721][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-23.10.17:721][705]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-23.10.17:721][705]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-23.10.17:721][705]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-23.10.17:722][705]AssetCheck: /Game/POE_Part2/AI/AIGuys/AP_AI_Noir Validating asset
+[2025.10.21-23.10.17:722][705]AssetCheck: /Game/POE_Part2/AI/AP_AI_Noir Validating asset
+[2025.10.21-23.10.17:722][705]AssetCheck: /Game/POE_Part2/AI/AP_AI_Noir Validating asset
+[2025.10.21-23.10.17:722][705]AssetCheck: /Game/POE_Part2/AI/AP_AI_Noir Validating asset
+[2025.10.21-23.10.17:722][705]AssetCheck: /Game/POE_Part2/AI/AIGuys/AP_AI_Zombie Validating asset
+[2025.10.21-23.10.17:722][705]AssetCheck: /Game/POE_Part2/AI/AP_AI_Zombie Validating asset
+[2025.10.21-23.10.17:722][705]AssetCheck: /Game/POE_Part2/AI/AP_AI_Zombie Validating asset
+[2025.10.21-23.10.17:722][705]AssetCheck: /Game/POE_Part2/AI/AP_AI_Zombie Validating asset
+[2025.10.21-23.10.17:745][705]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.21-23.10.27:447][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-23.10.27:447][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part2/AI/AIGuys/BP_AI] ([2] browsable assets)...
+[2025.10.21-23.10.27:447][197]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.10.21-23.10.27:526][197]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/POE_Part2/AI/AIGuys/BP_AI.BP_AI_C]
+[2025.10.21-23.10.27:527][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/AIGuys/BP_AI]
+[2025.10.21-23.10.27:527][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part2/AI/AIGuys/BP_AI" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/BP_AI.uasset" SILENT=true
+[2025.10.21-23.10.27:542][197]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/AIGuys/BP_AI
+[2025.10.21-23.10.27:542][197]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_AI95F5A535488713E539BFAEBD26923247.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/BP_AI.uasset'
+[2025.10.21-23.10.27:547][197]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/POE_Part2/AI/AIGuys/BP_AI.
+[2025.10.21-23.10.27:549][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part2/AI/BP_AI] ([5] browsable assets)...
+[2025.10.21-23.10.27:549][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/BP_AI]
+[2025.10.21-23.10.27:549][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part2/AI/BP_AI" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/BP_AI.uasset" SILENT=true
+[2025.10.21-23.10.27:557][197]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/BP_AI
+[2025.10.21-23.10.27:558][197]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_AI1CAFDB23447E519B60D282A3CA013DF8.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/BP_AI.uasset'
+[2025.10.21-23.10.27:563][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part2/AI/AIGuys/BP_AI_ArmyGuy] ([2] browsable assets)...
+[2025.10.21-23.10.27:586][197]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/POE_Part2/AI/AIGuys/BP_AI_ArmyGuy.BP_AI_ArmyGuy_C]
+[2025.10.21-23.10.27:586][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/AIGuys/BP_AI_ArmyGuy]
+[2025.10.21-23.10.27:598][197]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/AIGuys/BP_AI_ArmyGuy
+[2025.10.21-23.10.27:598][197]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_AI_ArmyGuy08A4B96C4D55B2AF1C718AAADF02045C.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/BP_AI_ArmyGuy.uasset'
+[2025.10.21-23.10.27:604][197]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/POE_Part2/AI/AIGuys/BP_AI_ArmyGuy.
+[2025.10.21-23.10.27:605][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part2/AI/AIGuys/BP_AI_Exo] ([2] browsable assets)...
+[2025.10.21-23.10.27:630][197]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/POE_Part2/AI/AIGuys/BP_AI_Exo.BP_AI_Exo_C]
+[2025.10.21-23.10.27:630][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/AIGuys/BP_AI_Exo]
+[2025.10.21-23.10.27:630][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part2/AI/AIGuys/BP_AI_Exo" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/BP_AI_Exo.uasset" SILENT=true
+[2025.10.21-23.10.27:643][197]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/AIGuys/BP_AI_Exo
+[2025.10.21-23.10.27:643][197]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_AI_ExoCAD2CFC34F2A0C0456D42FBCB020AF3F.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/BP_AI_Exo.uasset'
+[2025.10.21-23.10.27:648][197]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/POE_Part2/AI/AIGuys/BP_AI_Exo.
+[2025.10.21-23.10.27:650][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part2/AI/BP_AI_Exo] ([5] browsable assets)...
+[2025.10.21-23.10.27:650][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/BP_AI_Exo]
+[2025.10.21-23.10.27:651][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part2/AI/BP_AI_Exo" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/BP_AI_Exo.uasset" SILENT=true
+[2025.10.21-23.10.27:659][197]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/BP_AI_Exo
+[2025.10.21-23.10.27:659][197]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_AI_Exo418FE2E04484A0873B6216B4DE5DF7A6.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/BP_AI_Exo.uasset'
+[2025.10.21-23.10.27:662][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 215.173 ms (total: 3.43 sec)
+[2025.10.21-23.10.27:760][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.21-23.10.27:794][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.21-23.10.27:824][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.21-23.10.27:884][197]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.21-23.10.27:884][197]LogContentValidation: Display: Starting to validate 9 assets
+[2025.10.21-23.10.27:884][197]LogContentValidation: Enabled validators:
+[2025.10.21-23.10.27:884][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-23.10.27:884][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-23.10.27:884][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-23.10.27:884][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-23.10.27:884][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-23.10.27:884][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-23.10.27:884][197]AssetCheck: /Game/POE_Part2/AI/AIGuys/BP_AI Validating asset
+[2025.10.21-23.10.27:884][197]AssetCheck: /Game/POE_Part2/AI/BP_AI Validating asset
+[2025.10.21-23.10.27:884][197]AssetCheck: /Game/POE_Part2/AI/BP_AI Validating asset
+[2025.10.21-23.10.27:884][197]AssetCheck: /Game/POE_Part2/AI/BP_AI Validating asset
+[2025.10.21-23.10.27:884][197]AssetCheck: /Game/POE_Part2/AI/AIGuys/BP_AI_ArmyGuy Validating asset
+[2025.10.21-23.10.27:886][197]AssetCheck: /Game/POE_Part2/AI/AIGuys/BP_AI_Exo Validating asset
+[2025.10.21-23.10.27:886][197]AssetCheck: /Game/POE_Part2/AI/BP_AI_Exo Validating asset
+[2025.10.21-23.10.27:886][197]AssetCheck: /Game/POE_Part2/AI/BP_AI_Exo Validating asset
+[2025.10.21-23.10.27:886][197]AssetCheck: /Game/POE_Part2/AI/BP_AI_Exo Validating asset
+[2025.10.21-23.10.27:902][197]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.21-23.10.39:549][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-23.10.39:550][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part2/AI/AIGuys/BP_AI] ([2] browsable assets)...
+[2025.10.21-23.10.39:618][831]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part2/AI/AIGuys/BP_AI.BP_AI]
+[2025.10.21-23.10.39:618][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/AIGuys/BP_AI]
+[2025.10.21-23.10.39:618][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part2/AI/AIGuys/BP_AI" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/BP_AI.uasset" SILENT=true
+[2025.10.21-23.10.39:633][831]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/AIGuys/BP_AI
+[2025.10.21-23.10.39:633][831]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_AIF63BCA9648132F76D6456CA6F3C011AC.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/BP_AI.uasset'
+[2025.10.21-23.10.39:635][831]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part2/AI/AIGuys/AI_Controller] ([2] browsable assets)...
+[2025.10.21-23.10.39:635][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/AIGuys/AI_Controller]
+[2025.10.21-23.10.39:644][831]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/AIGuys/AI_Controller
+[2025.10.21-23.10.39:645][831]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/AI_ControllerEE27C72F4FB84452D118C28CB9DE88C6.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/AI_Controller.uasset'
+[2025.10.21-23.10.39:650][831]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/POE_Part2/AI/AIGuys/AI_Controller.
+[2025.10.21-23.10.39:651][831]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part2/AI/AIGuys/BBD_AI] ([1] browsable assets)...
+[2025.10.21-23.10.39:651][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/AIGuys/BBD_AI]
+[2025.10.21-23.10.39:651][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part2/AI/AIGuys/BBD_AI" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/BBD_AI.uasset" SILENT=true
+[2025.10.21-23.10.39:659][831]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/AIGuys/BBD_AI
+[2025.10.21-23.10.39:660][831]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BBD_AIF1EA70AC4BF00CAA62A6A6930EA86415.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/BBD_AI.uasset'
+[2025.10.21-23.10.39:662][831]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part2/AI/AIGuys/BT_AI] ([1] browsable assets)...
+[2025.10.21-23.10.39:662][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/AI/AIGuys/BT_AI]
+[2025.10.21-23.10.39:662][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part2/AI/AIGuys/BT_AI" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/BT_AI.uasset" SILENT=true
+[2025.10.21-23.10.39:672][831]LogSavePackage: Moving output files for package: /Game/POE_Part2/AI/AIGuys/BT_AI
+[2025.10.21-23.10.39:672][831]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BT_AIB8D3BAFD4DCD99CB612680AD11E5F61C.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/AI/AIGuys/BT_AI.uasset'
+[2025.10.21-23.10.39:673][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.109 ms (total: 3.56 sec)
+[2025.10.21-23.10.39:775][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.21-23.10.39:803][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.21-23.10.39:832][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.10.21-23.10.39:894][831]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.21-23.10.39:895][831]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.21-23.10.39:895][831]LogContentValidation: Enabled validators:
+[2025.10.21-23.10.39:895][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-23.10.39:895][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-23.10.39:895][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-23.10.39:895][831]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-23.10.39:895][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-23.10.39:895][831]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-23.10.39:895][831]AssetCheck: /Game/POE_Part2/AI/AIGuys/BP_AI Validating asset
+[2025.10.21-23.10.39:895][831]AssetCheck: /Game/POE_Part2/AI/AIGuys/AI_Controller Validating asset
+[2025.10.21-23.10.39:895][831]AssetCheck: /Game/POE_Part2/AI/AIGuys/BBD_AI Validating asset
+[2025.10.21-23.10.39:895][831]AssetCheck: /Game/POE_Part2/AI/AIGuys/BT_AI Validating asset
+[2025.10.21-23.10.39:915][831]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
