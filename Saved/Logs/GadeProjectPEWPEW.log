@@ -2836,3 +2836,114 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2025.10.22-21.55.44:294][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.10.22-21.55.44:297][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
 [2025.10.22-21.55.44:362][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.10.22-21.56.48:339][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42123.476562
+[2025.10.22-21.56.49:340][537]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-21.56.49:340][537]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42124.144531, Update Interval: 336.279785
+[2025.10.22-21.59.12:680][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.22-21.59.12:683][925]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base_Map' took 0.033
+[2025.10.22-21.59.12:683][925]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part2/HealthBar/BP_HealthPickUp] ([2] browsable assets)...
+[2025.10.22-21.59.12:879][925]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part2/HealthBar/BP_HealthPickUp.BP_HealthPickUp]
+[2025.10.22-21.59.12:880][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/HealthBar/BP_HealthPickUp]
+[2025.10.22-21.59.12:897][925]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part2/HealthBar/BP_HealthPickUp_Auto4
+[2025.10.22-21.59.12:897][925]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_HealthPickUp_Auto47C62DAB142ADB81CED9DC0B274E40502.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part2/HealthBar/BP_HealthPickUp_Auto4.uasset'
+[2025.10.22-21.59.12:897][925]LogFileHelpers: Auto-saving content packages took 0.216
+[2025.10.22-22.03.21:892][836]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42511.648438
+[2025.10.22-22.03.22:892][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-22.03.22:892][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42512.312500, Update Interval: 348.877838
+[2025.10.22-22.06.09:616][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.10.22-22.06.10:324][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-22.06.10:401][203]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part2/HealthBar/BP_HealthPickUp] ([2] browsable assets)...
+[2025.10.22-22.06.10:498][203]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part2/HealthBar/BP_HealthPickUp.BP_HealthPickUp]
+[2025.10.22-22.06.10:498][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/HealthBar/BP_HealthPickUp]
+[2025.10.22-22.06.10:512][203]LogSavePackage: Moving output files for package: /Game/POE_Part2/HealthBar/BP_HealthPickUp
+[2025.10.22-22.06.10:512][203]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_HealthPickUp35425A6744F0972C2233D58786F65DAE.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/HealthBar/BP_HealthPickUp.uasset'
+[2025.10.22-22.06.10:524][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.030 ms (total: 4.23 sec)
+[2025.10.22-22.06.10:598][203]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-22.06.10:598][203]LogContentValidation: Enabled validators:
+[2025.10.22-22.06.10:598][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-22.06.10:598][203]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-22.06.10:598][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-22.06.10:598][203]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-22.06.10:598][203]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-22.06.10:598][203]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-22.06.10:598][203]AssetCheck: /Game/POE_Part2/HealthBar/BP_HealthPickUp Validating asset
+[2025.10.22-22.08.25:491][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.22-22.08.25:976][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-22.08.26:047][795]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part2/HealthBar/BP_HealthPickUp] ([2] browsable assets)...
+[2025.10.22-22.08.26:112][795]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part2/HealthBar/BP_HealthPickUp.BP_HealthPickUp]
+[2025.10.22-22.08.26:112][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part2/HealthBar/BP_HealthPickUp]
+[2025.10.22-22.08.26:129][795]LogSavePackage: Moving output files for package: /Game/POE_Part2/HealthBar/BP_HealthPickUp
+[2025.10.22-22.08.26:129][795]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_HealthPickUp00EDAFA34AC8661C92812F8FFEAB92F8.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part2/HealthBar/BP_HealthPickUp.uasset'
+[2025.10.22-22.08.26:140][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.102 ms (total: 4.39 sec)
+[2025.10.22-22.08.26:215][795]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-22.08.26:215][795]LogContentValidation: Enabled validators:
+[2025.10.22-22.08.26:215][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-22.08.26:215][795]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-22.08.26:215][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-22.08.26:215][795]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-22.08.26:215][795]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-22.08.26:215][795]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-22.08.26:216][795]AssetCheck: /Game/POE_Part2/HealthBar/BP_HealthPickUp Validating asset
+[2025.10.22-22.08.37:211][862]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.22-22.08.37:218][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.22-22.08.37:219][862]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.10.22-22.08.37:224][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006242s)
+[2025.10.22-22.08.37:224][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.006287s)
+[2025.10.22-22.08.37:252][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.22-22.08.37:256][862]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.10.22-22.08.37:258][862]LogPlayLevel: PIE: World Init took: (0.001890s)
+[2025.10.22-22.08.37:258][862]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.10.22-22.08.37:258][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.22-22.08.37:258][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.22-22.08.37:258][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.22-22.08.37:258][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.22-22.08.37:258][862]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.22-22.08.37:258][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.22-22.08.37:258][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.22-22.08.37:258][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.22-22.08.37:258][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.22-22.08.37:258][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.22-22.08.37:258][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.22-22.08.37:261][862]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.22-22.08.37:301][862]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2025.10.22-22.08.37:301][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.22-22.08.37:301][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.22-22.08.37:301][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.22-22.08.37:302][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.10.22-22.08.37:302][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.10.22-22.08.37:304][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.10.22-22.08.37:304][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.10.22-22.08.37:304][862]LogInit: FAudioDevice initialized with ID 13.
+[2025.10.22-22.08.37:304][862]LogAudio: Display: Audio Device (ID: 13) registered with world 'Base_Map'.
+[2025.10.22-22.08.37:304][862]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.22-22.08.37:309][862]LogLoad: Game class is 'GM_GameMode_C'
+[2025.10.22-22.08.37:312][862]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.10.23-00.08.37
+[2025.10.22-22.08.37:313][862]LogWorld: Bringing up level for play took: 0.003551
+[2025.10.22-22.08.37:314][862]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.10.22-22.08.37:318][862]PIE: Server logged in
+[2025.10.22-22.08.37:321][862]PIE: Play in editor total start time 0,103 seconds.
+[2025.10.22-22.08.37:367][863]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.22-22.08.39:189][969]LogBlueprintUserMessages: [BP_FPS_Character_C_0] 88.0
+[2025.10.22-22.08.39:356][979]LogBlueprintUserMessages: [BP_FPS_Character_C_0] 76.0
+[2025.10.22-22.08.39:489][987]LogBlueprintUserMessages: [BP_FPS_Character_C_0] 64.0
+[2025.10.22-22.08.39:622][995]LogBlueprintUserMessages: [BP_FPS_Character_C_0] 52.0
+[2025.10.22-22.08.39:772][  4]LogBlueprintUserMessages: [BP_FPS_Character_C_0] 40.0
+[2025.10.22-22.08.39:906][ 12]LogBlueprintUserMessages: [BP_FPS_Character_C_0] 28.0
+[2025.10.22-22.08.40:088][ 23]LogBlueprintUserMessages: [BP_FPS_Character_C_0] 16.0
+[2025.10.22-22.08.40:205][ 30]LogBlueprintUserMessages: [BP_FPS_Character_C_0] 4.0
+[2025.10.22-22.08.50:246][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-22.08.50:246][630]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.10.22-22.08.50:246][630]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.22-22.08.50:246][630]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-22.08.50:247][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-22.08.50:249][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.22-22.08.50:254][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-22.08.50:277][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-22.08.50:277][630]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.22-22.08.50:277][630]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.10.22-22.08.50:280][630]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.10.22-22.08.50:288][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.22-22.08.50:357][631]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.10.22-22.08.51:782][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
