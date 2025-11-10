@@ -3614,3 +3614,418 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2025.11.10-20.10.28:583][880]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.10-20.10.28:583][880]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.10-20.10.28:583][880]AssetCheck: /Game/MainMenu_Map Validating asset
+[2025.11.10-20.11.55:430][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.11.10-20.11.55:433][347]LogStreaming: Display: FlushAsyncLoading(709): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.10-20.11.55:458][347]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.11.10-20.11.55:462][347]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Base_Map.Base_Map
+[2025.11.10-20.11.55:463][347]Cmd: MAP LOAD FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/Base_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.11.10-20.11.55:485][347]LogWorld: UWorld::CleanupWorld for MainMenu_Map, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-20.11.55:485][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.11.55:511][347]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-20.11.55:513][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.11.10-20.11.55:518][347]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-20.11.55:518][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.11.55:544][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.11.10-20.11.55:642][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.11.10-20.11.55:668][347]LogAudio: Display: Audio Device (ID: 1) registered with world 'Base_Map'.
+[2025.11.10-20.11.55:668][347]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.11.10-20.11.55:722][347]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.10-20.11.55:752][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.11.10-20.11.55:761][347]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.10-20.11.55:761][347]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,061ms to complete.
+[2025.11.10-20.11.55:870][349]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-20.12.01:367][643]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_.Pufino_-_There_Be_Dragons__freetouse_com_
+[2025.11.10-20.12.01:367][643]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_.Pufino_-_There_Be_Dragons__freetouse_com_
+[2025.11.10-20.12.01:368][643]LogActorFactory: Actor Factory spawned SoundWave /Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_.Pufino_-_There_Be_Dragons__freetouse_com_ as actor: AmbientSound /Game/Base_Map.Base_Map:PersistentLevel.AmbientSound_0
+[2025.11.10-20.12.01:368][643]LogActorFactory: Actor Factory spawned SoundWave /Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_.Pufino_-_There_Be_Dragons__freetouse_com_ as actor: AmbientSound /Game/Base_Map.Base_Map:PersistentLevel.AmbientSound_0
+[2025.11.10-20.12.02:272][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.11.10-20.12.02:278][696]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.11.10-20.12.02:282][696]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_.Pufino_-_There_Be_Dragons__freetouse_com_
+[2025.11.10-20.12.02:282][696]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_.Pufino_-_There_Be_Dragons__freetouse_com_
+[2025.11.10-20.12.02:284][696]LogActorFactory: Actor Factory spawned SoundWave /Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_.Pufino_-_There_Be_Dragons__freetouse_com_ as actor: AmbientSound /Game/Base_Map.Base_Map:PersistentLevel.AmbientSound_1
+[2025.11.10-20.12.02:284][696]LogActorFactory: Actor Factory spawned SoundWave /Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_.Pufino_-_There_Be_Dragons__freetouse_com_ as actor: AmbientSound /Game/Base_Map.Base_Map:PersistentLevel.AmbientSound_1
+[2025.11.10-20.12.06:799][951]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_.Pufino_-_There_Be_Dragons__freetouse_com_
+[2025.11.10-20.12.12:226][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-20.12.12:298][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_] ([1] browsable assets)...
+[2025.11.10-20.12.12:319][247]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_.Pufino_-_There_Be_Dragons__freetouse_com_]
+[2025.11.10-20.12.12:319][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_]
+[2025.11.10-20.12.12:372][247]LogSavePackage: Moving output files for package: /Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_
+[2025.11.10-20.12.12:372][247]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Pufino_-_There_Be_Dragons__freet748E24894B62D0219043959F91FF7DB7.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_.uasset'
+[2025.11.10-20.12.12:390][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.613 ms (total: 4.56 sec)
+[2025.11.10-20.12.12:463][247]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.10-20.12.12:463][247]LogContentValidation: Enabled validators:
+[2025.11.10-20.12.12:463][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-20.12.12:463][247]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-20.12.12:463][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-20.12.12:463][247]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-20.12.12:463][247]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-20.12.12:463][247]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-20.12.12:463][247]AssetCheck: /Game/POE_Part3/Extra/Music/Pufino_-_There_Be_Dragons__freetouse_com_ Validating asset
+[2025.11.10-20.12.13:031][279]LogSlate: Window 'Pufino_-_There_Be_Dragons__freetouse_com_' being destroyed
+[2025.11.10-20.12.13:040][279]LogSlate: Window 'Pufino_-_There_Be_Dragons__freetouse_com_' being destroyed
+[2025.11.10-20.12.14:620][371]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.10-20.12.14:628][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-20.12.14:629][371]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.11.10-20.12.14:637][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008728s)
+[2025.11.10-20.12.14:637][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.008774s)
+[2025.11.10-20.12.14:682][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.10-20.12.14:684][371]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.11.10-20.12.14:685][371]LogPlayLevel: PIE: World Init took: (0.001728s)
+[2025.11.10-20.12.14:687][371]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.11.10-20.12.14:687][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-20.12.14:687][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-20.12.14:687][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-20.12.14:687][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-20.12.14:687][371]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-20.12.14:687][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-20.12.14:687][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-20.12.14:687][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-20.12.14:687][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-20.12.14:687][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-20.12.14:687][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-20.12.14:689][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-20.12.14:730][371]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2025.11.10-20.12.14:730][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-20.12.14:730][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-20.12.14:730][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-20.12.14:730][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.11.10-20.12.14:730][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.11.10-20.12.14:733][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.11.10-20.12.14:733][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.11.10-20.12.14:733][371]LogInit: FAudioDevice initialized with ID 23.
+[2025.11.10-20.12.14:733][371]LogAudio: Display: Audio Device (ID: 23) registered with world 'Base_Map'.
+[2025.11.10-20.12.14:733][371]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.11.10-20.12.14:738][371]LogLoad: Game class is 'GM_GameMode_C'
+[2025.11.10-20.12.14:739][371]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.11.10-22.12.14
+[2025.11.10-20.12.14:740][371]LogWorld: Bringing up level for play took: 0.001994
+[2025.11.10-20.12.14:742][371]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.11.10-20.12.14:750][371]PIE: Server logged in
+[2025.11.10-20.12.14:752][371]PIE: Play in editor total start time 0,124 seconds.
+[2025.11.10-20.12.14:797][372]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-20.12.20:643][721]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-20.12.20:643][721]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.11.10-20.12.20:643][721]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.11.10-20.12.21:891][796]Cmd: Restartlevel
+[2025.11.10-20.12.21:891][796]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Base_Map?restart"
+[2025.11.10-20.12.21:891][796]LogNet: Browse: /Game/Base_Map?restart
+[2025.11.10-20.12.21:891][796]LogLoad: LoadMap: /Game/Base_Map
+[2025.11.10-20.12.21:891][796]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.11.10-20.12.21:891][796]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-20.12.21:893][796]LogBlueprintUserMessages: [BP_FPS_Character_C_0] HELPPP
+[2025.11.10-20.12.21:893][796]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-20.12.21:894][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.12.21:973][796]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-20.12.21:976][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.10-20.12.21:980][796]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.11.10-20.12.21:986][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006634s)
+[2025.11.10-20.12.21:986][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.006683s)
+[2025.11.10-20.12.21:986][796]LogAudio: Display: Audio Device (ID: 23) registered with world 'Base_Map'.
+[2025.11.10-20.12.21:986][796]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.11.10-20.12.21:989][796]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2025.11.10-20.12.21:989][796]LogLoad: Game class is 'GM_GameMode_C'
+[2025.11.10-20.12.21:991][796]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.11.10-22.12.21
+[2025.11.10-20.12.21:991][796]LogWorld: Bringing up level for play took: 0.001926
+[2025.11.10-20.12.21:995][796]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3430.000 Y=-790.000 Z=100.000] for [AP_AI_Zombie_C]
+[2025.11.10-20.12.21:997][796]LogLoad: Took 0.105180 seconds to LoadMap(/Game/UEDPIE_0_Base_Map)
+[2025.11.10-20.12.21:998][796]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/UEDPIE_0_Base_Map
+[2025.11.10-20.12.22:006][796]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-20.12.24:627][954]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/MainMenu_Map"
+[2025.11.10-20.12.24:627][954]LogNet: Browse: /Game/MainMenu_Map
+[2025.11.10-20.12.24:627][954]LogLoad: LoadMap: /Game/MainMenu_Map
+[2025.11.10-20.12.24:627][954]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.11.10-20.12.24:627][954]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-20.12.24:628][954]LogBlueprintUserMessages: [BP_FPS_Character_C_0] HELPPP
+[2025.11.10-20.12.24:628][954]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-20.12.24:629][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.12.24:700][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-20.12.24:703][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.10-20.12.24:705][954]LogStreaming: Display: FlushAsyncLoading(711): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.10-20.12.24:724][954]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenu_Map'.
+[2025.11.10-20.12.24:724][954]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu_Map
+[2025.11.10-20.12.24:726][954]LogPlayLevel: PIE: World Init took: (0.001716s)
+[2025.11.10-20.12.24:726][954]LogLoad: Game class is 'GMB_MainMenu_C'
+[2025.11.10-20.12.24:726][954]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 60) at 2025.11.10-22.12.24
+[2025.11.10-20.12.24:727][954]LogWorld: Bringing up level for play took: 0.000687
+[2025.11.10-20.12.24:727][954]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.11.10-20.12.24:730][954]LogLoad: Took 0.101509 seconds to LoadMap(/Game/MainMenu_Map)
+[2025.11.10-20.12.24:730][954]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/MainMenu_Map
+[2025.11.10-20.12.24:735][954]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-20.12.25:804][ 19]Cmd: quit
+[2025.11.10-20.12.25:805][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-20.12.25:805][ 19]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu_Map
+[2025.11.10-20.12.25:845][ 19]LogWorld: UWorld::CleanupWorld for MainMenu_Map, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-20.12.25:845][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.12.25:848][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-20.12.25:853][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.12.25:877][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-20.12.25:877][ 19]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.11.10-20.12.25:877][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.11.10-20.12.25:880][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.11.10-20.12.25:885][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.10-20.12.25:984][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.11.10-20.12.29:585][232]Cmd: DELETE
+[2025.11.10-20.12.29:586][232]Cmd: ACTOR DELETE
+[2025.11.10-20.12.29:592][232]LogEditorActor: Deleted Actor: AmbientSound
+[2025.11.10-20.12.29:622][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.10-20.12.29:623][232]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.11.10-20.15.01:659][841]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5554.198730
+[2025.11.10-20.15.02:659][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.10-20.15.02:659][844]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5554.864746, Update Interval: 327.371429
+[2025.11.10-20.19.18:873][640]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\abhij\Downloads\Alegend - Evermore (freetouse.com).mp3)
+[2025.11.10-20.19.23:731][640]LogSlate: Window 'Message' being destroyed
+[2025.11.10-20.19.23:741][640]Message dialog closed, result: No, title: Message, text: Use the selected Sound Wave 'Pufino_-_There_Be_Dragons__freetouse_com_' in the Content Browser as a template for sound(s) being imported?
+[2025.11.10-20.19.23:794][640]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Alegend_-_Evermore__freetouse_com_...
+[2025.11.10-20.19.24:422][640]LogAudioDerivedData: Display: Alegend_-_Evermore__freetouse_com_ compressed to 17.99% (from 28 258KB to 5 083KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.10-20.19.24:435][640]LogAudio: Display: Chunk stats for (SoundWave /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.Alegend_-_Evermore__freetouse_com_: Duration=164.04 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=21, Chunk0=28 bytes, Chunk1=261309 bytes, ChunkN=261807)
+[2025.11.10-20.19.24:452][640]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Alegend_-_Evermore__freetouse_com_...
+[2025.11.10-20.19.25:144][668]LogAudioDerivedData: Display: Alegend_-_Evermore__freetouse_com_ compressed to 17.99% (from 28 258KB to 5 083KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.11.10-20.19.25:154][668]LogAudio: Display: Chunk stats for (SoundWave /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.Alegend_-_Evermore__freetouse_com_: Duration=164.04 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=21, Chunk0=28 bytes, Chunk1=261309 bytes, ChunkN=261807)
+[2025.11.10-20.19.31:389][ 16]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.Alegend_-_Evermore__freetouse_com_
+[2025.11.10-20.19.31:389][ 16]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.Alegend_-_Evermore__freetouse_com_
+[2025.11.10-20.19.31:390][ 16]LogActorFactory: Actor Factory spawned SoundWave /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.Alegend_-_Evermore__freetouse_com_ as actor: AmbientSound /Game/Base_Map.Base_Map:PersistentLevel.AmbientSound_2
+[2025.11.10-20.19.31:390][ 16]LogActorFactory: Actor Factory spawned SoundWave /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.Alegend_-_Evermore__freetouse_com_ as actor: AmbientSound /Game/Base_Map.Base_Map:PersistentLevel.AmbientSound_2
+[2025.11.10-20.19.34:839][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.10-20.19.34:842][221]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2025.11.10-20.19.34:847][221]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.Alegend_-_Evermore__freetouse_com_
+[2025.11.10-20.19.34:847][221]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.Alegend_-_Evermore__freetouse_com_
+[2025.11.10-20.19.34:848][221]LogActorFactory: Actor Factory spawned SoundWave /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.Alegend_-_Evermore__freetouse_com_ as actor: AmbientSound /Game/Base_Map.Base_Map:PersistentLevel.AmbientSound_3
+[2025.11.10-20.19.34:849][221]LogActorFactory: Actor Factory spawned SoundWave /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.Alegend_-_Evermore__freetouse_com_ as actor: AmbientSound /Game/Base_Map.Base_Map:PersistentLevel.AmbientSound_3
+[2025.11.10-20.19.37:617][380]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.10-20.19.37:623][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-20.19.37:654][380]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.11.10-20.19.37:661][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006520s)
+[2025.11.10-20.19.37:661][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.006562s)
+[2025.11.10-20.19.37:685][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.11.10-20.19.37:687][380]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.11.10-20.19.37:688][380]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2025.11.10-20.19.37:689][380]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.11.10-20.19.37:689][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-20.19.37:689][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-20.19.37:689][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-20.19.37:689][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-20.19.37:689][380]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-20.19.37:689][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-20.19.37:689][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-20.19.37:689][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-20.19.37:689][380]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-20.19.37:689][380]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-20.19.37:689][380]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-20.19.37:691][380]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-20.19.37:728][380]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2025.11.10-20.19.37:728][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-20.19.37:728][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-20.19.37:728][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-20.19.37:729][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.11.10-20.19.37:729][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.11.10-20.19.37:731][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.11.10-20.19.37:731][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.11.10-20.19.37:731][380]LogInit: FAudioDevice initialized with ID 24.
+[2025.11.10-20.19.37:731][380]LogAudio: Display: Audio Device (ID: 24) registered with world 'Base_Map'.
+[2025.11.10-20.19.37:731][380]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.11.10-20.19.37:736][380]LogLoad: Game class is 'GM_GameMode_C'
+[2025.11.10-20.19.37:737][380]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.11.10-22.19.37
+[2025.11.10-20.19.37:738][380]LogWorld: Bringing up level for play took: 0.001985
+[2025.11.10-20.19.37:740][380]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.11.10-20.19.37:745][380]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2030.000 Y=2450.000 Z=120.000] for [BP_AI_ArmyGuy_C]
+[2025.11.10-20.19.37:745][380]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2030.000 Y=2450.000 Z=120.000] for [BP_AI_Human_C]
+[2025.11.10-20.19.37:747][380]PIE: Server logged in
+[2025.11.10-20.19.37:749][380]PIE: Play in editor total start time 0,126 seconds.
+[2025.11.10-20.19.37:795][381]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-20.19.40:155][521]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-20.19.40:155][521]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.11.10-20.19.40:155][521]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.11.10-20.19.41:501][599]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/MainMenu_Map"
+[2025.11.10-20.19.41:501][599]LogNet: Browse: /Game/MainMenu_Map
+[2025.11.10-20.19.41:501][599]LogLoad: LoadMap: /Game/MainMenu_Map
+[2025.11.10-20.19.41:501][599]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.11.10-20.19.41:501][599]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-20.19.41:502][599]LogBlueprintUserMessages: [BP_FPS_Character_C_0] HELPPP
+[2025.11.10-20.19.41:502][599]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-20.19.41:502][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.19.41:550][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-20.19.41:552][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.11.10-20.19.41:556][599]LogStreaming: Display: FlushAsyncLoading(712): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.10-20.19.41:574][599]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainMenu_Map'.
+[2025.11.10-20.19.41:574][599]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu_Map
+[2025.11.10-20.19.41:576][599]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2025.11.10-20.19.41:576][599]LogLoad: Game class is 'GMB_MainMenu_C'
+[2025.11.10-20.19.41:576][599]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 60) at 2025.11.10-22.19.41
+[2025.11.10-20.19.41:577][599]LogWorld: Bringing up level for play took: 0.000529
+[2025.11.10-20.19.41:577][599]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.11.10-20.19.41:578][599]LogLoad: Took 0.076875 seconds to LoadMap(/Game/MainMenu_Map)
+[2025.11.10-20.19.41:578][599]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/MainMenu_Map
+[2025.11.10-20.19.41:582][599]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-20.19.43:201][695]Cmd: quit
+[2025.11.10-20.19.43:203][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-20.19.43:203][695]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu_Map
+[2025.11.10-20.19.43:234][695]LogWorld: UWorld::CleanupWorld for MainMenu_Map, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-20.19.43:234][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.19.43:236][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-20.19.43:241][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.19.43:266][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-20.19.43:267][695]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.11.10-20.19.43:267][695]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.11.10-20.19.43:268][695]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.11.10-20.19.43:276][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.10-20.19.43:281][695]LogActorComponent: ReregisterComponent: (/Game/Base_Map.Base_Map:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2025.11.10-20.19.43:376][696]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.11.10-20.19.44:743][735]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.Alegend_-_Evermore__freetouse_com_
+[2025.11.10-20.19.51:395][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-20.19.51:468][ 96]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_] ([1] browsable assets)...
+[2025.11.10-20.19.51:498][ 96]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.Alegend_-_Evermore__freetouse_com_]
+[2025.11.10-20.19.51:498][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_]
+[2025.11.10-20.19.51:584][ 96]LogSavePackage: Moving output files for package: /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_
+[2025.11.10-20.19.51:584][ 96]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Alegend_-_Evermore__freetouse_co63BF1C44479381567843C7B5DC04D77F.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_.uasset'
+[2025.11.10-20.19.51:599][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 204.496 ms (total: 4.76 sec)
+[2025.11.10-20.19.51:677][ 96]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.10-20.19.51:677][ 96]LogContentValidation: Enabled validators:
+[2025.11.10-20.19.51:677][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-20.19.51:677][ 96]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-20.19.51:677][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-20.19.51:677][ 96]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-20.19.51:677][ 96]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-20.19.51:677][ 96]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-20.19.51:677][ 96]AssetCheck: /Game/POE_Part3/Extra/Music/Alegend_-_Evermore__freetouse_com_ Validating asset
+[2025.11.10-20.19.51:701][ 96]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.10-20.19.52:438][139]LogSlate: Window 'Alegend_-_Evermore__freetouse_com_' being destroyed
+[2025.11.10-20.19.52:450][139]LogSlate: Window 'Alegend_-_Evermore__freetouse_com_' being destroyed
+[2025.11.10-20.19.57:041][411]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.10-20.19.57:049][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.10-20.19.57:049][411]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.11.10-20.19.57:057][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007727s)
+[2025.11.10-20.19.57:057][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.007767s)
+[2025.11.10-20.19.57:101][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.11.10-20.19.57:103][411]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.11.10-20.19.57:105][411]LogPlayLevel: PIE: World Init took: (0.001703s)
+[2025.11.10-20.19.57:106][411]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.11.10-20.19.57:106][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.10-20.19.57:106][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.10-20.19.57:106][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.10-20.19.57:106][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.10-20.19.57:106][411]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.10-20.19.57:106][411]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.10-20.19.57:106][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.10-20.19.57:106][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.10-20.19.57:106][411]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.10-20.19.57:106][411]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.10-20.19.57:106][411]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.10-20.19.57:108][411]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.10-20.19.57:149][411]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2025.11.10-20.19.57:149][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.10-20.19.57:149][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.10-20.19.57:149][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.10-20.19.57:149][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.11.10-20.19.57:149][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.11.10-20.19.57:152][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.11.10-20.19.57:152][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.11.10-20.19.57:152][411]LogInit: FAudioDevice initialized with ID 25.
+[2025.11.10-20.19.57:152][411]LogAudio: Display: Audio Device (ID: 25) registered with world 'Base_Map'.
+[2025.11.10-20.19.57:152][411]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.10-20.19.57:157][411]LogLoad: Game class is 'GM_GameMode_C'
+[2025.11.10-20.19.57:159][411]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.11.10-22.19.57
+[2025.11.10-20.19.57:159][411]LogWorld: Bringing up level for play took: 0.002027
+[2025.11.10-20.19.57:161][411]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.11.10-20.19.57:167][411]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3450.000 Y=1910.000 Z=90.000] for [BP_AI_Human_C]
+[2025.11.10-20.19.57:168][411]PIE: Server logged in
+[2025.11.10-20.19.57:171][411]PIE: Play in editor total start time 0,122 seconds.
+[2025.11.10-20.19.57:217][412]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-20.20.00:679][618]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-20.20.00:679][618]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.11.10-20.20.00:679][618]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.11.10-20.20.02:776][744]Cmd: Restartlevel
+[2025.11.10-20.20.02:777][744]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Base_Map?restart"
+[2025.11.10-20.20.02:777][744]LogNet: Browse: /Game/Base_Map?restart
+[2025.11.10-20.20.02:777][744]LogLoad: LoadMap: /Game/Base_Map
+[2025.11.10-20.20.02:777][744]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.11.10-20.20.02:777][744]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-20.20.02:778][744]LogBlueprintUserMessages: [BP_FPS_Character_C_0] HELPPP
+[2025.11.10-20.20.02:778][744]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-20.20.02:779][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.20.02:831][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-20.20.02:834][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.10-20.20.02:839][744]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base_Map
+[2025.11.10-20.20.02:846][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007985s)
+[2025.11.10-20.20.02:846][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base_Map.Base_Map to /Game/UEDPIE_0_Base_Map.Base_Map (0.008043s)
+[2025.11.10-20.20.02:846][744]LogAudio: Display: Audio Device (ID: 25) registered with world 'Base_Map'.
+[2025.11.10-20.20.02:846][744]LogChaosDD: Creating Chaos Debug Draw Scene for world Base_Map
+[2025.11.10-20.20.02:848][744]LogPlayLevel: PIE: World Init took: (0.001571s)
+[2025.11.10-20.20.02:848][744]LogLoad: Game class is 'GM_GameMode_C'
+[2025.11.10-20.20.02:850][744]LogWorld: Bringing World /Game/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2025.11.10-22.20.02
+[2025.11.10-20.20.02:850][744]LogWorld: Bringing up level for play took: 0.001833
+[2025.11.10-20.20.02:857][744]LogLoad: Took 0.079725 seconds to LoadMap(/Game/UEDPIE_0_Base_Map)
+[2025.11.10-20.20.02:858][744]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/UEDPIE_0_Base_Map
+[2025.11.10-20.20.02:865][744]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-20.20.05:735][917]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.10-20.20.05:735][917]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.11.10-20.20.10:169][183]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.10-20.20.10:169][183]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.11.10-20.20.11:585][268]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/MainMenu_Map"
+[2025.11.10-20.20.11:585][268]LogNet: Browse: /Game/MainMenu_Map
+[2025.11.10-20.20.11:585][268]LogLoad: LoadMap: /Game/MainMenu_Map
+[2025.11.10-20.20.11:585][268]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base_Map
+[2025.11.10-20.20.11:585][268]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.10-20.20.11:585][268]LogBlueprintUserMessages: [BP_FPS_Character_C_0] HELPPP
+[2025.11.10-20.20.11:587][268]LogWorld: UWorld::CleanupWorld for Base_Map, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-20.20.11:588][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.20.11:642][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.10-20.20.11:645][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.10-20.20.11:647][268]LogStreaming: Display: FlushAsyncLoading(713): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.10-20.20.11:669][268]LogAudio: Display: Audio Device (ID: 25) registered with world 'MainMenu_Map'.
+[2025.11.10-20.20.11:670][268]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu_Map
+[2025.11.10-20.20.11:671][268]LogPlayLevel: PIE: World Init took: (0.002080s)
+[2025.11.10-20.20.11:671][268]LogLoad: Game class is 'GMB_MainMenu_C'
+[2025.11.10-20.20.11:673][268]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu_Map.MainMenu_Map up for play (max tick rate 60) at 2025.11.10-22.20.11
+[2025.11.10-20.20.11:673][268]LogWorld: Bringing up level for play took: 0.000699
+[2025.11.10-20.20.11:673][268]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.11.10-20.20.11:675][268]LogLoad: Took 0.089453 seconds to LoadMap(/Game/MainMenu_Map)
+[2025.11.10-20.20.11:675][268]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/MainMenu_Map
+[2025.11.10-20.20.11:680][268]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-20.20.12:468][316]Cmd: quit
+[2025.11.10-20.20.12:469][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-20.20.12:469][316]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu_Map
+[2025.11.10-20.20.12:503][316]LogWorld: UWorld::CleanupWorld for MainMenu_Map, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-20.20.12:503][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.20.12:507][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.10-20.20.12:512][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-20.20.12:537][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.10-20.20.12:537][316]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.10-20.20.12:538][316]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2025.11.10-20.20.12:540][316]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2025.11.10-20.20.12:546][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.10-20.20.12:551][316]LogActorComponent: ReregisterComponent: (/Game/Base_Map.Base_Map:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2025.11.10-20.20.12:646][317]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.11.10-20.20.16:262][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.10-20.20.16:267][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-20.20.16:341][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base_Map" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/Base_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.10-20.20.16:393][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.11.10-20.20.16:430][518]LogSavePackage: Moving output files for package: /Game/Base_Map
+[2025.11.10-20.20.16:431][518]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Base_Map256A10184F859514387FB88EADC2F544.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/Base_Map.umap'
+[2025.11.10-20.20.16:441][518]LogFileHelpers: Saving map 'Base_Map' took 0.101
+[2025.11.10-20.20.16:454][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.766 ms (total: 4.95 sec)
+[2025.11.10-20.20.16:529][518]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.10-20.20.16:530][518]LogContentValidation: Enabled validators:
+[2025.11.10-20.20.16:530][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-20.20.16:530][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-20.20.16:530][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-20.20.16:530][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-20.20.16:530][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-20.20.16:530][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-20.20.16:530][518]AssetCheck: /Game/Base_Map Validating asset
