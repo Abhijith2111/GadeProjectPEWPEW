@@ -2119,3 +2119,496 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2025.11.18-13.50.33:938][495]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.18-13.50.33:938][495]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.18-13.50.33:939][495]AssetCheck: /Game/POE_Part3/Blueprint/BPC_Leaderboard Validating asset
+[2025.11.18-13.51.00:326][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5747.665527
+[2025.11.18-13.51.01:334][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-13.51.01:334][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5748.331543, Update Interval: 314.194763
+[2025.11.18-13.52.19:348][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.11.18-13.52.19:353][751]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base_Map' took 0.062
+[2025.11.18-13.52.19:353][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_Leaderboard] ([2] browsable assets)...
+[2025.11.18-13.52.19:353][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_Leaderboard]
+[2025.11.18-13.52.19:373][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part3/Blueprint/BPC_Leaderboard_Auto4
+[2025.11.18-13.52.19:374][751]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_Leaderboard_Auto4662C6893414FB307EC1ACDA242B003E8.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part3/Blueprint/BPC_Leaderboard_Auto4.uasset'
+[2025.11.18-13.52.19:374][751]LogFileHelpers: Auto-saving content packages took 0.021
+[2025.11.18-13.54.37:620][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2025.11.18-13.54.38:081][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-13.54.38:173][164]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_Leaderboard] ([2] browsable assets)...
+[2025.11.18-13.54.38:173][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_Leaderboard]
+[2025.11.18-13.54.38:191][164]LogSavePackage: Moving output files for package: /Game/POE_Part3/Blueprint/BPC_Leaderboard
+[2025.11.18-13.54.38:192][164]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_LeaderboardCB3C7CAF42A4229F42743CB5A589CCA3.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Blueprint/BPC_Leaderboard.uasset'
+[2025.11.18-13.54.38:211][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.067 ms (total: 1.91 sec)
+[2025.11.18-13.54.38:303][164]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-13.54.38:303][164]LogContentValidation: Enabled validators:
+[2025.11.18-13.54.38:303][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-13.54.38:303][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-13.54.38:303][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-13.54.38:303][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-13.54.38:303][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-13.54.38:303][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-13.54.38:303][164]AssetCheck: /Game/POE_Part3/Blueprint/BPC_Leaderboard Validating asset
+[2025.11.18-13.56.31:395][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.11.18-13.56.32:199][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-13.56.32:285][478]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_Leaderboard] ([2] browsable assets)...
+[2025.11.18-13.56.32:285][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_Leaderboard]
+[2025.11.18-13.56.32:304][478]LogSavePackage: Moving output files for package: /Game/POE_Part3/Blueprint/BPC_Leaderboard
+[2025.11.18-13.56.32:304][478]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_Leaderboard925CF38D4AA197AC00FD149D66EF1CD1.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Blueprint/BPC_Leaderboard.uasset'
+[2025.11.18-13.56.32:321][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.479 ms (total: 2.04 sec)
+[2025.11.18-13.56.32:422][478]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-13.56.32:422][478]LogContentValidation: Enabled validators:
+[2025.11.18-13.56.32:422][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-13.56.32:422][478]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-13.56.32:422][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-13.56.32:422][478]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-13.56.32:422][478]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-13.56.32:422][478]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-13.56.32:422][478]AssetCheck: /Game/POE_Part3/Blueprint/BPC_Leaderboard Validating asset
+[2025.11.18-13.57.03:225][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6110.554688
+[2025.11.18-13.57.03:588][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-13.57.03:588][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6110.889648, Update Interval: 333.172394
+[2025.11.18-14.03.30:588][622]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6497.907715
+[2025.11.18-14.03.30:961][636]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-14.03.30:961][636]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6498.253906, Update Interval: 302.343811
+[2025.11.18-14.05.17:151][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2025.11.18-14.05.17:155][630]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base_Map' took 0.087
+[2025.11.18-14.05.17:155][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_Leaderboard] ([2] browsable assets)...
+[2025.11.18-14.05.17:155][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_Leaderboard]
+[2025.11.18-14.05.17:177][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part3/Blueprint/BPC_Leaderboard_Auto5
+[2025.11.18-14.05.17:177][630]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_Leaderboard_Auto5C6A0B70C486812ADABD7C6A6D6C67DBE.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part3/Blueprint/BPC_Leaderboard_Auto5.uasset'
+[2025.11.18-14.05.17:179][630]LogFileHelpers: Auto-saving content packages took 0.024
+[2025.11.18-14.05.18:580][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.11.18-14.05.19:423][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.05.19:521][699]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_Leaderboard] ([2] browsable assets)...
+[2025.11.18-14.05.19:521][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_Leaderboard]
+[2025.11.18-14.05.19:542][699]LogSavePackage: Moving output files for package: /Game/POE_Part3/Blueprint/BPC_Leaderboard
+[2025.11.18-14.05.19:544][699]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_Leaderboard497181714B229EBABEE9EBB5F1D5A8DA.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Blueprint/BPC_Leaderboard.uasset'
+[2025.11.18-14.05.19:563][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.557 ms (total: 2.18 sec)
+[2025.11.18-14.05.19:666][699]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.05.19:666][699]LogContentValidation: Enabled validators:
+[2025.11.18-14.05.19:666][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.05.19:666][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.05.19:666][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.05.19:666][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.05.19:666][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.05.19:666][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.05.19:666][699]AssetCheck: /Game/POE_Part3/Blueprint/BPC_Leaderboard Validating asset
+[2025.11.18-14.08.07:571][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.11.18-14.08.08:407][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.08.08:499][936]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_Leaderboard] ([2] browsable assets)...
+[2025.11.18-14.08.08:499][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_Leaderboard]
+[2025.11.18-14.08.08:526][936]LogSavePackage: Moving output files for package: /Game/POE_Part3/Blueprint/BPC_Leaderboard
+[2025.11.18-14.08.08:527][936]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_LeaderboardCF0B166B40F332D3A81BBBBA9A02E809.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Blueprint/BPC_Leaderboard.uasset'
+[2025.11.18-14.08.08:543][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.341 ms (total: 2.31 sec)
+[2025.11.18-14.08.08:633][936]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.08.08:633][936]LogContentValidation: Enabled validators:
+[2025.11.18-14.08.08:633][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.08.08:633][936]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.08.08:633][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.08.08:633][936]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.08.08:633][936]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.08.08:633][936]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.08.08:633][936]AssetCheck: /Game/POE_Part3/Blueprint/BPC_Leaderboard Validating asset
+[2025.11.18-14.08.38:287][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.08.38:377][105]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_Leaderboard] ([2] browsable assets)...
+[2025.11.18-14.08.38:377][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_Leaderboard]
+[2025.11.18-14.08.38:398][105]LogSavePackage: Moving output files for package: /Game/POE_Part3/Blueprint/BPC_Leaderboard
+[2025.11.18-14.08.38:399][105]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_LeaderboardB1CEA7E5446DAE4C1F0B2CAD05FEFCF8.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Blueprint/BPC_Leaderboard.uasset'
+[2025.11.18-14.08.38:420][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.898 ms (total: 2.45 sec)
+[2025.11.18-14.08.38:525][105]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.08.38:525][105]LogContentValidation: Enabled validators:
+[2025.11.18-14.08.38:525][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.08.38:525][105]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.08.38:525][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.08.38:525][105]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.08.38:525][105]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.08.38:525][105]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.08.38:525][105]AssetCheck: /Game/POE_Part3/Blueprint/BPC_Leaderboard Validating asset
+[2025.11.18-14.08.39:556][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.11.18-14.09.32:911][198]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6860.219238
+[2025.11.18-14.09.33:270][213]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-14.09.33:270][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6860.557617, Update Interval: 347.184052
+[2025.11.18-14.10.10:712][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.11.18-14.10.11:579][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.10.11:677][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_Leaderboard] ([2] browsable assets)...
+[2025.11.18-14.10.11:677][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_Leaderboard]
+[2025.11.18-14.10.11:701][650]LogSavePackage: Moving output files for package: /Game/POE_Part3/Blueprint/BPC_Leaderboard
+[2025.11.18-14.10.11:702][650]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_LeaderboardE95D348E4316F00DD2BCBEAA760E2AA8.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Blueprint/BPC_Leaderboard.uasset'
+[2025.11.18-14.10.11:720][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.877 ms (total: 2.59 sec)
+[2025.11.18-14.10.11:806][650]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.10.11:806][650]LogContentValidation: Enabled validators:
+[2025.11.18-14.10.11:806][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.10.11:807][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.10.11:807][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.10.11:807][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.10.11:807][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.10.11:807][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.10.11:807][650]AssetCheck: /Game/POE_Part3/Blueprint/BPC_Leaderboard Validating asset
+[2025.11.18-14.11.33:426][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.11.33:528][494]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_Leaderboard] ([2] browsable assets)...
+[2025.11.18-14.11.33:528][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_Leaderboard]
+[2025.11.18-14.11.33:553][494]LogSavePackage: Moving output files for package: /Game/POE_Part3/Blueprint/BPC_Leaderboard
+[2025.11.18-14.11.33:554][494]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_Leaderboard764CCCF54398CA1D32E47FBE8F729D08.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Blueprint/BPC_Leaderboard.uasset'
+[2025.11.18-14.11.33:571][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.169 ms (total: 2.73 sec)
+[2025.11.18-14.11.33:661][494]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.11.33:662][494]LogContentValidation: Enabled validators:
+[2025.11.18-14.11.33:662][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.11.33:662][494]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.11.33:662][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.11.33:662][494]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.11.33:662][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.11.33:662][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.11.33:662][494]AssetCheck: /Game/POE_Part3/Blueprint/BPC_Leaderboard Validating asset
+[2025.11.18-14.13.13:419][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.11.18-14.13.14:342][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.13.14:446][313]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Blueprints/GM_GameMode] ([2] browsable assets)...
+[2025.11.18-14.13.14:446][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/GM_GameMode]
+[2025.11.18-14.13.14:482][313]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/GM_GameMode
+[2025.11.18-14.13.14:484][313]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/GM_GameMode7B94AE2C44E9E2B8905ACA8EC18DB52E.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/GM_GameMode.uasset'
+[2025.11.18-14.13.14:501][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.397 ms (total: 2.89 sec)
+[2025.11.18-14.13.14:594][313]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.13.14:595][313]LogContentValidation: Enabled validators:
+[2025.11.18-14.13.14:595][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.13.14:595][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.13.14:595][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.13.14:595][313]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.13.14:595][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.13.14:595][313]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.13.14:595][313]AssetCheck: /Game/POE_Part1/Blueprints/GM_GameMode Validating asset
+[2025.11.18-14.13.30:741][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.11.18-14.13.31:682][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.13.31:763][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Blueprints/GM_GameMode] ([2] browsable assets)...
+[2025.11.18-14.13.31:763][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/GM_GameMode]
+[2025.11.18-14.13.31:795][894]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/GM_GameMode
+[2025.11.18-14.13.31:796][894]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/GM_GameModeBD20631D4E9CFF30BE9B2D89640C49C2.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/GM_GameMode.uasset'
+[2025.11.18-14.13.31:812][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.939 ms (total: 3.02 sec)
+[2025.11.18-14.13.31:894][894]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.13.31:895][894]LogContentValidation: Enabled validators:
+[2025.11.18-14.13.31:895][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.13.31:895][894]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.13.31:895][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.13.31:895][894]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.13.31:895][894]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.13.31:895][894]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.13.31:895][894]AssetCheck: /Game/POE_Part1/Blueprints/GM_GameMode Validating asset
+[2025.11.18-14.15.17:600][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.11.18-14.15.17:602][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base_Map' took 0.086
+[2025.11.18-14.15.17:603][399]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part3/UI/WB_LeaderBoard] ([2] browsable assets)...
+[2025.11.18-14.15.17:609][399]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part3/UI/WB_LeaderBoard.WB_LeaderBoard]
+[2025.11.18-14.15.17:610][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/UI/WB_LeaderBoard]
+[2025.11.18-14.15.17:628][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/POE_Part3/UI/WB_LeaderBoard_Auto6
+[2025.11.18-14.15.17:628][399]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/WB_LeaderBoard_Auto6C34882BD4923E07B00B5E5A3CA543F98.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/Autosaves/Game/POE_Part3/UI/WB_LeaderBoard_Auto6.uasset'
+[2025.11.18-14.15.17:629][399]LogFileHelpers: Auto-saving content packages took 0.027
+[2025.11.18-14.15.17:865][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.11.18-14.15.24:739][405]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.18-14.16.20:792][436]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7268.098633
+[2025.11.18-14.16.21:328][452]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-14.16.21:328][452]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7268.556641, Update Interval: 322.533661
+[2025.11.18-14.17.07:948][448]LogDerivedDataCache: C:/Users/abhij/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.18-14.17.57:789][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.11.18-14.17.58:785][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.17.58:869][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_Leaderboard] ([2] browsable assets)...
+[2025.11.18-14.17.58:869][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_Leaderboard]
+[2025.11.18-14.17.58:891][273]LogSavePackage: Moving output files for package: /Game/POE_Part3/Blueprint/BPC_Leaderboard
+[2025.11.18-14.17.58:892][273]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_Leaderboard425B35D64AC1422D67F9C9A06DDED17C.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Blueprint/BPC_Leaderboard.uasset'
+[2025.11.18-14.17.58:907][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.201 ms (total: 3.14 sec)
+[2025.11.18-14.17.58:997][273]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.17.58:997][273]LogContentValidation: Enabled validators:
+[2025.11.18-14.17.58:997][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.17.58:997][273]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.17.58:997][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.17.58:997][273]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.17.58:997][273]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.17.58:997][273]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.17.58:997][273]AssetCheck: /Game/POE_Part3/Blueprint/BPC_Leaderboard Validating asset
+[2025.11.18-14.18.01:333][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.11.18-14.18.01:998][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.18.02:088][370]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part3/UI/WB_LeaderBoard] ([2] browsable assets)...
+[2025.11.18-14.18.02:095][370]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part3/UI/WB_LeaderBoard.WB_LeaderBoard]
+[2025.11.18-14.18.02:095][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/UI/WB_LeaderBoard]
+[2025.11.18-14.18.02:096][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part3/UI/WB_LeaderBoard" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset" SILENT=true
+[2025.11.18-14.18.02:115][370]LogSavePackage: Moving output files for package: /Game/POE_Part3/UI/WB_LeaderBoard
+[2025.11.18-14.18.02:116][370]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/WB_LeaderBoard9CA4588A42947D3B12B26CB951F6C43F.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset'
+[2025.11.18-14.18.02:132][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.348 ms (total: 3.28 sec)
+[2025.11.18-14.18.02:221][370]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.18.02:221][370]LogContentValidation: Enabled validators:
+[2025.11.18-14.18.02:221][370]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.18.02:222][370]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.18.02:222][370]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.18.02:222][370]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.18.02:222][370]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.18.02:222][370]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.18.02:222][370]AssetCheck: /Game/POE_Part3/UI/WB_LeaderBoard Validating asset
+[2025.11.18-14.20.19:525][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.11.18-14.20.20:194][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.20.20:275][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_Leaderboard] ([2] browsable assets)...
+[2025.11.18-14.20.20:275][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_Leaderboard]
+[2025.11.18-14.20.20:294][848]LogSavePackage: Moving output files for package: /Game/POE_Part3/Blueprint/BPC_Leaderboard
+[2025.11.18-14.20.20:295][848]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_Leaderboard2AB44D6C4CBEBB68C85F868951BBC729.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Blueprint/BPC_Leaderboard.uasset'
+[2025.11.18-14.20.20:310][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.397 ms (total: 3.39 sec)
+[2025.11.18-14.20.20:394][848]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.20.20:394][848]LogContentValidation: Enabled validators:
+[2025.11.18-14.20.20:394][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.20.20:394][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.20.20:394][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.20.20:394][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.20.20:394][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.20.20:394][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.20.20:394][848]AssetCheck: /Game/POE_Part3/Blueprint/BPC_Leaderboard Validating asset
+[2025.11.18-14.20.46:102][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.11.18-14.20.46:755][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.20.46:845][795]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_Leaderboard] ([2] browsable assets)...
+[2025.11.18-14.20.46:845][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_Leaderboard]
+[2025.11.18-14.20.46:867][795]LogSavePackage: Moving output files for package: /Game/POE_Part3/Blueprint/BPC_Leaderboard
+[2025.11.18-14.20.46:868][795]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_Leaderboard18D1B40447B5B3FD445747B0C432E21B.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Blueprint/BPC_Leaderboard.uasset'
+[2025.11.18-14.20.46:883][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.752 ms (total: 3.52 sec)
+[2025.11.18-14.20.46:972][795]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.20.46:972][795]LogContentValidation: Enabled validators:
+[2025.11.18-14.20.46:972][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.20.46:972][795]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.20.46:972][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.20.46:972][795]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.20.46:972][795]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.20.46:972][795]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.20.46:972][795]AssetCheck: /Game/POE_Part3/Blueprint/BPC_Leaderboard Validating asset
+[2025.11.18-14.20.52:164][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.11.18-14.20.52:952][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.20.53:046][ 44]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part3/UI/WB_LeaderBoard] ([2] browsable assets)...
+[2025.11.18-14.20.53:053][ 44]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part3/UI/WB_LeaderBoard.WB_LeaderBoard]
+[2025.11.18-14.20.53:053][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/UI/WB_LeaderBoard]
+[2025.11.18-14.20.53:053][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part3/UI/WB_LeaderBoard" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset" SILENT=true
+[2025.11.18-14.20.53:070][ 44]LogSavePackage: Moving output files for package: /Game/POE_Part3/UI/WB_LeaderBoard
+[2025.11.18-14.20.53:071][ 44]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/WB_LeaderBoard5A2D0E9E4A848C5855902A8089846A61.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset'
+[2025.11.18-14.20.53:086][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.548 ms (total: 3.66 sec)
+[2025.11.18-14.20.53:166][ 44]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.20.53:166][ 44]LogContentValidation: Enabled validators:
+[2025.11.18-14.20.53:166][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.20.53:166][ 44]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.20.53:166][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.20.53:166][ 44]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.20.53:166][ 44]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.20.53:166][ 44]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.20.53:167][ 44]AssetCheck: /Game/POE_Part3/UI/WB_LeaderBoard Validating asset
+[2025.11.18-14.21.04:407][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2025.11.18-14.21.04:970][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.21.05:049][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part1/Blueprints/GM_GameMode] ([2] browsable assets)...
+[2025.11.18-14.21.05:049][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/GM_GameMode]
+[2025.11.18-14.21.05:078][510]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/GM_GameMode
+[2025.11.18-14.21.05:079][510]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/GM_GameMode415734E24C0F2D0A4F291A93DB4913F6.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/GM_GameMode.uasset'
+[2025.11.18-14.21.05:093][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.960 ms (total: 3.78 sec)
+[2025.11.18-14.21.05:175][510]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.21.05:175][510]LogContentValidation: Enabled validators:
+[2025.11.18-14.21.05:175][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.21.05:175][510]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.21.05:175][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.21.05:175][510]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.21.05:175][510]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.21.05:175][510]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.21.05:175][510]AssetCheck: /Game/POE_Part1/Blueprints/GM_GameMode Validating asset
+[2025.11.18-14.21.07:465][590]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.21.07:549][590]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part3/UI/WB_LeaderBoard] ([2] browsable assets)...
+[2025.11.18-14.21.07:555][590]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part3/UI/WB_LeaderBoard.WB_LeaderBoard]
+[2025.11.18-14.21.07:555][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/UI/WB_LeaderBoard]
+[2025.11.18-14.21.07:555][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part3/UI/WB_LeaderBoard" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset" SILENT=true
+[2025.11.18-14.21.07:572][590]LogSavePackage: Moving output files for package: /Game/POE_Part3/UI/WB_LeaderBoard
+[2025.11.18-14.21.07:572][590]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/WB_LeaderBoard6C8A36C740528DF59BA8E298F1917376.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset'
+[2025.11.18-14.21.07:588][590]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.384 ms (total: 3.90 sec)
+[2025.11.18-14.21.07:675][590]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.21.07:675][590]LogContentValidation: Enabled validators:
+[2025.11.18-14.21.07:675][590]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.21.07:675][590]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.21.07:675][590]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.21.07:675][590]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.21.07:675][590]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.21.07:675][590]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.21.07:676][590]AssetCheck: /Game/POE_Part3/UI/WB_LeaderBoard Validating asset
+[2025.11.18-14.21.08:053][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.11.18-14.22.21:389][634]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7628.679199
+[2025.11.18-14.22.21:753][647]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-14.22.21:753][648]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7629.015137, Update Interval: 307.298798
+[2025.11.18-14.25.08:557][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2025.11.18-14.25.09:471][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.25.09:554][246]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part3/UI/WB_LeaderBoard] ([2] browsable assets)...
+[2025.11.18-14.25.09:557][246]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part3/UI/WB_LeaderBoard.WB_LeaderBoard]
+[2025.11.18-14.25.09:557][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/UI/WB_LeaderBoard]
+[2025.11.18-14.25.09:557][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part3/UI/WB_LeaderBoard" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset" SILENT=true
+[2025.11.18-14.25.09:580][246]LogSavePackage: Moving output files for package: /Game/POE_Part3/UI/WB_LeaderBoard
+[2025.11.18-14.25.09:580][246]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/WB_LeaderBoard6824C2454EA980269720619BD5C0C242.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset'
+[2025.11.18-14.25.09:597][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.711 ms (total: 4.03 sec)
+[2025.11.18-14.25.09:713][246]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.25.09:714][246]LogContentValidation: Enabled validators:
+[2025.11.18-14.25.09:714][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.25.09:714][246]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.25.09:714][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.25.09:714][246]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.25.09:714][246]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.25.09:714][246]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.25.09:714][246]AssetCheck: /Game/POE_Part3/UI/WB_LeaderBoard Validating asset
+[2025.11.18-14.26.18:251][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.11.18-14.26.19:029][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.26.19:162][ 18]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part3/UI/WB_LeaderBoard] ([2] browsable assets)...
+[2025.11.18-14.26.19:168][ 18]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part3/UI/WB_LeaderBoard.WB_LeaderBoard]
+[2025.11.18-14.26.19:168][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/UI/WB_LeaderBoard]
+[2025.11.18-14.26.19:168][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part3/UI/WB_LeaderBoard" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset" SILENT=true
+[2025.11.18-14.26.19:192][ 18]LogSavePackage: Moving output files for package: /Game/POE_Part3/UI/WB_LeaderBoard
+[2025.11.18-14.26.19:193][ 18]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/WB_LeaderBoard00C67EB041648D7A21DCB09EE74828D4.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset'
+[2025.11.18-14.26.19:211][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.473 ms (total: 4.21 sec)
+[2025.11.18-14.26.19:294][ 18]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.26.19:294][ 18]LogContentValidation: Enabled validators:
+[2025.11.18-14.26.19:294][ 18]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.26.19:294][ 18]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.26.19:294][ 18]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.26.19:294][ 18]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.26.19:294][ 18]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.26.19:294][ 18]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.26.19:295][ 18]AssetCheck: /Game/POE_Part3/UI/WB_LeaderBoard Validating asset
+[2025.11.18-14.26.36:745][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.11.18-14.26.37:384][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.26.37:485][677]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part3/UI/WB_LeaderBoard] ([2] browsable assets)...
+[2025.11.18-14.26.37:489][677]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part3/UI/WB_LeaderBoard.WB_LeaderBoard]
+[2025.11.18-14.26.37:489][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/UI/WB_LeaderBoard]
+[2025.11.18-14.26.37:489][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part3/UI/WB_LeaderBoard" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset" SILENT=true
+[2025.11.18-14.26.37:511][677]LogSavePackage: Moving output files for package: /Game/POE_Part3/UI/WB_LeaderBoard
+[2025.11.18-14.26.37:512][677]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/WB_LeaderBoardECA2A6504C4EA470ECA8268B7BB3F621.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset'
+[2025.11.18-14.26.37:530][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.254 ms (total: 4.36 sec)
+[2025.11.18-14.26.37:627][677]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.26.37:627][677]LogContentValidation: Enabled validators:
+[2025.11.18-14.26.37:627][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.26.37:627][677]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.26.37:627][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.26.37:627][677]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.26.37:627][677]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.26.37:627][677]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.26.37:628][677]AssetCheck: /Game/POE_Part3/UI/WB_LeaderBoard Validating asset
+[2025.11.18-14.27.54:557][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.11.18-14.27.55:380][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.27.55:459][ 65]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.11.18-14.27.55:521][ 65]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part1/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2025.11.18-14.27.55:521][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.11.18-14.27.55:582][ 65]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/BP_FPS_Character
+[2025.11.18-14.27.55:582][ 65]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_Character814078784082227A5D595FB49A01B849.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_FPS_Character.uasset'
+[2025.11.18-14.27.55:599][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 218.749 ms (total: 4.57 sec)
+[2025.11.18-14.27.55:682][ 65]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.27.55:682][ 65]LogContentValidation: Enabled validators:
+[2025.11.18-14.27.55:682][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.27.55:682][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.27.55:682][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.27.55:682][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.27.55:682][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.27.55:682][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.27.55:682][ 65]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
+[2025.11.18-14.28.09:746][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7977.037598
+[2025.11.18-14.28.10:130][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-14.28.10:130][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7977.389648, Update Interval: 354.697113
+[2025.11.18-14.30.28:984][545]LogStreaming: Display: FlushAsyncLoading(676): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-14.30.34:703][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.11.18-14.30.35:792][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.30.35:889][904]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.11.18-14.30.35:998][904]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part1/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2025.11.18-14.30.35:998][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.11.18-14.30.36:054][904]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/BP_FPS_Character
+[2025.11.18-14.30.36:054][904]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_Character4CAA1A4B43F4F21036FCC5B95DF1C1A2.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_FPS_Character.uasset'
+[2025.11.18-14.30.36:068][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 276.133 ms (total: 4.85 sec)
+[2025.11.18-14.30.36:161][904]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.30.36:161][904]LogContentValidation: Enabled validators:
+[2025.11.18-14.30.36:161][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.30.36:161][904]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.30.36:161][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.30.36:161][904]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.30.36:161][904]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.30.36:161][904]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.30.36:161][904]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
+[2025.11.18-14.32.07:354][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2025.11.18-14.32.08:001][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.32.08:109][516]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part3/UI/WB_LeaderBoard] ([2] browsable assets)...
+[2025.11.18-14.32.08:112][516]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part3/UI/WB_LeaderBoard.WB_LeaderBoard]
+[2025.11.18-14.32.08:113][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/UI/WB_LeaderBoard]
+[2025.11.18-14.32.08:113][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part3/UI/WB_LeaderBoard" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset" SILENT=true
+[2025.11.18-14.32.08:134][516]LogSavePackage: Moving output files for package: /Game/POE_Part3/UI/WB_LeaderBoard
+[2025.11.18-14.32.08:135][516]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/WB_LeaderBoardFBA61B3042D5C8AD1BEA31953DC04F09.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset'
+[2025.11.18-14.32.08:149][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.451 ms (total: 5.00 sec)
+[2025.11.18-14.32.08:242][516]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.32.08:242][516]LogContentValidation: Enabled validators:
+[2025.11.18-14.32.08:242][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.32.08:242][516]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.32.08:242][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.32.08:242][516]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.32.08:242][516]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.32.08:242][516]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.32.08:242][516]AssetCheck: /Game/POE_Part3/UI/WB_LeaderBoard Validating asset
+[2025.11.18-14.34.36:295][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.11.18-14.34.37:166][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.34.37:249][404]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part3/UI/WB_LeaderBoard] ([2] browsable assets)...
+[2025.11.18-14.34.37:255][404]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/POE_Part3/UI/WB_LeaderBoard.WB_LeaderBoard]
+[2025.11.18-14.34.37:255][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/UI/WB_LeaderBoard]
+[2025.11.18-14.34.37:255][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POE_Part3/UI/WB_LeaderBoard" FILE="../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset" SILENT=true
+[2025.11.18-14.34.37:277][404]LogSavePackage: Moving output files for package: /Game/POE_Part3/UI/WB_LeaderBoard
+[2025.11.18-14.34.37:277][404]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/WB_LeaderBoardE4219E594A0B2D1CAF588098F08FC281.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/UI/WB_LeaderBoard.uasset'
+[2025.11.18-14.34.37:292][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.237 ms (total: 5.12 sec)
+[2025.11.18-14.34.37:388][404]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.34.37:388][404]LogContentValidation: Enabled validators:
+[2025.11.18-14.34.37:388][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.34.37:388][404]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.34.37:388][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.34.37:388][404]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.34.37:388][404]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.34.37:388][404]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.34.37:388][404]AssetCheck: /Game/POE_Part3/UI/WB_LeaderBoard Validating asset
+[2025.11.18-14.34.47:413][704]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.18-14.34.47:462][704]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.18-14.34.47:472][704]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.18-14.34.47:493][705]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.18-14.35.00:456][330]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPC_LeaderboardEntry
+[2025.11.18-14.35.00:469][330]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.18-14.35.01:865][389]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/POE_Part3/Blueprint/BPC_LeaderboardEntry.BPC_LeaderboardEntry
+[2025.11.18-14.35.01:865][389]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.11.18-14.35.03:092][412]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8390.424805
+[2025.11.18-14.35.03:471][426]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-14.35.03:471][426]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8390.759766, Update Interval: 326.162903
+[2025.11.18-14.35.04:321][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.11.18-14.35.04:702][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.35.04:789][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_LeaderboardEntry] ([2] browsable assets)...
+[2025.11.18-14.35.04:789][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_LeaderboardEntry]
+[2025.11.18-14.35.04:805][468]LogSavePackage: Moving output files for package: /Game/POE_Part3/Blueprint/BPC_LeaderboardEntry
+[2025.11.18-14.35.04:805][468]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_LeaderboardEntryD386C30149FEDDBDBB80E39C88AD37DB.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Blueprint/BPC_LeaderboardEntry.uasset'
+[2025.11.18-14.35.04:826][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.859 ms (total: 5.25 sec)
+[2025.11.18-14.35.04:914][468]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.35.04:914][468]LogContentValidation: Enabled validators:
+[2025.11.18-14.35.04:914][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.35.04:914][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.35.04:914][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.35.04:914][468]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.35.04:914][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.35.04:914][468]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.35.04:914][468]AssetCheck: /Game/POE_Part3/Blueprint/BPC_LeaderboardEntry Validating asset
+[2025.11.18-14.35.04:965][468]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.18-14.35.24:648][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.18-14.35.25:175][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.35.25:262][240]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POE_Part3/Blueprint/BPC_LeaderboardEntry] ([2] browsable assets)...
+[2025.11.18-14.35.25:262][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part3/Blueprint/BPC_LeaderboardEntry]
+[2025.11.18-14.35.25:274][240]LogSavePackage: Moving output files for package: /Game/POE_Part3/Blueprint/BPC_LeaderboardEntry
+[2025.11.18-14.35.25:276][240]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BPC_LeaderboardEntryBE5808E1496AE8628E8068B406117EF5.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part3/Blueprint/BPC_LeaderboardEntry.uasset'
+[2025.11.18-14.35.25:290][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.819 ms (total: 5.36 sec)
+[2025.11.18-14.35.25:371][240]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.35.25:371][240]LogContentValidation: Enabled validators:
+[2025.11.18-14.35.25:371][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.35.25:371][240]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.35.25:371][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.35.25:371][240]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.35.25:371][240]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.35.25:371][240]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.35.25:371][240]AssetCheck: /Game/POE_Part3/Blueprint/BPC_LeaderboardEntry Validating asset
+[2025.11.18-14.36.34:694][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.11.18-14.36.35:564][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.18-14.36.35:654][118]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/POE_Part1/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.11.18-14.36.35:725][118]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/POE_Part1/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2025.11.18-14.36.35:725][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/POE_Part1/Blueprints/BP_FPS_Character]
+[2025.11.18-14.36.35:794][118]LogSavePackage: Moving output files for package: /Game/POE_Part1/Blueprints/BP_FPS_Character
+[2025.11.18-14.36.35:795][118]LogSavePackage: Moving '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Saved/BP_FPS_Character855A7FAF43E2C74A69A22288666E6C18.tmp' to '../../../../../../Users/abhij/Uni Work C/Coding/Unreal/GadeProjectPEWPEW/Content/POE_Part1/Blueprints/BP_FPS_Character.uasset'
+[2025.11.18-14.36.35:807][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 244.257 ms (total: 5.61 sec)
+[2025.11.18-14.36.35:890][118]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.18-14.36.35:890][118]LogContentValidation: Enabled validators:
+[2025.11.18-14.36.35:890][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.18-14.36.35:890][118]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.18-14.36.35:890][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.18-14.36.35:890][118]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.18-14.36.35:890][118]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.18-14.36.35:890][118]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.18-14.36.35:890][118]AssetCheck: /Game/POE_Part1/Blueprints/BP_FPS_Character Validating asset
