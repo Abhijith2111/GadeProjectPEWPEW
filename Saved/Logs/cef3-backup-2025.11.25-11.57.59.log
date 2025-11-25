@@ -1,0 +1,20 @@
+[32136:15688:1125/135609.731:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[32136:15688:1125/135609.889:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[32136:26512:1125/135609.925:ERROR:network_sandbox.cc(304)] Failed to grant sandbox access to cache directory C:\Users\robin\OneDrive\Documents\GitHub\GadeProjectPEWPEW\Saved\webcache_6613\Default\Cache\Cache_Data: Access is denied. (0x5)
+[32136:26512:1125/135609.933:ERROR:network_sandbox.cc(319)] Failed to grant sandbox access to shared dictionary directory C:\Users\robin\OneDrive\Documents\GitHub\GadeProjectPEWPEW\Saved\webcache_6613\Default\Shared Dictionary: Access is denied. (0x5)
+[32136:26512:1125/135609.942:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\robin\OneDrive\Documents\GitHub\GadeProjectPEWPEW\Saved\webcache_6613\Default\Network: Access is denied. (0x5)
+[32136:3360:1125/135609.944:ERROR:network_sandbox.cc(408)] Failed to grant sandbox access to network context data directory C:\Users\robin\OneDrive\Documents\GitHub\GadeProjectPEWPEW\Saved\webcache_6613\Default\Safe Browsing Network: Access is denied. (0x5)
+[32136:15688:1125/135613.851:ERROR:network_service_instance_impl.cc(286)] Encountered error while migrating network context data or granting sandbox access for C:\Users\robin\OneDrive\Documents\GitHub\GadeProjectPEWPEW\Saved\webcache_6613\Default\Network. Result: 11: The operation completed successfully. (0x0)
+[32136:15688:1125/135613.851:ERROR:network_service_instance_impl.cc(286)] Encountered error while migrating network context data or granting sandbox access for C:\Users\robin\OneDrive\Documents\GitHub\GadeProjectPEWPEW\Saved\webcache_6613\Default\Safe Browsing Network. Result: 11: Overlapped I/O operation is in progress. (0x3E5)
+[32136:15688:1125/135615.540:ERROR:device_event_log_impl.cc(196)] [13:56:15.220] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28168:34444:1125/135615.664:WARNING:sqlite_persistent_cookie_store.cc(1596)] Unable to delete session cookies.
+[28168:8432:1125/135615.684:ERROR:backend_impl.cc(1370)] Unable to map Index file
+[28168:32132:1125/135615.684:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[28168:23232:1125/135615.684:ERROR:disk_cache.cc(208)] Unable to create cache
+[32136:31516:1125/135619.810:ERROR:first_party_sets_database.cc(941)] First-Party Sets database updating run_count failed.
+[32136:29484:1125/135621.833:ERROR:quota_database.cc(1048)] Could not open the quota database, resetting.
+[32136:29484:1125/135621.833:ERROR:quota_database.cc(1048)] Could not open the quota database, resetting.
+[32136:29484:1125/135621.833:ERROR:quota_database.cc(1053)] Failed to reset the quota database.
+[32136:29484:1125/135621.833:ERROR:quota_database.cc(1053)] Failed to reset the quota database.
+[32136:3360:1125/135640.889:ERROR:simple_index_file.cc(327)] Failed to write the temporary index file
+[32136:15688:1125/135759.967:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
