@@ -1,0 +1,5 @@
+[13216:35532:1125/154010.897:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13216:35532:1125/154011.072:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13216:35532:1125/154016.533:ERROR:device_event_log_impl.cc(196)] [15:40:16.296] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13216:13036:1125/154021.352:ERROR:first_party_sets_database.cc(941)] First-Party Sets database updating run_count failed.
+[13216:5556:1125/154038.441:ERROR:simple_index_file.cc(327)] Failed to write the temporary index file

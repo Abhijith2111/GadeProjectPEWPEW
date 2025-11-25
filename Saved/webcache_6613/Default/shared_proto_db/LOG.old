@@ -1,2 +1,3 @@
-2025/11/25-13:48:07.233 73ec Creating DB C:\Users\robin\OneDrive\Documents\GitHub\GadeProjectPEWPEW\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2025/11/25-13:48:07.237 73ec Reusing MANIFEST C:\Users\robin\OneDrive\Documents\GitHub\GadeProjectPEWPEW\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2025/11/25-15:09:53.459 8698 Reusing MANIFEST C:\Users\robin\OneDrive\Documents\GitHub\GadeProjectPEWPEW\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2025/11/25-15:09:53.460 8698 Recovering log #3
+2025/11/25-15:09:53.460 8698 Reusing old log C:\Users\robin\OneDrive\Documents\GitHub\GadeProjectPEWPEW\Saved\webcache_6613\Default\shared_proto_db/000003.log 

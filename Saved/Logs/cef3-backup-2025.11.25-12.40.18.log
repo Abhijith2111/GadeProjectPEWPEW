@@ -1,0 +1,10 @@
+[12352:28272:1125/143955.162:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12352:28272:1125/143955.298:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12352:28272:1125/144001.417:ERROR:device_event_log_impl.cc(196)] [14:40:01.315] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[12352:26708:1125/144004.400:ERROR:quota_database.cc(1048)] Could not open the quota database, resetting.
+[12352:26708:1125/144004.401:ERROR:quota_database.cc(1048)] Could not open the quota database, resetting.
+[12352:26708:1125/144004.401:ERROR:quota_database.cc(1053)] Failed to reset the quota database.
+[12352:26708:1125/144004.402:ERROR:quota_database.cc(1053)] Failed to reset the quota database.
+[12352:26088:1125/144006.024:ERROR:first_party_sets_database.cc(941)] First-Party Sets database updating run_count failed.
+[12352:8824:1125/144017.294:ERROR:simple_index_file.cc(327)] Failed to write the temporary index file
+[12352:28272:1125/144018.669:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
